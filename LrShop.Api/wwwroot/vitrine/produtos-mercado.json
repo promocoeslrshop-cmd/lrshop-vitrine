@@ -208,6 +208,58 @@
     "criadoEm": "2026-04-20T07:29:47.2577556Z"
   },
   {
+    "id": 26423,
+    "titulo": "Milka Oreo Sandwich - Chocolate \u0026 Biscoito Oreo - Importado",
+    "preco": 24.7,
+    "link": "https://s.shopee.com.br/30kfnk4sla",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264582/lrshop/sjt3alfcefvojzxufyta.jpg",
+    "ativo": true,
+    "score": 95,
+    "categoria": "chocolate importado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:23:03.2601334Z"
+  },
+  {
+    "id": 26420,
+    "titulo": "Milka Chocolate Mousse Dessert - Importado -  100g",
+    "preco": 24.7,
+    "link": "https://s.shopee.com.br/1BJ1cNBrTv",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264576/lrshop/dni1wcaqeptlr6crwdhp.jpg",
+    "ativo": true,
+    "score": 95,
+    "categoria": "chocolate importado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:22:56.9027959Z"
+  },
+  {
+    "id": 26418,
+    "titulo": "Milka - Chocolate Oreo Brownie - Importado Da \u00C1ustria",
+    "preco": 24.7,
+    "link": "https://s.shopee.com.br/809Lkvlqc0",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264574/lrshop/sk63qpgfebxyjzpjugie.jpg",
+    "ativo": true,
+    "score": 95,
+    "categoria": "chocolate importado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:22:54.8308009Z"
+  },
+  {
+    "id": 26173,
+    "titulo": "Porta P\u00E3o Cesto P\u00E3es Bolacha Biscoito Organizador MDF Tampa Retr\u00E1til Decora\u00E7\u00E3o Cozinha Organiza\u00E7\u00E3o",
+    "preco": 28,
+    "link": "https://s.shopee.com.br/9ALJ3sWgce",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778260036/lrshop/e0344cfgexiweaqzv35s.jpg",
+    "ativo": true,
+    "score": 95,
+    "categoria": "organizadores cozinha",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:07:16.5283910Z"
+  },
+  {
     "id": 9625,
     "titulo": "KIT Shampoo \u002B M\u00E1scara Tonalizante Matizze Hidralise Avel\u00E3 Chocolate Morena Iluminada S/ Am\u00F4nia",
     "preco": 28.89,
@@ -219,6 +271,32 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T14:27:40.8420674Z"
+  },
+  {
+    "id": 25675,
+    "titulo": "Kit de Guloseimas Doces para Festas de Anivers\u00E1rio KIT04 Prontos para Uso!",
+    "preco": 32.5,
+    "link": "https://s.shopee.com.br/3g0MQ9HagM",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255140/lrshop/omarvnqwprehahfummld.jpg",
+    "ativo": true,
+    "score": 95,
+    "categoria": "kit snacks",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:45:41.3600605Z"
+  },
+  {
+    "id": 25751,
+    "titulo": "Kit 2 Brinquedo Cachorro Pel\u00FAcia Macaco 40 cm com Apito Divers\u00E3o Pet Savana Pet",
+    "preco": 33.9,
+    "link": "https://s.shopee.com.br/gMkqmLaws",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255250/lrshop/vww3e1dsyvvsrpe3b3fx.jpg",
+    "ativo": true,
+    "score": 95,
+    "categoria": "brinquedo pet",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:47:31.0469400Z"
   },
   {
     "id": 2698,
@@ -273,6 +351,19 @@
     "criadoEm": "2026-04-23T19:39:28.2246223Z"
   },
   {
+    "id": 25656,
+    "titulo": "KitKat ao Leite 417,6g Chocolate  | 36 Unidades de 11,6g | Mini  Nestl\u00E9",
+    "preco": 39.99,
+    "link": "https://s.shopee.com.br/6L17b2TqF4",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255115/lrshop/mkj18tpqwktiysk1ebmc.jpg",
+    "ativo": true,
+    "score": 95,
+    "categoria": "kit snacks",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:45:16.1778895Z"
+  },
+  {
     "id": 8281,
     "titulo": "Kit Rende 25 Sacolinhas Para Anivers\u00E1rio Infantil Pipoquinha Bala Pirulito Chiclete",
     "preco": 45.9,
@@ -284,6 +375,45 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-25T17:54:31.0775234Z"
+  },
+  {
+    "id": 26035,
+    "titulo": "Kit 2 Balan\u00E7as Digital Cozinha e Bioimped\u00E2ncia Para Dieta e Nutri\u00E7\u00E3o Fitness",
+    "preco": 45.99,
+    "link": "https://s.shopee.com.br/AUqgcWKft0",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778258461/lrshop/oqmzadqcdgxal6j7k0ys.jpg",
+    "ativo": true,
+    "score": 95,
+    "categoria": "kit cozinha",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:41:01.5458113Z"
+  },
+  {
+    "id": 25673,
+    "titulo": "Kit 10 Snacks de Arroz Sem Gl\u00FAten e Sem Leite Belive | Escolha seus 2 sabores favoritos",
+    "preco": 47.22,
+    "link": "https://s.shopee.com.br/4VZTPgEPzT",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255138/lrshop/jyotokqub8iea0bltwxv.jpg",
+    "ativo": true,
+    "score": 95,
+    "categoria": "kit snacks",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:45:39.0561278Z"
+  },
+  {
+    "id": 25870,
+    "titulo": "Kit Completo Maca Power M\u00E1scara 500 g \u002B condicionador 1L \u002B Shampoo 1L \u002B \u00D3leo Maca Power 50ml",
+    "preco": 49,
+    "link": "https://s.shopee.com.br/1LcRZWl8oA",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778256846/lrshop/nqzxrc8s2mrhgnjhbtil.jpg",
+    "ativo": true,
+    "score": 95,
+    "categoria": "kit beleza",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:14:06.7059463Z"
   },
   {
     "id": 367,
@@ -312,6 +442,32 @@
     "criadoEm": "2026-04-19T19:38:53.1021640Z"
   },
   {
+    "id": 25457,
+    "titulo": "Mochilinha Personalizada Sacochila Bolsas pra Doces Festa infantil 20 x 28 cm",
+    "preco": 52.8,
+    "link": "https://s.shopee.com.br/40dCmR5GR5",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778253092/lrshop/lp1astbatxaezl9fjjwl.jpg",
+    "ativo": true,
+    "score": 95,
+    "categoria": "mochila infantil",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:11:33.6067654Z"
+  },
+  {
+    "id": 25231,
+    "titulo": "Kit Completo Maca Power karseell  M\u00E1scara 500 g \u002B condicionador 1L \u002B Shampoo 1L \u002B \u00D3leo P 50ml",
+    "preco": 54,
+    "link": "https://s.shopee.com.br/3B45krbo7j",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251308/lrshop/amw2lo7f6h1gmmmnzofo.jpg",
+    "ativo": true,
+    "score": 95,
+    "categoria": "kit beleza",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:41:48.8226329Z"
+  },
+  {
     "id": 4330,
     "titulo": "Caixa Kit Anivers\u00E1rio Infantil 50 Sacolinha Surpresa Doces Guloseimas Festa",
     "preco": 57.49,
@@ -336,6 +492,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T20:22:39.0603363Z"
+  },
+  {
+    "id": 25657,
+    "titulo": "Kit Caixa de Guloseimas Para Anivers\u00E1rio Infantil 50 Sacolinha Surpresa Doces Guloseimas Festa",
+    "preco": 59.9,
+    "link": "https://s.shopee.com.br/2LUyph1pxL",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255117/lrshop/jdtruqmd9djsbn8v0bes.jpg",
+    "ativo": true,
+    "score": 95,
+    "categoria": "kit snacks",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:45:19.0169877Z"
   },
   {
     "id": 3141,
@@ -364,6 +533,110 @@
     "criadoEm": "2026-04-24T11:30:01.6161385Z"
   },
   {
+    "id": 26439,
+    "titulo": "3 Barra De Chocolate Importado - Milka Lu (biscoito Doce)",
+    "preco": 61.1,
+    "link": "https://s.shopee.com.br/7AaElRApUO",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264615/lrshop/upik9nl7eo78cvd6nzku.jpg",
+    "ativo": true,
+    "score": 95,
+    "categoria": "chocolate importado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:23:35.9417185Z"
+  },
+  {
+    "id": 26434,
+    "titulo": "3 Chocolate Milka Caramel (caramelo) Liquido Importado 100g",
+    "preco": 61.1,
+    "link": "https://s.shopee.com.br/6pxOMndIyA",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264605/lrshop/dflm0eunv5upxanlplvq.jpg",
+    "ativo": true,
+    "score": 95,
+    "categoria": "chocolate importado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:23:25.8486171Z"
+  },
+  {
+    "id": 26422,
+    "titulo": "3 Chocolate Milka Oreo Sandwich 92 Gr Importado",
+    "preco": 61.1,
+    "link": "https://s.shopee.com.br/3qJmnH1i4h",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264581/lrshop/uaoaud3xgxacbozvkgeb.jpg",
+    "ativo": true,
+    "score": 95,
+    "categoria": "chocolate importado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:23:02.3428310Z"
+  },
+  {
+    "id": 26419,
+    "titulo": "3 Chocolate Milka Alpine Milk - Ao Leite Importado",
+    "preco": 61.74,
+    "link": "https://s.shopee.com.br/2VoPCp6mm3",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264575/lrshop/ihnyanwpo8ozqm0yo8fg.jpg",
+    "ativo": true,
+    "score": 95,
+    "categoria": "chocolate importado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:22:55.7615697Z"
+  },
+  {
+    "id": 26433,
+    "titulo": "3 Barra De Chocolate Importado Milka Tuc (biscoito Salgado)",
+    "preco": 61.75,
+    "link": "https://s.shopee.com.br/70GoZ6cfdB",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264604/lrshop/g3u9sp52sao5brcvnz3n.jpg",
+    "ativo": true,
+    "score": 95,
+    "categoria": "chocolate importado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:23:24.7791815Z"
+  },
+  {
+    "id": 26427,
+    "titulo": "3  Barra De Chocolate Importado - Milka Lu (biscoito Doce)",
+    "preco": 61.75,
+    "link": "https://s.shopee.com.br/W3KpA1PoW",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264591/lrshop/snebgykapi88kzztmkgo.jpg",
+    "ativo": true,
+    "score": 95,
+    "categoria": "chocolate importado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:23:11.7956978Z"
+  },
+  {
+    "id": 26421,
+    "titulo": "3 Milka Chocolate Mousse Dessert - Importado -  100g",
+    "preco": 61.75,
+    "link": "https://s.shopee.com.br/4AwdBt0ROf",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264580/lrshop/yagfixdxpl7fwspf5i1i.jpg",
+    "ativo": true,
+    "score": 95,
+    "categoria": "chocolate importado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:23:01.1887022Z"
+  },
+  {
+    "id": 25674,
+    "titulo": "Kit Sacolinha Guloseimas Para Festas E Anivers\u00E1rio Infantil Saquinho Com 12 Doces Pronto",
+    "preco": 66.9,
+    "link": "https://s.shopee.com.br/3VgwDqIE1J",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255139/lrshop/lszbrqfceidabw3xrkbx.jpg",
+    "ativo": true,
+    "score": 95,
+    "categoria": "kit snacks",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:45:40.3020778Z"
+  },
+  {
     "id": 355,
     "titulo": "Picador De Alimentos Moedor De Carne Mixer El\u00E9trica Processador Cozinha Casa Alho - 110v-220v",
     "preco": 69.88,
@@ -390,6 +663,19 @@
     "criadoEm": "2026-04-16T00:45:46.8014620Z"
   },
   {
+    "id": 25232,
+    "titulo": "Kit Maca Power Completo com 7 Produtos \u2013 Cronograma Capilar \u002B M\u00E1scara 500g, Shampoo 1L, Condicionador 1L  Reparador 50ml",
+    "preco": 75,
+    "link": "https://s.shopee.com.br/2VoOxdeLTf",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251309/lrshop/xugbzyukngftphrqkrpg.jpg",
+    "ativo": true,
+    "score": 95,
+    "categoria": "kit beleza",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:41:50.2894210Z"
+  },
+  {
     "id": 1392,
     "titulo": "Bab\u00E1 Eletr\u00F4nica C\u00E2mera De Seguraca Wi-Fi 1080p Pet Girat\u00F3ria Vis\u00E3o Noturna Infravermelho Microfone",
     "preco": 79.95,
@@ -401,6 +687,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-20T14:29:49.4330980Z"
+  },
+  {
+    "id": 26438,
+    "titulo": "Chocolate Kinder Shoco Bons White Importado Novidade",
+    "preco": 94.99,
+    "link": "https://s.shopee.com.br/5VS0mNHAry",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264610/lrshop/hplixcajcutgsdcniysg.jpg",
+    "ativo": true,
+    "score": 95,
+    "categoria": "chocolate importado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:23:31.4009574Z"
   },
   {
     "id": 1602,
@@ -832,6 +1131,19 @@
     "criadoEm": "2026-05-08T12:14:41.6585510Z"
   },
   {
+    "id": 24940,
+    "titulo": "Peso Muscula\u00E7\u00E3o Kit 6 Em 1 At\u00E9 20kg Halter Dumbel Ajust\u00E1vel Cor Preto Peso Muscula\u00E7\u00E3o \u0022Envio Rapido\u0022",
+    "preco": 292.9,
+    "link": "https://s.shopee.com.br/9fHZOqCJWM",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778246097/lrshop/dxvdil6a8qqlmel4v9cb.jpg",
+    "ativo": true,
+    "score": 95,
+    "categoria": "halter fitness",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T13:14:57.7900141Z"
+  },
+  {
     "id": 14130,
     "titulo": "Smartwatch com tela grande HD, \u00E0 prova d\u0027\u00E1gua, Bluetooth, monitoramento de chamadas e sono Rel\u00F3gio",
     "preco": 299,
@@ -1014,6 +1326,32 @@
     "criadoEm": "2026-04-16T02:28:47.6116302Z"
   },
   {
+    "id": 26428,
+    "titulo": "Pepero Stray Kids White Cookies Biscoito Coberto de Chocolate importado",
+    "preco": 23.67,
+    "link": "https://s.shopee.com.br/BQUQY2gUU",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264595/lrshop/ujafie1lgxwcnbeda8o9.jpg",
+    "ativo": true,
+    "score": 94,
+    "categoria": "chocolate importado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:23:16.1269793Z"
+  },
+  {
+    "id": 26424,
+    "titulo": "Chocolate Su\u00ED\u00E7o Toblerone  Importado Su\u00ED\u00E7a tradicional 100g",
+    "preco": 33.24,
+    "link": "https://s.shopee.com.br/7KtexhoNyT",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264583/lrshop/pnbslwzkkbdpjgjyzfnf.jpg",
+    "ativo": true,
+    "score": 94,
+    "categoria": "chocolate importado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:23:04.2018894Z"
+  },
+  {
     "id": 1069,
     "titulo": "Mochila T\u00E9rmica Cooler 23L Bolsa Grande Imperme\u00E1vel Praia Cerveja Bebidas Piquenique Camping Marmita Lanche",
     "preco": 35,
@@ -1066,6 +1404,19 @@
     "criadoEm": "2026-04-20T17:57:46.5923006Z"
   },
   {
+    "id": 26088,
+    "titulo": " Rel\u00F3gio Inteligente Infantil LED para Jogos com 18 Jogos, Despertador, Calculadora, Monitoramento do Sono, C\u00E2mera e",
+    "preco": 55.23,
+    "link": "https://s.shopee.com.br/1748swZNm",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778259908/lrshop/y2appykxycze7vlzhexc.jpg",
+    "ativo": true,
+    "score": 94,
+    "categoria": "camera infantil",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:05:09.3144314Z"
+  },
+  {
     "id": 10931,
     "titulo": "Kit 2x Chocolate Bombom Fini Topcau Pouch 55g Dentaduras \u2013 Doce Importado, Presente Infantil",
     "preco": 58.82,
@@ -1077,6 +1428,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T17:13:25.5883042Z"
+  },
+  {
+    "id": 26431,
+    "titulo": "3 Barra De Chocolate Milka Milkinis cremoso 100g - Importado",
+    "preco": 62.7,
+    "link": "https://s.shopee.com.br/9zuQ8cRFXb",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264601/lrshop/mzs9ik5j1mchqtp44duo.jpg",
+    "ativo": true,
+    "score": 94,
+    "categoria": "chocolate importado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:23:22.6138725Z"
   },
   {
     "id": 18444,
@@ -1144,6 +1508,19 @@
     "criadoEm": "2026-04-16T03:45:08.6546113Z"
   },
   {
+    "id": 26018,
+    "titulo": "Kit Conjunto Talher Faqueiro com at\u00E9 25 Pe\u00E7as A\u00E7o Inox Cozinha Com Suporte Para Gaveta - Preto - Vermelho - Rosa",
+    "preco": 15.67,
+    "link": "https://s.shopee.com.br/AUqgcVXevn",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778258443/lrshop/jgpnddj4vujmxtfy8y23.jpg",
+    "ativo": true,
+    "score": 93,
+    "categoria": "kit cozinha",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:40:43.7754944Z"
+  },
+  {
     "id": 2215,
     "titulo": "Kit 3 Tapetes Higi\u00EAnico Lav\u00E1vel Super Absor\u00E7\u00E3o 200 Lavagens",
     "preco": 19.9,
@@ -1181,6 +1558,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-21T23:44:49.3904431Z"
+  },
+  {
+    "id": 26189,
+    "titulo": "Kit 3/6/9 Potes Herm\u00E9ticos Vidro Tampa Bambu 250ml Veda\u00E7\u00E3o Silicone Organizador Temperos Cozinha",
+    "preco": 29.88,
+    "link": "https://s.shopee.com.br/5ApAIXktKT",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778260061/lrshop/pbtt1llrueg5qpupunjp.jpg",
+    "ativo": true,
+    "score": 93,
+    "categoria": "organizadores cozinha",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:07:42.0070382Z"
   },
   {
     "id": 5122,
@@ -1363,6 +1753,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-16T00:18:21.8491984Z"
+  },
+  {
+    "id": 25661,
+    "titulo": "Kit 2 Caixas Pirulito Dipnlik Sortidos 50un Doces Para Festa e Revenda",
+    "preco": 26,
+    "link": "https://s.shopee.com.br/1qYiEmOZOh",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255124/lrshop/nr4j3uasvegfsiaguztm.jpg",
+    "ativo": true,
+    "score": 92,
+    "categoria": "kit snacks",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:45:24.9080915Z"
   },
   {
     "id": 4037,
@@ -1729,6 +2132,19 @@
     "criadoEm": "2026-05-05T22:53:53.8014365Z"
   },
   {
+    "id": 26169,
+    "titulo": "Kit 10 Marmita Potes 800ml com Travas Laterais BPA FREE - Alimentos organizadores de congelador",
+    "preco": 36,
+    "link": "https://s.shopee.com.br/3B45uqT88b",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778260029/lrshop/igspc4ch4bjss76ky2ok.jpg",
+    "ativo": true,
+    "score": 91,
+    "categoria": "organizadores cozinha",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:07:10.5520431Z"
+  },
+  {
     "id": 8819,
     "titulo": "\u200BKIT 2 Halteres Beb\u00EA FITNESS Chocalho Brinquedo Sensorial Duplo Sem BPA",
     "preco": 38.28,
@@ -1885,6 +2301,19 @@
     "criadoEm": "2026-04-20T13:14:09.5958114Z"
   },
   {
+    "id": 25306,
+    "titulo": "Kit Lavagem de Moto Shampoo Neutro V-Floc Vonixx e Shampoo para Barro V-Mol Vonixx Pincel e Luva",
+    "preco": 61.9,
+    "link": "https://s.shopee.com.br/BQUBTSKSJ",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251416/lrshop/vwxlg7zxgzroixhj1egk.jpg",
+    "ativo": true,
+    "score": 91,
+    "categoria": "kit limpeza moto",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:43:36.9862681Z"
+  },
+  {
     "id": 8130,
     "titulo": "Smartwatch QCY GS S6 Bluetooth, Esportivo Corrida Ciclismo, Monitoramento Cardiaco e Sa\u00FAde",
     "preco": 99,
@@ -2013,6 +2442,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-01T13:14:39.8174559Z"
+  },
+  {
+    "id": 26186,
+    "titulo": "Kit 48 Etiquetas para Temperos e Condimentos Vinil Imperme\u00E1vel Organiza\u00E7\u00E3o de Cozinha",
+    "preco": 11.9,
+    "link": "https://s.shopee.com.br/1Vvrvnyqlb",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778260056/lrshop/plw7f4sumslba15fppf4.jpg",
+    "ativo": true,
+    "score": 90,
+    "categoria": "organizadores cozinha",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:07:37.3173810Z"
   },
   {
     "id": 1614,
@@ -2249,6 +2691,19 @@
     "criadoEm": "2026-05-05T21:15:12.6188037Z"
   },
   {
+    "id": 25839,
+    "titulo": "Kit 1 - 2 C\u00E2mera Seguran\u00E7a Prova D\u0027\u00E1gua Infravermelho L\u00E2mpada Externa 360 Sem Fio Wifi 2.4G - ICSEE YOOSEE",
+    "preco": 59.99,
+    "link": "https://s.shopee.com.br/9zuPzi3qOy",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778256805/lrshop/igfnpoa1xo66peoakvl8.jpg",
+    "ativo": true,
+    "score": 90,
+    "categoria": "camera wifi",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:13:26.1671483Z"
+  },
+  {
     "id": 9486,
     "titulo": "Kit 2 Porta Frios Herm\u00E9tico 770ml Presunto Queijo Mantimentos Organizador de Geladeira Acrilico",
     "preco": 64.9,
@@ -2418,19 +2873,6 @@
     "criadoEm": "2026-05-08T12:15:08.3573492Z"
   },
   {
-    "id": 15253,
-    "titulo": "Melissa Free Platform Chinelo Slide Original 35859",
-    "preco": 239.99,
-    "link": "https://s.shopee.com.br/5q4mak6Vh5",
-    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778016278/lrshop/gjfqlmgfon6x9ugse9uk.jpg",
-    "ativo": true,
-    "score": 90,
-    "categoria": "chinelo feminino",
-    "desconto": "",
-    "precoOriginal": null,
-    "criadoEm": "2026-05-05T21:24:39.0340442Z"
-  },
-  {
     "id": 6151,
     "titulo": "Castanha De Caju Em Rapadura 20un/ 6kg Doces Atacado Cesta!",
     "preco": 250,
@@ -2494,6 +2936,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T23:25:24.6103836Z"
+  },
+  {
+    "id": 26019,
+    "titulo": "Kit 100 Sacos De Confeitar Medio Confeitaria Bolo Doce Cupcake PRONTO ENTREGA RJ",
+    "preco": 10.9,
+    "link": "https://s.shopee.com.br/8piSdRe0JZ",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778258444/lrshop/lhhl6tcckn08icmoc6bp.jpg",
+    "ativo": true,
+    "score": 89,
+    "categoria": "kit cozinha",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:40:44.7364855Z"
   },
   {
     "id": 490,
@@ -2665,19 +3120,6 @@
     "criadoEm": "2026-04-28T13:29:12.3451343Z"
   },
   {
-    "id": 8705,
-    "titulo": "Chinelos elegantes e antiderrapantes em cores doces com design MEIJILE",
-    "preco": 26.8,
-    "link": "https://s.shopee.com.br/8KlvuExWmt",
-    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1777384502/lrshop/xj2j2hxcahicoxmx5dbs.jpg",
-    "ativo": true,
-    "score": 89,
-    "categoria": "chinelo feminino",
-    "desconto": "",
-    "precoOriginal": null,
-    "criadoEm": "2026-04-28T13:55:02.8307659Z"
-  },
-  {
     "id": 830,
     "titulo": "Cesto P\u00E3o Porta P\u00E3es Bolacha Biscoito Organizador MDF Retr\u00E1til Cozinha Armazenamento",
     "preco": 28,
@@ -2715,6 +3157,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-26T12:40:21.8116341Z"
+  },
+  {
+    "id": 25095,
+    "titulo": "Umidificador Cogumelo LED \u002B 5 Ess\u00EAncia hidrossol\u00FAvel | Difusor eletrico | Aromatizador de ambiente",
+    "preco": 34.99,
+    "link": "https://s.shopee.com.br/10zb8mrx9j",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778249479/lrshop/fpbti9ufxf4nizeuz9gt.jpg",
+    "ativo": true,
+    "score": 89,
+    "categoria": "umidificador de ar",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:11:20.2883026Z"
   },
   {
     "id": 6782,
@@ -2821,6 +3276,19 @@
     "criadoEm": "2026-04-24T16:53:59.9186475Z"
   },
   {
+    "id": 26180,
+    "titulo": "Porta Tempero Girat\u00F3rio 360\u00BA 12 Potes de Vidro Condimento Organizador Qualidade Excelente Imediato!!",
+    "preco": 46.33,
+    "link": "https://s.shopee.com.br/60OHI4hid0",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778260048/lrshop/iqfjur9adpkxc2q0lz8t.jpg",
+    "ativo": true,
+    "score": 89,
+    "categoria": "organizadores cozinha",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:07:28.5326827Z"
+  },
+  {
     "id": 11959,
     "titulo": "T900 Ultra Smartwatch Rel\u00F3gio Inteligente Prova Bluetooth Monitoramento De Sa\u00FAde Exerc\u00EDcio Contagem",
     "preco": 46.8,
@@ -2925,6 +3393,19 @@
     "criadoEm": "2026-05-05T20:43:03.6758670Z"
   },
   {
+    "id": 25655,
+    "titulo": "Kit 3 Chocolates Lacta Oreo 540g",
+    "preco": 59.9,
+    "link": "https://s.shopee.com.br/5VS0bVX0vp",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255114/lrshop/hhh2suxrol4ue80bi1oq.jpg",
+    "ativo": true,
+    "score": 89,
+    "categoria": "kit snacks",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:45:14.9839544Z"
+  },
+  {
     "id": 11947,
     "titulo": "2026 S10 ultra smartwatch masculino com chamadas Bluetooth Monitoramento De Sa\u00FAde Contagem De Exerc\u00EDcios",
     "preco": 59.99,
@@ -2949,6 +3430,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T19:59:48.8376075Z"
+  },
+  {
+    "id": 26441,
+    "titulo": "3 Chocolate Milka Mousse Dessert 100g Importado",
+    "preco": 61.1,
+    "link": "https://s.shopee.com.br/901swo3qlx",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264623/lrshop/iitlp68yksmssya0lbwa.jpg",
+    "ativo": true,
+    "score": 89,
+    "categoria": "chocolate importado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:23:44.4137223Z"
   },
   {
     "id": 8579,
@@ -3001,6 +3495,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-18T03:34:46.2947087Z"
+  },
+  {
+    "id": 25844,
+    "titulo": "Camera Externa Ip a Prova D\u0027\u00E1gua Wifi Dupla 2 Em 1 com Visao Noturna C/ Infravermelho YOOSEE",
+    "preco": 119.99,
+    "link": "https://s.shopee.com.br/70GoQCFGUc",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778256810/lrshop/iva0o0pojln74sjyjttj.jpg",
+    "ativo": true,
+    "score": 89,
+    "categoria": "camera wifi",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:13:31.1970718Z"
   },
   {
     "id": 6428,
@@ -3146,6 +3653,19 @@
     "criadoEm": "2026-05-05T19:33:39.5129725Z"
   },
   {
+    "id": 25253,
+    "titulo": "Kit Shampoo e Condicionador Macadamia  \u002B Col\u00E1geno  1L \u2013 Limpeza e Hidrata\u00E7\u00E3o Profunda Capilar",
+    "preco": 23.9,
+    "link": "https://s.shopee.com.br/8ASli5L7w7",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251338/lrshop/ezg4v7n1m5k9fyqogmfx.jpg",
+    "ativo": true,
+    "score": 88,
+    "categoria": "kit beleza",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:42:18.5528221Z"
+  },
+  {
     "id": 1497,
     "titulo": "Luva de Frio para Motoqueiro Motoboy Motocross \u2013 T\u00E9rmica, Antiderrapante e Confort\u00E1vel Tamanho \u00DAnico",
     "preco": 23.9,
@@ -3172,6 +3692,19 @@
     "criadoEm": "2026-05-05T20:31:24.2549407Z"
   },
   {
+    "id": 26442,
+    "titulo": "Biscoito Lotus Biscoff Chocolate Recheado Importado 110g",
+    "preco": 26.55,
+    "link": "https://s.shopee.com.br/9fHZk21JQ9",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264625/lrshop/u6vr0rt8e4xyxx9vihgo.jpg",
+    "ativo": true,
+    "score": 88,
+    "categoria": "chocolate importado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:23:45.5103005Z"
+  },
+  {
     "id": 1917,
     "titulo": "Kit Automotivo Flanela de Microfibra 30x40cm \u002B 05 Pincel Detalhamento \u002B Luva Microfibra",
     "preco": 26.9,
@@ -3183,6 +3716,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-20T22:12:44.0695650Z"
+  },
+  {
+    "id": 26430,
+    "titulo": "Kit 2 Reeses BIG CUP Chocolate ao Leite com Manteiga de Amendoim Importado dos EUA Reese\u0027s 39g",
+    "preco": 28.9,
+    "link": "https://s.shopee.com.br/AADqKvQcCc",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264600/lrshop/nufasplhmrpfltfznpfx.jpg",
+    "ativo": true,
+    "score": 88,
+    "categoria": "chocolate importado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:23:21.2196630Z"
   },
   {
     "id": 8430,
@@ -3276,6 +3822,19 @@
     "criadoEm": "2026-04-22T14:36:07.7408696Z"
   },
   {
+    "id": 25695,
+    "titulo": "Garrafa T\u00E9rmica Personalizada Branca 800mL com Grava\u00E7\u00E3o a Laser \u2013Ideal Para \u00C1gua Caf\u00E9 Academia Trabalho Viagens",
+    "preco": 44.99,
+    "link": "https://s.shopee.com.br/1VvrqDT1jX",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255171/lrshop/u9lfan8sblbuianq81h9.jpg",
+    "ativo": true,
+    "score": 88,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:46:11.8796144Z"
+  },
+  {
     "id": 6874,
     "titulo": "Kit 18 Ferramentas De Reparo Remo\u00E7\u00E3o Amassados Carro Manual",
     "preco": 45,
@@ -3315,6 +3874,19 @@
     "criadoEm": "2026-05-05T16:46:35.1856732Z"
   },
   {
+    "id": 25669,
+    "titulo": "KIT BISCOITO MARILAN 1OO UND",
+    "preco": 49.9,
+    "link": "https://s.shopee.com.br/4fstbzDmeO",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255133/lrshop/erxtxsxdr1nfeffh1tzq.jpg",
+    "ativo": true,
+    "score": 88,
+    "categoria": "kit snacks",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:45:34.3347959Z"
+  },
+  {
     "id": 4891,
     "titulo": "Perfume Feminino Doce 130ml | Alta Fixa\u00E7\u00E3o 8h | Inspirado em Importado | Envio R\u00E1pido",
     "preco": 59,
@@ -3328,6 +3900,45 @@
     "criadoEm": "2026-04-23T10:29:01.5473144Z"
   },
   {
+    "id": 25830,
+    "titulo": "C\u00E2mera Seguran\u00E7a Prova D\u0027\u00E1gua Infravermelho L\u00E2mpada Externa 360 Sem Fio Wifi 2.4G G4",
+    "preco": 59.88,
+    "link": "https://s.shopee.com.br/3g0MS41YYf",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778256795/lrshop/ybly22v82gppvvliqr5j.jpg",
+    "ativo": true,
+    "score": 88,
+    "categoria": "camera wifi",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:13:15.8407349Z"
+  },
+  {
+    "id": 25151,
+    "titulo": "Tomada Carregador Carro Usb Tipo C Pd3.0 Voltimetro Vermelho",
+    "preco": 59.9,
+    "link": "https://s.shopee.com.br/70GoHuEs0E",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778249570/lrshop/iiexhep5oqtus4dsjwrm.jpg",
+    "ativo": true,
+    "score": 88,
+    "categoria": "suporte celular carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:12:51.9239695Z"
+  },
+  {
+    "id": 26425,
+    "titulo": "Milka Chocolate Importado Barra 270 a 300g",
+    "preco": 64.9,
+    "link": "https://s.shopee.com.br/4fstmolYM3",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264585/lrshop/evu9ycvnjp1ofssifceo.jpg",
+    "ativo": true,
+    "score": 88,
+    "categoria": "chocolate importado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:23:06.2295703Z"
+  },
+  {
     "id": 19488,
     "titulo": "Kit Sabonete e Creme Hidratante Facial Pele de Porcelana Kokeshi o Milagre do Arroz",
     "preco": 66.42,
@@ -3339,6 +3950,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T23:11:08.4368887Z"
+  },
+  {
+    "id": 25692,
+    "titulo": "Garrafa T\u00E9rmica Inox 650ml 950ml Fitness Academia Esportiva Personalizada Bebida Quente e Fria Hydra",
+    "preco": 68,
+    "link": "https://s.shopee.com.br/4Awd17IsJn",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255167/lrshop/ad8l44l6lp370vyadcla.jpg",
+    "ativo": true,
+    "score": 88,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:46:08.3537094Z"
   },
   {
     "id": 18226,
@@ -3417,6 +4041,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T23:33:22.6009581Z"
+  },
+  {
+    "id": 26437,
+    "titulo": "1x Unidade Barra de Chocolate Sahne - Nuss 160g Nestle - chocolate importado Chile - Pronta Entrega",
+    "preco": 89,
+    "link": "https://s.shopee.com.br/5ApANlIRXo",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264609/lrshop/b1cd847wtxbdzrayfowi.jpg",
+    "ativo": true,
+    "score": 88,
+    "categoria": "chocolate importado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:23:30.2240852Z"
   },
   {
     "id": 20879,
@@ -3638,6 +4275,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-08T12:44:06.5736702Z"
+  },
+  {
+    "id": 26153,
+    "titulo": "Kit 10x Cheirinho de Carro Automotivo Emoji Aromatizante Lava Rapido Atacado",
+    "preco": 14.99,
+    "link": "https://s.shopee.com.br/1gFI844Rhi",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778260008/lrshop/q906qebz1w97q47s5tje.jpg",
+    "ativo": true,
+    "score": 87,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:06:48.9662977Z"
   },
   {
     "id": 4375,
@@ -3939,6 +4589,19 @@
     "criadoEm": "2026-04-19T20:15:38.3835675Z"
   },
   {
+    "id": 25874,
+    "titulo": "Kit 6/12/18/24 Touca de Cetim \u002B Escova M\u00E1gica Desembara\u00E7adora Cores \u00DAnicas Atacado Profissional",
+    "preco": 41.5,
+    "link": "https://s.shopee.com.br/30kfYaenQa",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778256850/lrshop/ctgn9b99ng4e6fq6uoz8.jpg",
+    "ativo": true,
+    "score": 87,
+    "categoria": "kit beleza",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:14:11.2814055Z"
+  },
+  {
     "id": 729,
     "titulo": "Mini Lumin\u00E1ria Astronauta Projetora Estrelada LED Luz Noturna com Efeitos de Nebulosa /C\u00E9u Estrelado",
     "preco": 44.88,
@@ -4106,6 +4769,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T20:32:09.1398054Z"
+  },
+  {
+    "id": 25678,
+    "titulo": "Guloseimas Para Festa infantil Pirulito e Balas Kit 5 Pacotes c/300 unidades",
+    "preco": 79.63,
+    "link": "https://s.shopee.com.br/2qRFQcKlNF",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255145/lrshop/kmxflhnnhfqvcpipg482.jpg",
+    "ativo": true,
+    "score": 87,
+    "categoria": "kit snacks",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:45:45.6445823Z"
   },
   {
     "id": 1770,
@@ -4355,6 +5031,19 @@
     "criadoEm": "2026-04-20T22:13:53.4526178Z"
   },
   {
+    "id": 26429,
+    "titulo": "Reeses BIG CUP Chocolate ao Leite com Manteiga de Amendoim Importado dos EUA Reese\u0027s Big Cup 39g",
+    "preco": 14.99,
+    "link": "https://s.shopee.com.br/gMl1T0mTf",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264596/lrshop/r4nsi87z8wv1aaqzgiu5.jpg",
+    "ativo": true,
+    "score": 86,
+    "categoria": "chocolate importado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:23:17.0990842Z"
+  },
+  {
     "id": 18920,
     "titulo": "Kit 2 Umidificador de Ar Port\u00E1til ou 1un. Difusor LED 250ml Purificador Casa Quarto Trabalho",
     "preco": 15,
@@ -4420,6 +5109,19 @@
     "criadoEm": "2026-04-22T18:38:45.2542059Z"
   },
   {
+    "id": 26298,
+    "titulo": "Kit Touca e Luva Prote\u00E7\u00E3o Para Moto Motoqueiro Frio Inverno \u002B Touca Ninja Balaclava Motoboy",
+    "preco": 19.9,
+    "link": "https://s.shopee.com.br/7ppvMSe3lg",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778261447/lrshop/vs6u31fqeipnebxtpohg.jpg",
+    "ativo": true,
+    "score": 86,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:30:47.5836874Z"
+  },
+  {
     "id": 4290,
     "titulo": "Kit 15UN Tem\u00E1ticos Fini Balas Doces e Balas C\u00EDtricas 15g Cada Sortidos",
     "preco": 19.99,
@@ -4457,6 +5159,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T23:25:21.4574821Z"
+  },
+  {
+    "id": 25668,
+    "titulo": "Kit Biscoito Leite - 50 Unidades de 11,8G",
+    "preco": 22.13,
+    "link": "https://s.shopee.com.br/W3KeKTe6Z",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255132/lrshop/w8bwnb0mmhvs2xb7m1rh.jpg",
+    "ativo": true,
+    "score": 86,
+    "categoria": "kit snacks",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:45:33.1721958Z"
   },
   {
     "id": 3380,
@@ -4509,6 +5224,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-22T20:37:41.2308179Z"
+  },
+  {
+    "id": 26170,
+    "titulo": "Nicho Porta Tempero Condimentos e Toalha com Prateleira Organizador Branco Preto Tubo Metal P/ Cozinha",
+    "preco": 24.9,
+    "link": "https://s.shopee.com.br/9KejGBNFiP",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778260032/lrshop/c03jop5592laaprcxizw.jpg",
+    "ativo": true,
+    "score": 86,
+    "categoria": "organizadores cozinha",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:07:12.5232773Z"
   },
   {
     "id": 23294,
@@ -4719,6 +5447,19 @@
     "criadoEm": "2026-04-20T17:57:04.6801706Z"
   },
   {
+    "id": 26440,
+    "titulo": "Chocolate Milka Mmmax Alpine Milk 250 Importado Original Pronta Entrega",
+    "preco": 61.9,
+    "link": "https://s.shopee.com.br/8KmC9a6O7l",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264618/lrshop/n8m1lf4y1fozsd71wojo.jpg",
+    "ativo": true,
+    "score": 86,
+    "categoria": "chocolate importado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:23:39.9352270Z"
+  },
+  {
     "id": 12509,
     "titulo": "Kit Skin Care Geleia de col\u00E1geno e olhos de gueixa kokeshi",
     "preco": 61.9,
@@ -4756,6 +5497,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-08T12:46:24.2102649Z"
+  },
+  {
+    "id": 26089,
+    "titulo": "Rel\u00F3gio Inteligente Infantil com Tela HD, C\u00E2mera, Contador de Passos, Monitoramento do Sono, Alarme, Jogos para",
+    "preco": 85.35,
+    "link": "https://s.shopee.com.br/BQULBvw2p",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778259910/lrshop/mfv1u1pddif8gtzylijs.jpg",
+    "ativo": true,
+    "score": 86,
+    "categoria": "camera infantil",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:05:11.2756854Z"
   },
   {
     "id": 18412,
@@ -4836,17 +5590,17 @@
     "criadoEm": "2026-04-22T05:31:52.9990428Z"
   },
   {
-    "id": 14821,
-    "titulo": "Chocolate Articulado Decorativo Criativo Impresso 3D Lind\u00EDssimo",
-    "preco": 9.99,
-    "link": "https://s.shopee.com.br/8AShMcv4ql",
-    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778015939/lrshop/aioc1nwx1ibpdkq2mprt.jpg",
+    "id": 25791,
+    "titulo": "06 Luvas de Dedo Gamer Anti-Suor Profissional Pro-Player para Celular Jogos Free Fire Fortnite e FPS",
+    "preco": 5.99,
+    "link": "https://s.shopee.com.br/5ApAD7BeCj",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255309/lrshop/d0k1lk65vksc8i3gchkg.jpg",
     "ativo": true,
     "score": 85,
-    "categoria": "chinelo feminino",
+    "categoria": "acessorios celular",
     "desconto": "",
     "precoOriginal": null,
-    "criadoEm": "2026-05-05T21:19:00.2791519Z"
+    "criadoEm": "2026-05-08T15:48:30.0839161Z"
   },
   {
     "id": 9779,
@@ -4873,6 +5627,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-26T13:17:21.4367619Z"
+  },
+  {
+    "id": 26042,
+    "titulo": "KIT 12 Mini Forminha De Silicone 5x3x2CM E 6,5x3X4,5Cm Para Bolo Forma De Cupcakes \u00D9til Colorido",
+    "preco": 10.8,
+    "link": "https://s.shopee.com.br/9ALJ24Pkas",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778258468/lrshop/lhy8bevrf4sly1yg2kj9.jpg",
+    "ativo": true,
+    "score": 85,
+    "categoria": "kit cozinha",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:41:08.5041256Z"
   },
   {
     "id": 6520,
@@ -4925,6 +5692,32 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-22T17:55:55.9866394Z"
+  },
+  {
+    "id": 25252,
+    "titulo": "\uD83D\uDC84 Batom M\u00E1gico 24H Mudan\u00E7a de Cor kit 6 pcs Longa Dura\u00E7\u00E3o | Hidrata\u00E7\u00E3o Labial | Lipstick Transformador\uFF08embala colorida )",
+    "preco": 15.49,
+    "link": "https://s.shopee.com.br/8V5c6hJrG9",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251337/lrshop/i2dknsszziiwuj1b1olw.jpg",
+    "ativo": true,
+    "score": 85,
+    "categoria": "kit beleza",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:42:17.6067091Z"
+  },
+  {
+    "id": 26039,
+    "titulo": "Kit de Forma Assadeira de Bolo Redonda Alta (escolha o tamanho) - V2",
+    "preco": 16.9,
+    "link": "https://s.shopee.com.br/8V5cEqSHwg",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778258465/lrshop/cemtqtrbdshf1pzuco3x.jpg",
+    "ativo": true,
+    "score": 85,
+    "categoria": "kit cozinha",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:41:05.5164412Z"
   },
   {
     "id": 1070,
@@ -5304,6 +6097,19 @@
     "criadoEm": "2026-05-05T21:08:16.0261517Z"
   },
   {
+    "id": 25832,
+    "titulo": "C\u00E2mera Seguran\u00E7a Prova D\u0027\u00E1gua Infravermelho L\u00E2mpada Sem Fio 360 Wifi Icsee Prova Dagua Security",
+    "preco": 48.89,
+    "link": "https://s.shopee.com.br/20s8T07twl",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778256797/lrshop/bymnwn3hix4ocesmsfbm.jpg",
+    "ativo": true,
+    "score": 85,
+    "categoria": "camera wifi",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:13:18.0296933Z"
+  },
+  {
     "id": 20603,
     "titulo": "Macaco Sanfona de Carro Suporta 2 Toneladas 2000 kgs Jacar\u00E9 Universal Original para Troca de Pneu",
     "preco": 48.96,
@@ -5367,6 +6173,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T21:07:32.0573511Z"
+  },
+  {
+    "id": 25833,
+    "titulo": "C\u00E2mera Seguran\u00E7a Prova D\u0027\u00E1gua Infravermelho L\u00E2mpada Externa 360 Sem Fio Wifi 2.4G-App V360 Pro -G4",
+    "preco": 56.99,
+    "link": "https://s.shopee.com.br/809Lc1l3ly",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778256798/lrshop/gr8baovopocovencaft2.jpg",
+    "ativo": true,
+    "score": 85,
+    "categoria": "camera wifi",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:13:19.0002641Z"
   },
   {
     "id": 4621,
@@ -5447,6 +6266,19 @@
     "criadoEm": "2026-05-05T22:53:56.4303635Z"
   },
   {
+    "id": 25843,
+    "titulo": "C\u00E2mera Externa Ip a Prova D\u0027\u00E1gua com Infravermelho Alarme Wifi Hd Sensor De Movimento yoosee / icsee",
+    "preco": 98.99,
+    "link": "https://s.shopee.com.br/6pxODtFtpZ",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778256809/lrshop/yei5dzld19lryxbdx6dy.jpg",
+    "ativo": true,
+    "score": 85,
+    "categoria": "camera wifi",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:13:30.2846179Z"
+  },
+  {
     "id": 12243,
     "titulo": "Garrafa T\u00E9rmica Zaya Tuut 1L Canelada Design Sofisticado, Mant\u00E9m Bebidas Quentes E Frias, Ideal Para Caf\u00E9 E Ch\u00E1 Nude",
     "preco": 112.52,
@@ -5525,6 +6357,19 @@
     "criadoEm": "2026-05-05T21:10:42.4114252Z"
   },
   {
+    "id": 26198,
+    "titulo": "Atacado KIT 10 15 e20 Mini Caixinha De Som 887 Bluetooth Port\u00E1til Bateria Recarreg\u00E1vel",
+    "preco": 153.9,
+    "link": "https://s.shopee.com.br/1VvrvpUTwY",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778260073/lrshop/gbrukrcddfiqiv5sutsc.jpg",
+    "ativo": true,
+    "score": 85,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:07:54.0399905Z"
+  },
+  {
     "id": 1813,
     "titulo": "Balaclava Touca Ninja Moto T\u00E9rmica Prote\u00E7\u00E3o Frio Cores Preta Rosa Cinza",
     "preco": 11.9,
@@ -5575,6 +6420,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-22T10:09:19.7194909Z"
+  },
+  {
+    "id": 24924,
+    "titulo": "L\u00E2mpada De Emerg\u00EAncia solar Com LED Port\u00E1til Recarreg\u00E1vel  Iluminacao Ajust\u00E1vel  bombom",
+    "preco": 16.99,
+    "link": "https://s.shopee.com.br/3qJmS5Uvem",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778246070/lrshop/kk9f9bawkbi4yaqqwhoy.jpg",
+    "ativo": true,
+    "score": 84,
+    "categoria": "lanterna led recarregavel",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T13:14:30.7999387Z"
   },
   {
     "id": 3798,
@@ -5824,6 +6682,19 @@
     "criadoEm": "2026-04-23T18:25:43.5832479Z"
   },
   {
+    "id": 25515,
+    "titulo": "Luva Moto Bike Motoboy Motoqueiro Unissex Termica Touch Resistente \u00E0 \u00C1gua",
+    "preco": 29.85,
+    "link": "https://s.shopee.com.br/7fWVA8Jibx",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778253930/lrshop/lpdocujfzlr29etov3s7.jpg",
+    "ativo": true,
+    "score": 84,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:25:30.8048118Z"
+  },
+  {
     "id": 9066,
     "titulo": "Kit de Lavar Carro Moto Limpeza automotiva Luva \u002B5 Pano Microfibra Super Absorvente Multiuso",
     "preco": 29.9,
@@ -5835,6 +6706,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-01T12:13:44.7222234Z"
+  },
+  {
+    "id": 25672,
+    "titulo": "Pa\u00E7oca Caipira Com Pouco A\u00E7\u00FAcar 85g Kit c/ 20und",
+    "preco": 29.92,
+    "link": "https://s.shopee.com.br/4LG3DNF3KQ",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255137/lrshop/qlebi5ybbgvsl29fvhti.jpg",
+    "ativo": true,
+    "score": 84,
+    "categoria": "kit snacks",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:45:37.8661234Z"
   },
   {
     "id": 17524,
@@ -5874,6 +6758,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T23:34:13.8910689Z"
+  },
+  {
+    "id": 26435,
+    "titulo": "Chocolate Toblerone Branco 100g  - Produto Importado",
+    "preco": 31.2,
+    "link": "https://s.shopee.com.br/4VZTaXKytc",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264607/lrshop/rzyufij2vnpjvpjedo07.jpg",
+    "ativo": true,
+    "score": 84,
+    "categoria": "chocolate importado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:23:27.8772942Z"
   },
   {
     "id": 18207,
@@ -6058,6 +6955,19 @@
     "criadoEm": "2026-04-22T07:04:23.0999448Z"
   },
   {
+    "id": 25682,
+    "titulo": "Garrafa Inox T\u00E9rmica Personalizada 800ML Nome Inox Parede Dupla - Ideal para Academia Trabalho \u00C1gua Caf\u00E9",
+    "preco": 44.99,
+    "link": "https://s.shopee.com.br/8fP2NMty2s",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255151/lrshop/h6ur3sulhauobnkuhny3.jpg",
+    "ativo": true,
+    "score": 84,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:45:52.4522607Z"
+  },
+  {
     "id": 20499,
     "titulo": "Limpa Pneu Gel 5L Pretinho Baba de Camelo Incolor Brilho Molhado Para Pneus Carro Moto Borracha",
     "preco": 46.99,
@@ -6162,6 +7072,32 @@
     "criadoEm": "2026-04-25T17:54:28.5235495Z"
   },
   {
+    "id": 26436,
+    "titulo": "Chocolate Meio Amargo Swiss Alps Dark Tablete Importado 300g",
+    "preco": 95.98,
+    "link": "https://s.shopee.com.br/4AwdBvMFZa",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264608/lrshop/mixrpxiopwqjb5balgoo.jpg",
+    "ativo": true,
+    "score": 84,
+    "categoria": "chocolate importado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:23:28.9816126Z"
+  },
+  {
+    "id": 25364,
+    "titulo": "Cafeteira El\u00E9trica Agratto Vetro Caffe 15x 220V 127V Port\u00E1til Expresso Melhor Caf\u00E9 Inox",
+    "preco": 109,
+    "link": "https://s.shopee.com.br/7fWV90vPfB",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778252960/lrshop/ljsx1smra9g52wu6ehz3.jpg",
+    "ativo": true,
+    "score": 84,
+    "categoria": "cafeteira port\u00E1til",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:09:20.9943820Z"
+  },
+  {
     "id": 9111,
     "titulo": "C\u00E2mera Veicular C\u00E2mera Tripla 1080P Dash Cam com Grava\u00E7\u00E3o para Monitoramento 24H",
     "preco": 125,
@@ -6214,6 +7150,19 @@
     "criadoEm": "2026-05-05T21:00:16.1342697Z"
   },
   {
+    "id": 26224,
+    "titulo": "Cb 300F Modelo 2025 Protetor Carenagem Motor Tanque Vermelho Twister Mata Cachorro com Pedal\u00A0Slider\u00A0Moto",
+    "preco": 240.99,
+    "link": "https://s.shopee.com.br/4LG3KUMwBp",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778261341/lrshop/mygnujmuf0t31a0nfbbt.jpg",
+    "ativo": true,
+    "score": 84,
+    "categoria": "protetor tanque moto",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:29:02.4298121Z"
+  },
+  {
     "id": 17526,
     "titulo": "Frango Galinha Mordedor de Borracha para Cachorro Brinquedo Pet Faz Barulho com Apito Sonoro Som",
     "preco": 9.87,
@@ -6240,6 +7189,19 @@
     "criadoEm": "2026-05-01T13:14:53.3009583Z"
   },
   {
+    "id": 26025,
+    "titulo": "kit c/ 3 descascadores de legumes, verduras, frutas e etc",
+    "preco": 11.99,
+    "link": "https://s.shopee.com.br/8KmC2WsUJH",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778258451/lrshop/rvne4fkh57tpytvkcpco.jpg",
+    "ativo": true,
+    "score": 83,
+    "categoria": "kit cozinha",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:40:51.5364178Z"
+  },
+  {
     "id": 17875,
     "titulo": "KIT 02 Brinquedos Pet BOLINHA CRAVO COM CORDA Adestramento",
     "preco": 12.77,
@@ -6251,6 +7213,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T21:58:10.9738760Z"
+  },
+  {
+    "id": 26028,
+    "titulo": "Kit 3 Esp\u00E1tulas Confeiteiro Para Bolos Decorados P\u00E3o Em Inox Multiuso",
+    "preco": 12.9,
+    "link": "https://s.shopee.com.br/5flQrdd4gt",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778258454/lrshop/a5ojhmauxyjkns6urc4f.jpg",
+    "ativo": true,
+    "score": 83,
+    "categoria": "kit cozinha",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:40:55.0854269Z"
   },
   {
     "id": 10380,
@@ -6292,6 +7267,19 @@
     "criadoEm": "2026-04-22T23:05:25.7821409Z"
   },
   {
+    "id": 26040,
+    "titulo": "Kit 6 Pe\u00E7as Conjunto de Faca Carne Cutelo Legumes A\u00E7o Carbono Descascador Tesoura Profissional",
+    "preco": 15.69,
+    "link": "https://s.shopee.com.br/8KmC2XSvHf",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778258466/lrshop/er8cviz16yalltanusvz.jpg",
+    "ativo": true,
+    "score": 83,
+    "categoria": "kit cozinha",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:41:06.5437386Z"
+  },
+  {
     "id": 21385,
     "titulo": "Luva de Microfibra Lavagem Automotiva e Limpeza Dom\u00E9stica Multiuso Tamanho Grande",
     "preco": 15.89,
@@ -6303,6 +7291,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T23:41:25.1028477Z"
+  },
+  {
+    "id": 26172,
+    "titulo": "Porta Temperos Pote Condimentos Organizador Com Divis\u00F3rias 4 Colheres Medidoras",
+    "preco": 15.94,
+    "link": "https://s.shopee.com.br/809Lfjb7zP",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778260034/lrshop/mioonlzgcvoh7yrofrbu.jpg",
+    "ativo": true,
+    "score": 83,
+    "categoria": "organizadores cozinha",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:07:15.5522266Z"
   },
   {
     "id": 1936,
@@ -6435,6 +7436,19 @@
     "criadoEm": "2026-05-05T20:43:16.0008203Z"
   },
   {
+    "id": 25742,
+    "titulo": "Brinquedo Peixe El\u00E9trico Recarreg\u00E1vel para Gato e Pets",
+    "preco": 19.98,
+    "link": "https://s.shopee.com.br/7AaEai12Dt",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255235/lrshop/weemz3omo03jjycmwean.jpg",
+    "ativo": true,
+    "score": 83,
+    "categoria": "brinquedo pet",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:47:15.9183735Z"
+  },
+  {
     "id": 23052,
     "titulo": "Kit Tapete Banheiro 38x58cm |50x100m |50x70cm Antiderrapante Pipoca Popcorn V\u00E1rias Cores Macio",
     "preco": 19.99,
@@ -6472,6 +7486,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-25T15:37:38.9292455Z"
+  },
+  {
+    "id": 25864,
+    "titulo": "Kit M\u00E1scara Macad\u00E2mia \u0026 Col\u00E1geno 500g \u002B \u00D3leo Argan \u0026 Macad\u00E2mia 50ml",
+    "preco": 21.49,
+    "link": "https://s.shopee.com.br/W3KZzoJUr",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778256840/lrshop/az6cstj6xookszjuzwuz.jpg",
+    "ativo": true,
+    "score": 83,
+    "categoria": "kit beleza",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:14:00.7707341Z"
   },
   {
     "id": 9424,
@@ -6994,6 +8021,19 @@
     "criadoEm": "2026-04-21T18:21:55.1264713Z"
   },
   {
+    "id": 24923,
+    "titulo": "Lanterna t\u00E1tica led super potente  Super brilhante P90 mais forte do mercado recarreg\u00E1vel zoom bateria T9 Entrega r\u00E1pida",
+    "preco": 69.99,
+    "link": "https://s.shopee.com.br/3B45erXT0a",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778246069/lrshop/bd4vifc6yiwda1vncjd6.jpg",
+    "ativo": true,
+    "score": 83,
+    "categoria": "lanterna led recarregavel",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T13:14:29.8372229Z"
+  },
+  {
     "id": 5023,
     "titulo": "Kit Anivers\u00E1rio 20 Sacolinhas Festa Surpresa 180 Doces Guloseimas Lembrancinhas",
     "preco": 72.11,
@@ -7031,6 +8071,32 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T22:46:20.2912170Z"
+  },
+  {
+    "id": 25679,
+    "titulo": "30 Salgadinhos Elma Chips \u002B 30 Pacotes Bala Fini",
+    "preco": 95.9,
+    "link": "https://s.shopee.com.br/30kfcvK82I",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255146/lrshop/telpxneepjizwr7kf7ho.jpg",
+    "ativo": true,
+    "score": 83,
+    "categoria": "kit snacks",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:45:46.7740942Z"
+  },
+  {
+    "id": 25846,
+    "titulo": "C\u00E2mera A8 Externa Ip A Prova D\u0027\u00E1gua - Infravermelho Alarme Wifi Hd Sensor De Movimento - Bivolt",
+    "preco": 97.99,
+    "link": "https://s.shopee.com.br/5VS0dRKyXR",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778256812/lrshop/uxxvwbcejxvaxdzzatmm.jpg",
+    "ativo": true,
+    "score": 83,
+    "categoria": "camera wifi",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:13:33.4773001Z"
   },
   {
     "id": 10917,
@@ -7265,6 +8331,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T15:51:52.9368751Z"
+  },
+  {
+    "id": 25663,
+    "titulo": "Pipoca Doce Kit Com 25 Unidades - Emilia Tradicional 12g ou Colorida 10g - Pronta Entrega - Envio Imediato",
+    "preco": 18.2,
+    "link": "https://s.shopee.com.br/qgB2wSNQX",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255126/lrshop/ktsoegonsfdgdm8t4qyq.jpg",
+    "ativo": true,
+    "score": 82,
+    "categoria": "kit snacks",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:45:27.2026790Z"
   },
   {
     "id": 4792,
@@ -7748,6 +8827,32 @@
     "criadoEm": "2026-05-05T20:40:59.9967443Z"
   },
   {
+    "id": 25831,
+    "titulo": "C\u00E2mera Seguran\u00E7a Prova D\u0027\u00E1gua Infravermelho L\u00E2mpada Externa 360 Sem Fio Wifi 2.4G G4",
+    "preco": 46.97,
+    "link": "https://s.shopee.com.br/2VoP3v5zvo",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778256796/lrshop/tydcbwj9ovvyk50heg7r.jpg",
+    "ativo": true,
+    "score": 82,
+    "categoria": "camera wifi",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:13:17.0159151Z"
+  },
+  {
+    "id": 25531,
+    "titulo": "Alaxe5 Gera\u00E7\u00E3o Alto Falante Original Envio Imediato Melhor Pre\u00E7o",
+    "preco": 47.99,
+    "link": "https://s.shopee.com.br/3VgwCVhZZ9",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778253959/lrshop/ayd0t17jcnyt0iajw2m0.jpg",
+    "ativo": true,
+    "score": 82,
+    "categoria": "caixa de som bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:26:00.3608176Z"
+  },
+  {
     "id": 18428,
     "titulo": "Biscoito Alem\u00E3o Petit-Beurre com Chocolate ao Leite Members Mark \u2013 Crocante e Irresist\u00EDvel",
     "preco": 48.9,
@@ -7785,6 +8890,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T22:39:41.1684714Z"
+  },
+  {
+    "id": 25834,
+    "titulo": "C\u00E2mera Seguran\u00E7a Prova D\u0027\u00E1gua Infravermelho L\u00E2mpada Externa 360 Sem Fio Wifi 2.4G G4",
+    "preco": 53.98,
+    "link": "https://s.shopee.com.br/AKXGOJcB2a",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778256799/lrshop/y5wwtdbxxsnqdzmxx4vk.jpg",
+    "ativo": true,
+    "score": 82,
+    "categoria": "camera wifi",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:13:20.1307865Z"
   },
   {
     "id": 1352,
@@ -7837,6 +8955,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-21T03:05:37.9388238Z"
+  },
+  {
+    "id": 25848,
+    "titulo": "C\u00E2mera Seguran\u00E7a Prova D\u0027\u00E1gua Infravermelho L\u00E2mpada Sem Fio Wifi - Yoosee",
+    "preco": 57.98,
+    "link": "https://s.shopee.com.br/6AhhQfIRBd",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778256814/lrshop/ysa4rwyhkgwni19fw5gp.jpg",
+    "ativo": true,
+    "score": 82,
+    "categoria": "camera wifi",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:13:35.3834098Z"
   },
   {
     "id": 7031,
@@ -8060,6 +9191,19 @@
     "criadoEm": "2026-04-20T20:53:13.6514117Z"
   },
   {
+    "id": 26176,
+    "titulo": "Saco Zip Lock Pl\u00E1stico Fechamento Herm\u00E9tico Atacado Organiza\u00E7\u00E3o Abre Fecha",
+    "preco": 9.31,
+    "link": "https://s.shopee.com.br/7ppvTQblKm",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778260039/lrshop/dfwocaakv8oemys3jwfr.jpg",
+    "ativo": true,
+    "score": 81,
+    "categoria": "organizadores cozinha",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:07:20.1214939Z"
+  },
+  {
     "id": 4610,
     "titulo": "Mini Bola 25cm De PVC Exerc\u00EDcio Yoga Pilates Ginastica Treinamento do assoalho p\u00E9lvico\u002B Faixas El\u00E1sticas",
     "preco": 11.88,
@@ -8136,6 +9280,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-22T20:37:42.2644373Z"
+  },
+  {
+    "id": 25745,
+    "titulo": "Bichinho de Pel\u00FAcia para C\u00E3es Gato Brinquedo Mordedor Pet com Apito Girafa Macaco Porco",
+    "preco": 14.86,
+    "link": "https://s.shopee.com.br/4VZTPoBBdd",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255240/lrshop/ezoknunysjxfautjchah.jpg",
+    "ativo": true,
+    "score": 81,
+    "categoria": "brinquedo pet",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:47:20.5137501Z"
   },
   {
     "id": 5798,
@@ -8281,6 +9438,19 @@
     "criadoEm": "2026-05-05T17:13:32.3401706Z"
   },
   {
+    "id": 26432,
+    "titulo": "Chocolates Importados Da Pol\u00F4nia - Milka Oreo 100gr",
+    "preco": 24.7,
+    "link": "https://s.shopee.com.br/901swmV3ZV",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264603/lrshop/fgpqv8inlrw7oothptxx.jpg",
+    "ativo": true,
+    "score": 81,
+    "categoria": "chocolate importado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:23:23.6441791Z"
+  },
+  {
     "id": 6970,
     "titulo": "Kit de Lavar Carro Moto Limpeza Automotiva Luva \u002B3 Pano Microfibra",
     "preco": 24.9,
@@ -8292,6 +9462,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-24T15:31:02.5563242Z"
+  },
+  {
+    "id": 25665,
+    "titulo": "KIT BALA DOCILE COM 30 ou 60 UNIDADES SORTIDAS PRONTA ENTREGA",
+    "preco": 24.99,
+    "link": "https://s.shopee.com.br/1BJ1RYR6kd",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255128/lrshop/iosklaqbkm37khbnwopz.jpg",
+    "ativo": true,
+    "score": 81,
+    "categoria": "kit snacks",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:45:29.4839326Z"
   },
   {
     "id": 4332,
@@ -8318,6 +9501,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T23:41:13.7048807Z"
+  },
+  {
+    "id": 25519,
+    "titulo": "Luva Moto Motociclista Couro PU T\u00E9rmica Forrada Antiderrapante Imperme\u00E1vel Inverno",
+    "preco": 27.9,
+    "link": "https://s.shopee.com.br/AUqgXL8vrk",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778253934/lrshop/hskanzspcjcf3wfbubkt.jpg",
+    "ativo": true,
+    "score": 81,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:25:35.2965944Z"
   },
   {
     "id": 20486,
@@ -8502,6 +9698,19 @@
     "criadoEm": "2026-04-20T18:36:06.0536518Z"
   },
   {
+    "id": 26278,
+    "titulo": "Rel\u00F3gio Smartwatch S20 PRO MINI 38MM S\u00E9rie 10 Bluetooth Call Card\u00EDaca Monitoramento NFC GPS  Chat GPT Esportivo Smartwat",
+    "preco": 42.99,
+    "link": "https://s.shopee.com.br/10zbMS6jl1",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778261418/lrshop/flga3p2iokby4uiy4gf6.jpg",
+    "ativo": true,
+    "score": 81,
+    "categoria": "smartwatch bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:30:19.0095965Z"
+  },
+  {
     "id": 9194,
     "titulo": "Bombom One Chocolate Branco \u0026 One Strawberry Liofilizado 60g - Importado",
     "preco": 43.49,
@@ -8684,6 +9893,32 @@
     "criadoEm": "2026-05-05T23:25:12.4126733Z"
   },
   {
+    "id": 26048,
+    "titulo": "Moedor El\u00E9trico 600ml 28000RPM Port\u00E1til para Caf\u00E9 Gr\u00E3os Milho Especiarias Moagem Fina e Potente Uso Di\u00E1rio \u2013 QUEBOM",
+    "preco": 79.99,
+    "link": "https://s.shopee.com.br/9fHZWidZaR",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778258481/lrshop/qt3syevexgsqybod4npx.jpg",
+    "ativo": true,
+    "score": 81,
+    "categoria": "cafeteira port\u00E1til",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:41:21.9041933Z"
+  },
+  {
+    "id": 26044,
+    "titulo": "Moedor El\u00E9trico 600ml 28000RPM Port\u00E1til para Caf\u00E9 Gr\u00E3os Milho Especiarias Moagem Fina e Potente Uso Di\u00E1rio",
+    "preco": 79.99,
+    "link": "https://s.shopee.com.br/qgB0UBCVU",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778258476/lrshop/lbtw9doecbpn5gvh0uju.jpg",
+    "ativo": true,
+    "score": 81,
+    "categoria": "cafeteira port\u00E1til",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:41:17.4488022Z"
+  },
+  {
     "id": 4124,
     "titulo": "Garrafa T\u00E9rmica Hiddra SUPER GRANDE 1L/1.2L Inox Fitness Academia Bebidas Quentes e Frias",
     "preco": 79.99,
@@ -8812,6 +10047,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T21:10:31.9198507Z"
+  },
+  {
+    "id": 25304,
+    "titulo": "Mercado Financeiro - Produtos e Servi\u00E7os - 17\u00AA edi\u00E7\u00E3o - Eduardo Fortuna",
+    "preco": 155,
+    "link": "https://s.shopee.com.br/50VjwLrA5j",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251412/lrshop/b1rc71bf0ouzimtq2dxl.jpg",
+    "ativo": true,
+    "score": 81,
+    "categoria": "produtos mercado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:43:33.3020628Z"
   },
   {
     "id": 5650,
@@ -9033,6 +10281,32 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-20T17:56:39.5271910Z"
+  },
+  {
+    "id": 25438,
+    "titulo": "A6S TWS Fone De Ouvido Sem Fio Bluetooth 5.0 Est\u00E9reo Macaron Mini Fones Para Redmi Android Ios",
+    "preco": 16.88,
+    "link": "https://s.shopee.com.br/10zbCtmI3A",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778253068/lrshop/qfpuk4yoe48q1kb7jy7h.jpg",
+    "ativo": true,
+    "score": 80,
+    "categoria": "headphone bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:11:09.5598091Z"
+  },
+  {
+    "id": 25412,
+    "titulo": "Prateleira Retangular Banheiro Cozinha Suporte adesivo Porta tempero Shampoo Suporte Canto Banheiro",
+    "preco": 16.9,
+    "link": "https://s.shopee.com.br/7fWV960xIH",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778253029/lrshop/qsjzquxhyjrdr2leqlef.jpg",
+    "ativo": true,
+    "score": 80,
+    "categoria": "prateleira adesiva",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:10:30.0295727Z"
   },
   {
     "id": 3466,
@@ -9347,17 +10621,17 @@
     "criadoEm": "2026-04-23T12:28:26.0500886Z"
   },
   {
-    "id": 15069,
-    "titulo": "Chinelo Personalizado Praia Abacaxi Branco | Correia Macia \u002B Pingente Charmoso",
-    "preco": 29.6,
-    "link": "https://s.shopee.com.br/6AhczBa5Ck",
-    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778016134/lrshop/hvovykdhbhzt1cxbj7xc.jpg",
+    "id": 25528,
+    "titulo": "Par Luva Moto Motoqueiro Motociclista Motoqueiro Motocross Bike Trilha Prote\u00E7\u00E3o M\u00E3os",
+    "preco": 29.87,
+    "link": "https://s.shopee.com.br/8ASll4cn5S",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778253948/lrshop/il5rhy3twmwc8asgtfmg.jpg",
     "ativo": true,
     "score": 80,
-    "categoria": "chinelo feminino",
+    "categoria": "luva motociclista",
     "desconto": "",
     "precoOriginal": null,
-    "criadoEm": "2026-05-05T21:22:15.3131642Z"
+    "criadoEm": "2026-05-08T15:25:49.0138647Z"
   },
   {
     "id": 1537,
@@ -9384,19 +10658,6 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T21:56:44.2109845Z"
-  },
-  {
-    "id": 14842,
-    "titulo": "Chinelo Feminino Tamanco Ortopedica Tratorada Confortavel Massageadora Caramelo",
-    "preco": 29.89,
-    "link": "https://s.shopee.com.br/1gFDcir2jW",
-    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778015957/lrshop/knvyqoaz4cjdq2ejdaoh.jpg",
-    "ativo": true,
-    "score": 80,
-    "categoria": "chinelo feminino",
-    "desconto": "",
-    "precoOriginal": null,
-    "criadoEm": "2026-05-05T21:19:18.4102231Z"
   },
   {
     "id": 20629,
@@ -9685,6 +10946,19 @@
     "criadoEm": "2026-04-22T15:46:47.9718652Z"
   },
   {
+    "id": 25554,
+    "titulo": "Caixa de som original Alaxe Echo Dot 5\u00AA gera\u00E7\u00E3o com envio imediato e melhor pre\u00E7o",
+    "preco": 48.98,
+    "link": "https://s.shopee.com.br/6fdxyMLI5V",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778253990/lrshop/spsgkhz5gpkdgrv5ddow.jpg",
+    "ativo": true,
+    "score": 80,
+    "categoria": "caixa de som bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:26:30.5850165Z"
+  },
+  {
     "id": 1701,
     "titulo": "Perfume Feminino 30ml Doce Frutado Elegante Delicado Marcante Eau de Parfum",
     "preco": 49.8,
@@ -9802,6 +11076,45 @@
     "criadoEm": "2026-04-24T11:27:32.7544757Z"
   },
   {
+    "id": 25851,
+    "titulo": "C\u00E2mera de Monitoramento Interno 3MP com Plugue WiFi App Yoosee Replay em Nuvem TF e Voz em 2 Vias",
+    "preco": 58.99,
+    "link": "https://s.shopee.com.br/4qCJqDNVtU",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778256817/lrshop/kaeos47745knuovehm3y.jpg",
+    "ativo": true,
+    "score": 80,
+    "categoria": "camera wifi",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:13:38.3224690Z"
+  },
+  {
+    "id": 25841,
+    "titulo": "C\u00E2mera de Seguran\u00E7a WiFi 360\u00B0 Full HD 1080p com \u00C1udio, Vis\u00E3o Noturna e Rastreamento Autom\u00E1tico | Monitoramento celular",
+    "preco": 59,
+    "link": "https://s.shopee.com.br/8fP2PG8v6q",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778256807/lrshop/nth43ww2uual3uhfylyz.jpg",
+    "ativo": true,
+    "score": 80,
+    "categoria": "camera wifi",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:13:28.2153101Z"
+  },
+  {
+    "id": 25854,
+    "titulo": "Bab\u00E1 Eletr\u00F4nica Wi-Fi YOOSEE com Vis\u00E3o Noturna Infravermelha C\u00E2mera de Seguran\u00E7a Inteligente",
+    "preco": 59.02,
+    "link": "https://s.shopee.com.br/2qRFSYqeYj",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778256821/lrshop/llsltrd0t2sjoqkhe6lg.jpg",
+    "ativo": true,
+    "score": 80,
+    "categoria": "camera wifi",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:13:42.4441491Z"
+  },
+  {
     "id": 14431,
     "titulo": " Novo smartwatch esportivo masculino \u00E0 prova d\u0027\u00E1gua, com chamada Bluetooth, monitoramento de sa\u00FAde, imperme\u00E1vel IP68",
     "preco": 59.36,
@@ -9878,19 +11191,6 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-20T18:36:05.0959521Z"
-  },
-  {
-    "id": 12970,
-    "titulo": "Papete Glow Chinelo PROMO\u00C7\u00C3O POR POUCO TEMPO Produto Premium 20 anos no Mercado Fabrica pr\u00F3pria",
-    "preco": 79,
-    "link": "https://s.shopee.com.br/6fdtXixJek",
-    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778014060/lrshop/koizkqxvrabyejbifknp.jpg",
-    "ativo": true,
-    "score": 80,
-    "categoria": "produtos mercado",
-    "desconto": "",
-    "precoOriginal": null,
-    "criadoEm": "2026-05-05T20:47:41.6814759Z"
   },
   {
     "id": 12969,
@@ -9995,6 +11295,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T22:37:17.5759744Z"
+  },
+  {
+    "id": 26408,
+    "titulo": "Grava\u00E7\u00E3o De Espelho Retrovisor Lente Dupla De 64GB Monitoramento De Carro HD 1080P Dianteira E Traseira",
+    "preco": 109.98,
+    "link": "https://s.shopee.com.br/10zbQ2rS4q",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264559/lrshop/slp3bmbrzgplu0boqr0v.jpg",
+    "ativo": true,
+    "score": 80,
+    "categoria": "acessorios carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:22:39.8278008Z"
   },
   {
     "id": 1195,
@@ -10400,6 +11713,19 @@
     "criadoEm": "2026-05-05T21:56:01.8784180Z"
   },
   {
+    "id": 26296,
+    "titulo": "Luva de Motociclista Imperme\u00E1vel Motoqueiro tamanho \u00FAnico - luvas de motoqueiros - Luva para motociclista",
+    "preco": 22.95,
+    "link": "https://s.shopee.com.br/5q4qymlfpE",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778261444/lrshop/mdzxprvepikbdpfu2hfb.jpg",
+    "ativo": true,
+    "score": 79,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:30:45.4846395Z"
+  },
+  {
     "id": 12374,
     "titulo": "M\u00E1scara de Col\u00E1geno Coreana Noturna - Rejuvenesce, Hidrata e Ilumina! Melhora a Elasticidade e Combate Rugas - 75g.",
     "preco": 23.54,
@@ -10502,6 +11828,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T22:27:09.7576798Z"
+  },
+  {
+    "id": 25932,
+    "titulo": "Lumin\u00E1ria Solar Parede 108COB Carregar LED Luz Branco frio  D\u0027\u00C1gua Sensor Presen\u00E7a 3 fun\u00E7\u00F5es bombom store",
+    "preco": 26.99,
+    "link": "https://s.shopee.com.br/2BBYh46cCD",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778258330/lrshop/aqwioqocjhnqay8qqeol.jpg",
+    "ativo": true,
+    "score": 79,
+    "categoria": "luminaria led",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:38:51.3447558Z"
   },
   {
     "id": 8441,
@@ -11050,6 +12389,19 @@
     "criadoEm": "2026-04-24T16:54:08.3133167Z"
   },
   {
+    "id": 25849,
+    "titulo": "Kit 3 C\u00E2mera Seguran\u00E7a 360\u00B0 Sem Fio Wifi Prova D\u0027\u00E1gua Infravermelho Full HD Vis\u00E3o Noturna -8177",
+    "preco": 153.99,
+    "link": "https://s.shopee.com.br/6L17cyHnqg",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778256815/lrshop/npp0wyblto1qka7hh01x.jpg",
+    "ativo": true,
+    "score": 79,
+    "categoria": "camera wifi",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:13:36.3057955Z"
+  },
+  {
     "id": 14151,
     "titulo": "Basike Rel\u00F3gio Esportivo Bluetooth Esportes Monitor Sa\u00FAde , Chamada Smartwatch Fitness Monitoramento de Sa\u00FAde IP65 W79",
     "preco": 169.99,
@@ -11113,6 +12465,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-24T11:30:13.5523339Z"
+  },
+  {
+    "id": 25753,
+    "titulo": "Frango de Pl\u00E1stico Brinquedo Galinha para Cachorro Pet Mordedor com Apito Som Grito",
+    "preco": 9.97,
+    "link": "https://s.shopee.com.br/6AhhOt0enS",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255252/lrshop/n5h8dxorrzkuhietftp6.jpg",
+    "ativo": true,
+    "score": 78,
+    "categoria": "brinquedo pet",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:47:33.3120241Z"
   },
   {
     "id": 1530,
@@ -11243,6 +12608,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-20T23:30:59.9411656Z"
+  },
+  {
+    "id": 25658,
+    "titulo": "Display Kit 3 Papermint Zero A\u00E7\u00FAcar 20 L\u00E2minas cada",
+    "preco": 13.9,
+    "link": "https://s.shopee.com.br/W3KeK8ogA",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255119/lrshop/rmmc8gpk0ohwofhlxzy7.jpg",
+    "ativo": true,
+    "score": 78,
+    "categoria": "kit snacks",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:45:20.1510773Z"
   },
   {
     "id": 8763,
@@ -11414,6 +12792,19 @@
     "criadoEm": "2026-04-22T18:38:49.6166085Z"
   },
   {
+    "id": 26182,
+    "titulo": "4 Porta Temperos Condimentos Acr\u00EDlico Organizadores",
+    "preco": 19.99,
+    "link": "https://s.shopee.com.br/9Uy9SVUOWt",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778260050/lrshop/kaixj8fxji73nrnszosw.jpg",
+    "ativo": true,
+    "score": 78,
+    "categoria": "organizadores cozinha",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:07:31.2359895Z"
+  },
+  {
     "id": 21677,
     "titulo": "Acendedor Tomada de Carregador 12v Automotivo Universal Verde e Vermelho",
     "preco": 21.24,
@@ -11466,19 +12857,6 @@
     "criadoEm": "2026-05-06T00:05:18.4300075Z"
   },
   {
-    "id": 7522,
-    "titulo": "Chinelo Power Unissex Lan\u00E7amento 2024 Confort\u00E1vel Macio leve Masculino e Feminino Envio Imediato",
-    "preco": 22.99,
-    "link": "https://s.shopee.com.br/7ppZANFUqA",
-    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1777053939/lrshop/c5wazuva2p9f9ldvi2mk.jpg",
-    "ativo": true,
-    "score": 78,
-    "categoria": "chinelo masculino",
-    "desconto": "",
-    "precoOriginal": null,
-    "criadoEm": "2026-04-24T18:05:40.2764176Z"
-  },
-  {
     "id": 18325,
     "titulo": "Milka Doce de Leite - Alfajor x3 Camadas Recheado - Importado da Argentina",
     "preco": 23.36,
@@ -11529,19 +12907,6 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-26T18:54:06.9686789Z"
-  },
-  {
-    "id": 7916,
-    "titulo": "Chinelo Masculino Coca Cola Casual \u2013 Estilo, Conforto e Sola Antiderrapante\n\n",
-    "preco": 24.94,
-    "link": "https://s.shopee.com.br/50VNrpsjU3",
-    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1777117651/lrshop/zvbyapuuo8ial8hxq2vy.jpg",
-    "ativo": true,
-    "score": 78,
-    "categoria": "chinelo masculino",
-    "desconto": "",
-    "precoOriginal": null,
-    "criadoEm": "2026-04-25T11:47:32.1276946Z"
   },
   {
     "id": 9902,
@@ -12025,6 +13390,19 @@
     "criadoEm": "2026-05-05T17:13:13.3553619Z"
   },
   {
+    "id": 25676,
+    "titulo": "Kit Com 60 UNI Bala Fini 15g Sabores Variados",
+    "preco": 52.99,
+    "link": "https://s.shopee.com.br/3qJmcSGxLP",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255142/lrshop/j75gusdi8jqoe3qenqcg.jpg",
+    "ativo": true,
+    "score": 78,
+    "categoria": "kit snacks",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:45:43.0510258Z"
+  },
+  {
     "id": 19553,
     "titulo": "Lanterna Carregamento Solar Led Caixa de Ferramenta Recarreg\u00E1vel Power Bank Pesca Acampamento",
     "preco": 55,
@@ -12064,6 +13442,32 @@
     "criadoEm": "2026-05-05T20:44:25.9320526Z"
   },
   {
+    "id": 25511,
+    "titulo": "Luva X11 Fit X Preta Motoqueiro Moto Motociclista Touchscreen",
+    "preco": 68,
+    "link": "https://s.shopee.com.br/9Kej9BRazF",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778253925/lrshop/do2fhhjqg4fq6wanixfs.jpg",
+    "ativo": true,
+    "score": 78,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:25:25.9026781Z"
+  },
+  {
+    "id": 25294,
+    "titulo": "Peitoral para cavalos, produto \u00FAnico no mercado, tran\u00E7as exclusivas em couro leg\u00EDtimo. PROMO\u00C7\u00C3O",
+    "preco": 69,
+    "link": "https://s.shopee.com.br/8V5c6l1oPb",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251395/lrshop/ariybt7zs0uu1qzmtdhu.jpg",
+    "ativo": true,
+    "score": 78,
+    "categoria": "produtos mercado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:43:16.5917705Z"
+  },
+  {
     "id": 5454,
     "titulo": "Bab\u00E1 Eletr\u00F4nica C\u00E2mera Wiffi Vis\u00E3o Noturna Infravermelho",
     "preco": 69.88,
@@ -12075,6 +13479,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-23T19:14:19.5900030Z"
+  },
+  {
+    "id": 25309,
+    "titulo": "Kit Lavagem de Moto Shampoo Neutro V-Floc Vonixx e Shampoo para Barro V-Mol Vonixx Pincel e Luva",
+    "preco": 74.9,
+    "link": "https://s.shopee.com.br/9pazhErWqG",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251419/lrshop/vsgjdmaopwjdqeixvssb.jpg",
+    "ativo": true,
+    "score": 78,
+    "categoria": "kit limpeza moto",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:43:40.2707860Z"
   },
   {
     "id": 18538,
@@ -12259,6 +13676,19 @@
     "criadoEm": "2026-05-05T21:53:00.7052071Z"
   },
   {
+    "id": 25254,
+    "titulo": "Kit 5/10/20/30/40/50 Lixas de Unha Bumerangue Lav\u00E1vel 100/180 Boomerang Banana Alongamento",
+    "preco": 8.79,
+    "link": "https://s.shopee.com.br/AUqgUNCFCb",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251339/lrshop/khnlymzrepfg4j7qychv.jpg",
+    "ativo": true,
+    "score": 77,
+    "categoria": "kit beleza",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:42:19.7399802Z"
+  },
+  {
     "id": 1659,
     "titulo": "Bala De Gelatina Happy Din Egg Ovo Frito e Caranguejo Importado",
     "preco": 8.99,
@@ -12296,6 +13726,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-20T15:09:48.6371729Z"
+  },
+  {
+    "id": 25693,
+    "titulo": "Garrafa De \u00C1gua Squeeze 600ml 23,5cm Multicolorida com Al\u00E7a Ideal para Academia Passeios Trabalho",
+    "preco": 11.7,
+    "link": "https://s.shopee.com.br/50Vk0eFhcy",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255168/lrshop/mejoc21nzdlgxkjnpphy.jpg",
+    "ativo": true,
+    "score": 77,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:46:09.4435672Z"
   },
   {
     "id": 6170,
@@ -12844,6 +14287,19 @@
     "criadoEm": "2026-04-22T17:12:35.1709375Z"
   },
   {
+    "id": 25684,
+    "titulo": "Garrafa T\u00E9rmica de Bichinho em Inox 500ml Adulto e Infantil Trabalho Escola Academia",
+    "preco": 30.98,
+    "link": "https://s.shopee.com.br/4VZTPiWRki",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255154/lrshop/fo22gg0gubgvn8opqu5o.jpg",
+    "ativo": true,
+    "score": 77,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:45:55.6226201Z"
+  },
+  {
     "id": 2417,
     "titulo": "KIT 3 pacotinhos Wax Melts 16gr cada - Pastilhas Arom\u00E1ticas escolha o seu preferido.",
     "preco": 31.9,
@@ -12933,19 +14389,6 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T20:42:58.6988639Z"
-  },
-  {
-    "id": 14620,
-    "titulo": "Melissa Papete Confort\u00E1vel Lan\u00E7amento 2026 Dia a Dia",
-    "preco": 39.6,
-    "link": "https://s.shopee.com.br/20s417wGLs",
-    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778015772/lrshop/raiqhdb13bygppqcayg8.jpg",
-    "ativo": true,
-    "score": 77,
-    "categoria": "chinelo feminino",
-    "desconto": "",
-    "precoOriginal": null,
-    "criadoEm": "2026-05-05T21:16:13.3704089Z"
   },
   {
     "id": 20296,
@@ -13390,6 +14833,19 @@
     "criadoEm": "2026-04-25T12:55:35.0636860Z"
   },
   {
+    "id": 25666,
+    "titulo": "40 Salgadinhos Elma Chips \u002B 40 Pacotes Bala Fini",
+    "preco": 125.9,
+    "link": "https://s.shopee.com.br/BQUFiUumT",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255130/lrshop/xfykqxuoqodkva7wfobk.jpg",
+    "ativo": true,
+    "score": 77,
+    "categoria": "kit snacks",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:45:30.6081000Z"
+  },
+  {
     "id": 18514,
     "titulo": "Chocolate MrBeast Youtuber Tik Tok Feastables Sampler Pack 4 Sabores Diferentes Chocolate Importado 240g",
     "preco": 220,
@@ -13546,6 +15002,19 @@
     "criadoEm": "2026-04-23T18:50:24.0289265Z"
   },
   {
+    "id": 26098,
+    "titulo": "Luva de Moto Motoqueiro Motocross Preta MEIO DEDO",
+    "preco": 17.99,
+    "link": "https://s.shopee.com.br/4VZTVB1276",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778259924/lrshop/w5vvbdevxcocg7n6386f.jpg",
+    "ativo": true,
+    "score": 76,
+    "categoria": "capacete moto",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:05:24.7625859Z"
+  },
+  {
     "id": 4961,
     "titulo": "Chocalho de Beb\u00EA Divertido Halteres Beb\u00EA Fitness com Pegada Segura e Confort\u00E1vel",
     "preco": 18.47,
@@ -13611,6 +15080,19 @@
     "criadoEm": "2026-04-21T06:49:00.1769798Z"
   },
   {
+    "id": 25740,
+    "titulo": "Brinquedo Interativo Osso Mordedor Cachorro Sabor Bacon Maci\u00E7o E Resistente De Fibra De Trigo",
+    "preco": 19.99,
+    "link": "https://s.shopee.com.br/7ppvNvqJfl",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255231/lrshop/mggi8ljqbxceemincckw.jpg",
+    "ativo": true,
+    "score": 76,
+    "categoria": "brinquedo pet",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:47:12.3813508Z"
+  },
+  {
     "id": 1234,
     "titulo": "C\u00E2mera de vigil\u00E2ncia A9 HD Sem Fio Wi-Fi Imagem N\u00EDtida Seguran\u00E7a Noturna Monitoramento",
     "preco": 20.88,
@@ -13635,6 +15117,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T23:30:43.0840699Z"
+  },
+  {
+    "id": 25505,
+    "titulo": "par de Luva T\u00E1tica Meio Dedo para Motociclistas Motoqueiros com Prote\u00E7\u00E3o",
+    "preco": 22.99,
+    "link": "https://s.shopee.com.br/6fdxyHbkOT",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778253918/lrshop/hwz6mhgszqmi68c6bq2d.jpg",
+    "ativo": true,
+    "score": 76,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:25:18.7947226Z"
   },
   {
     "id": 4929,
@@ -13856,6 +15351,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-22T19:22:08.8916709Z"
+  },
+  {
+    "id": 25143,
+    "titulo": "Carregador USB Azul Vermelho Verde de Duas Entradas Universal de 5V 2,1A/1A para Carro 12V-24V",
+    "preco": 29.99,
+    "link": "https://s.shopee.com.br/8ASlg3AQdJ",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778249561/lrshop/uqz95cqcf9jme2lqeyg3.jpg",
+    "ativo": true,
+    "score": 76,
+    "categoria": "suporte celular carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:12:41.5155523Z"
   },
   {
     "id": 11349,
@@ -14105,6 +15613,19 @@
     "criadoEm": "2026-05-06T00:19:29.4653456Z"
   },
   {
+    "id": 25281,
+    "titulo": "Cabe\u00E7ada para cavalos, mulas com crucifixo e apliques prata. PRODUTO \u00DANICO NO MERCADO",
+    "preco": 44,
+    "link": "https://s.shopee.com.br/8ASli87KoX",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251376/lrshop/clntqtynre0vogvka7ve.jpg",
+    "ativo": true,
+    "score": 76,
+    "categoria": "produtos mercado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:42:56.4920287Z"
+  },
+  {
     "id": 2117,
     "titulo": "Luva Com Prote\u00E7\u00E3o Moto Motoqueiro Bike Touch \u002B Touca Ninja Balaclava Motocross Trilha",
     "preco": 44.9,
@@ -14235,6 +15756,19 @@
     "criadoEm": "2026-04-20T17:07:40.2916400Z"
   },
   {
+    "id": 25600,
+    "titulo": "Americano Retro HelloKitty Moletom Feminino Vers\u00E1til Doce Estilo Universit\u00E1rio Com Capuz",
+    "preco": 59.9,
+    "link": "https://s.shopee.com.br/9zuPwXzQL0",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778254059/lrshop/u9etvhm3ach4uikmuttm.jpg",
+    "ativo": true,
+    "score": 76,
+    "categoria": "moletom feminino",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:27:39.8298303Z"
+  },
+  {
     "id": 9138,
     "titulo": "\u3010Original\u3011 Perfume \u00C1rabe Feminino Lattafa Yara EDP Importado Doce Floral",
     "preco": 62.88,
@@ -14287,6 +15821,19 @@
     "criadoEm": "2026-05-05T23:03:26.0170781Z"
   },
   {
+    "id": 25512,
+    "titulo": "Luva Para Moto Motociclista X11 Modelo Fit X Com Fun\u00E7\u00E3o Touchscrenn",
+    "preco": 78.9,
+    "link": "https://s.shopee.com.br/W3KcwzDug",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778253926/lrshop/fi5jeglxqg1hfcjan1tr.jpg",
+    "ativo": true,
+    "score": 76,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:25:27.1499118Z"
+  },
+  {
     "id": 11366,
     "titulo": "TYESO Garrafa T\u00E9rmica 1L  Ideal para Academia/Trabalho/Viagem Mant\u00E9m 6h Quente e 8h Fria",
     "preco": 78.99,
@@ -14337,6 +15884,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T22:38:17.0474086Z"
+  },
+  {
+    "id": 26310,
+    "titulo": "Kit X11 Luva Fit-X \u002B Luva Thermic",
+    "preco": 103.12,
+    "link": "https://s.shopee.com.br/3B45wUS8wQ",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778261466/lrshop/n9blzxtbchc9qwosjgvn.jpg",
+    "ativo": true,
+    "score": 76,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:31:07.2172586Z"
   },
   {
     "id": 9125,
@@ -14402,6 +15962,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T23:44:00.2340574Z"
+  },
+  {
+    "id": 26164,
+    "titulo": "Kit 2 pe\u00E7as Luva pano grande  Microfibra Multiuso pano Para lavar carros e Limpeza Geral",
+    "preco": 10,
+    "link": "https://s.shopee.com.br/3B45uplkcd",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778260021/lrshop/rvlejezhiikoonwbvnol.jpg",
+    "ativo": true,
+    "score": 75,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:07:02.3454472Z"
   },
   {
     "id": 1190,
@@ -14625,6 +16198,19 @@
     "criadoEm": "2026-04-20T18:51:09.3004137Z"
   },
   {
+    "id": 26031,
+    "titulo": "Kit Esp\u00E1tulas De Bolo 6 Uni 12 Modelos Diferentes Em Inox",
+    "preco": 19.9,
+    "link": "https://s.shopee.com.br/6VKXrAZu06",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778258457/lrshop/lupyvmchk3fwqrfdrh0m.jpg",
+    "ativo": true,
+    "score": 75,
+    "categoria": "kit cozinha",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:40:57.7629291Z"
+  },
+  {
     "id": 21071,
     "titulo": "Gelatina Modeladora de Cachos Karmeell - 550g Defini\u00E7\u00E3o Antifrizz Hidrata\u00E7\u00E3o Brilho Cacheados Crespo",
     "preco": 19.9,
@@ -14636,6 +16222,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T23:36:23.8119840Z"
+  },
+  {
+    "id": 25307,
+    "titulo": "Kit de Lavar Carro Moto Limpeza automotiva Luva \u002B3 Pano Microfibra",
+    "preco": 19.99,
+    "link": "https://s.shopee.com.br/10zbB0P9lU",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251417/lrshop/mrxksk9ftrkfzszjybwn.jpg",
+    "ativo": true,
+    "score": 75,
+    "categoria": "kit limpeza moto",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:43:38.2925386Z"
   },
   {
     "id": 9380,
@@ -14703,6 +16302,19 @@
     "criadoEm": "2026-04-20T22:13:34.8527622Z"
   },
   {
+    "id": 25319,
+    "titulo": "kit 2 Luva Microfibra Para Lavar Carro Moto Limpeza Automotiva",
+    "preco": 22.99,
+    "link": "https://s.shopee.com.br/4VZTLSgILi",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251436/lrshop/dkuunwdqmpptl1ryt2v9.jpg",
+    "ativo": true,
+    "score": 75,
+    "categoria": "kit limpeza moto",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:43:56.5116137Z"
+  },
+  {
     "id": 4552,
     "titulo": "Kit Semente de Ab\u00F3bora crua \u002B Semente de Girassol crua 1 kg de cada - 500gr de cada - 250gr de cada",
     "preco": 23.99,
@@ -14753,6 +16365,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T23:33:37.8292992Z"
+  },
+  {
+    "id": 26045,
+    "titulo": "Bule De Inox Para Caf\u00E9 Cha280/ 420ml Cafeteira Port\u00E1til Leiteira",
+    "preco": 25.9,
+    "link": "https://s.shopee.com.br/gMkoBBpqT",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778258477/lrshop/pog7wth6kgyejnn6bwku.jpg",
+    "ativo": true,
+    "score": 75,
+    "categoria": "cafeteira port\u00E1til",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:41:18.3339763Z"
   },
   {
     "id": 12158,
@@ -15132,6 +16757,19 @@
     "criadoEm": "2026-04-21T00:13:04.0854840Z"
   },
   {
+    "id": 26308,
+    "titulo": "Luva de Motoqueiro Motoboy - Prote\u00E7\u00E3o para Motoboy e Pilotos Resistente e Confort\u00E1vel  - Nybc",
+    "preco": 37.88,
+    "link": "https://s.shopee.com.br/2g7pLYuqik",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778261462/lrshop/e2if5mqtlcdx6blbm0km.jpg",
+    "ativo": true,
+    "score": 75,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:31:03.3523232Z"
+  },
+  {
     "id": 9316,
     "titulo": "Caixa de Som Bluetooth Alaxe 5 Gera\u00E7\u00E3o Port\u00E1til Original Envio R\u00E1pido Melhor Custo Benef\u00EDcio",
     "preco": 39.86,
@@ -15509,6 +17147,19 @@
     "criadoEm": "2026-05-05T22:29:08.3001428Z"
   },
   {
+    "id": 25522,
+    "titulo": "Luva Motociclista X11 Fit X Motoqueiro Motocross Bike",
+    "preco": 78.9,
+    "link": "https://s.shopee.com.br/W3Kcxl0A0",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778253938/lrshop/v12hb9vr7vgqtbvy7ydw.jpg",
+    "ativo": true,
+    "score": 75,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:25:38.8282629Z"
+  },
+  {
     "id": 18229,
     "titulo": "Chocolate Kinder Cards Biscoito 128 G Importado",
     "preco": 84.92,
@@ -15730,6 +17381,19 @@
     "criadoEm": "2026-04-24T13:37:41.2705765Z"
   },
   {
+    "id": 25697,
+    "titulo": "Garrafa De \u00C1gua Squeeze 600ML 23,5CM Com Al\u00E7a Ideal Para Academia Passeios Trabalho Multicolorida",
+    "preco": 11.7,
+    "link": "https://s.shopee.com.br/LjuS4XT6O",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255173/lrshop/u7nswh0mzpzynvvpezzu.jpg",
+    "ativo": true,
+    "score": 74,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:46:14.4214164Z"
+  },
+  {
     "id": 5460,
     "titulo": "Bala Sour Super Azeda Sabor Na Varia\u00E7ao Importado Asia",
     "preco": 12.87,
@@ -15938,6 +17602,19 @@
     "criadoEm": "2026-05-05T23:40:52.2334530Z"
   },
   {
+    "id": 25507,
+    "titulo": "Par Luva Motoqueiro Motociclista  Prote\u00E7\u00E3o Moto Tamanho \u00DAnico Asp",
+    "preco": 22.99,
+    "link": "https://s.shopee.com.br/9ALIwsSEK2",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778253920/lrshop/cxzyt1c2vgkalzorweuj.jpg",
+    "ativo": true,
+    "score": 74,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:25:20.9551638Z"
+  },
+  {
     "id": 18050,
     "titulo": "KIT 2 Balan\u00E7os Coloridos (Missanga \u002B Corrente) para Calopsita, Pass\u00E1ros",
     "preco": 23.99,
@@ -15975,6 +17652,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-23T07:34:37.7288843Z"
+  },
+  {
+    "id": 26321,
+    "titulo": "Removedor Cravos e Espinhas Extrator de Cravos Suc\u00E7\u00E3o a V\u00E1cuo Aparelho Recarreg\u00E1vel Sugador Remove Acne",
+    "preco": 24.99,
+    "link": "https://s.shopee.com.br/4fstjGCbwq",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778261480/lrshop/r6or5dkjvmel3ytff7h7.jpg",
+    "ativo": true,
+    "score": 74,
+    "categoria": "aparelho limpeza facial",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:31:21.4713005Z"
   },
   {
     "id": 9208,
@@ -16107,19 +17797,6 @@
     "criadoEm": "2026-04-24T11:28:53.5775336Z"
   },
   {
-    "id": 14599,
-    "titulo": "Chinelo Papete Melzinha Slide Lan\u00E7amento Inovador Leve Maciez Conforto Blogueiras",
-    "preco": 29.57,
-    "link": "https://s.shopee.com.br/AKXBwOijOI",
-    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778015750/lrshop/uuivb2t0owclmnaivlo6.jpg",
-    "ativo": true,
-    "score": 74,
-    "categoria": "chinelo feminino",
-    "desconto": "",
-    "precoOriginal": null,
-    "criadoEm": "2026-05-05T21:15:50.7546140Z"
-  },
-  {
     "id": 18243,
     "titulo": "Pretzel Cobertura Chocolate Bonjuks 50g - Importado Turquia",
     "preco": 29.63,
@@ -16144,6 +17821,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T14:31:38.5119383Z"
+  },
+  {
+    "id": 25283,
+    "titulo": "1 Litro Lauril O Melhor Do Mercado 1\u00B0 Linha Espumante",
+    "preco": 31,
+    "link": "https://s.shopee.com.br/20s8MnUoKe",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251378/lrshop/dvngrbnqtjrfg5w1uz3i.jpg",
+    "ativo": true,
+    "score": 74,
+    "categoria": "produtos mercado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:42:59.0589026Z"
   },
   {
     "id": 18529,
@@ -16196,19 +17886,6 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T22:26:43.9579355Z"
-  },
-  {
-    "id": 14681,
-    "titulo": "Slide Feminino Melflex com Tiras Cruzadas Confort\u00E1vel Leve Ideal para o Uso Di\u00E1rio",
-    "preco": 39.15,
-    "link": "https://s.shopee.com.br/Ljq278xRu",
-    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778015821/lrshop/i81mip5bzzewkv2fif4z.jpg",
-    "ativo": true,
-    "score": 74,
-    "categoria": "chinelo feminino",
-    "desconto": "",
-    "precoOriginal": null,
-    "criadoEm": "2026-05-05T21:17:02.3201419Z"
   },
   {
     "id": 18554,
@@ -16287,6 +17964,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-22T22:15:59.9356370Z"
+  },
+  {
+    "id": 25662,
+    "titulo": "Kit 2 Pastilhas Mentos Kiss Sabor Morango e Peppermint Sem A\u00E7\u00FAcar 105g/cada - Pote Com 150 unidades",
+    "preco": 51,
+    "link": "https://s.shopee.com.br/gMkqdT0lU",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255125/lrshop/vcvfhgd8p3clwrqfkqlt.jpg",
+    "ativo": true,
+    "score": 74,
+    "categoria": "kit snacks",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:45:26.1199303Z"
   },
   {
     "id": 7034,
@@ -16458,6 +18148,19 @@
     "criadoEm": "2026-04-24T14:59:31.1655912Z"
   },
   {
+    "id": 26299,
+    "titulo": "Kit Balaclava \u002B Luva Guidao Tradicional California Racing",
+    "preco": 75.1,
+    "link": "https://s.shopee.com.br/7VD4xqfKRe",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778261448/lrshop/xq67opbvqdfhrocd8h9r.jpg",
+    "ativo": true,
+    "score": 74,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:30:48.6671821Z"
+  },
+  {
     "id": 1674,
     "titulo": "Chocolates Importados da Pol\u00F4nia - Milka Triolade 280gr",
     "preco": 77.44,
@@ -16510,6 +18213,19 @@
     "criadoEm": "2026-04-22T23:05:33.9250708Z"
   },
   {
+    "id": 25313,
+    "titulo": "Kit Para Lavar Moto Pneu Pretinho Shampoo V-Floc Cera Tok Final Carnauba Vonixx 500ML Luva e Pano Microfibra",
+    "preco": 95.68,
+    "link": "https://s.shopee.com.br/7ppvJYz8uC",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251425/lrshop/wfcpsdnk8ugr2rv44b7i.jpg",
+    "ativo": true,
+    "score": 74,
+    "categoria": "kit limpeza moto",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:43:46.4168368Z"
+  },
+  {
     "id": 1625,
     "titulo": "Carrinho Compras Mobi Car com produtos E Frutas Carrinho de Mercado Infantil de Brinquedo com Acess\u00F3rios - Usual",
     "preco": 99.87,
@@ -16560,6 +18276,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-21T00:52:12.5784906Z"
+  },
+  {
+    "id": 25850,
+    "titulo": "Camera Seguran\u00E7a C\u00E2mera IP Externa A Prova D\u0027\u00E1gua WiFI 360 \u00C1udio Infravermelho Interno Sem Fio C\u00E2meras de Vigil\u00E2ncia E27",
+    "preco": 111.5,
+    "link": "https://s.shopee.com.br/40dCqgQgaH",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778256816/lrshop/xzqonowcpbe9s7q4vfiu.jpg",
+    "ativo": true,
+    "score": 74,
+    "categoria": "camera wifi",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:13:37.3352367Z"
   },
   {
     "id": 18210,
@@ -17082,6 +18811,19 @@
     "criadoEm": "2026-05-05T23:43:39.9227543Z"
   },
   {
+    "id": 26294,
+    "titulo": "NOVA Luva motoqueiro inverno Frio Touch Screen Motociclista Cano longo Adequado Para Moto(B2-16-B123)\uFF08luva-08\uFF09",
+    "preco": 23.59,
+    "link": "https://s.shopee.com.br/9fHZXpX52r",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778261442/lrshop/revsp6awcfblwrygayu6.jpg",
+    "ativo": true,
+    "score": 73,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:30:43.3630300Z"
+  },
+  {
     "id": 1862,
     "titulo": "Perfume \u00C1rabe original Liquid Brun Masculino | Amadeirado |Doce |Intenso |Alta Fixa\u00E7\u00E3o | Importado",
     "preco": 23.9,
@@ -17158,6 +18900,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-23T00:44:50.6686695Z"
+  },
+  {
+    "id": 25690,
+    "titulo": "Garrafa de \u00C1gua Resistente 1300ml com Filtro, Tampa e Canudo - Academia Escola Trabalho Faculdade",
+    "preco": 24.99,
+    "link": "https://s.shopee.com.br/7Ktemw6otC",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255165/lrshop/whqio0pbtjzon9xfvyve.jpg",
+    "ativo": true,
+    "score": 73,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:46:06.2718460Z"
   },
   {
     "id": 21494,
@@ -17249,6 +19004,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-21T19:42:20.0659622Z"
+  },
+  {
+    "id": 26233,
+    "titulo": "Protetor Para Tanque de Moto Resinado Tankpad Universal - V PRATA VERMELHO 2538",
+    "preco": 27.9,
+    "link": "https://s.shopee.com.br/qgBA4rSN7",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778261356/lrshop/ne4rbwcl73epqnxhkgwp.jpg",
+    "ativo": true,
+    "score": 73,
+    "categoria": "protetor tanque moto",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:29:16.8283907Z"
   },
   {
     "id": 1624,
@@ -17979,6 +19747,19 @@
     "criadoEm": "2026-05-05T22:30:33.5245549Z"
   },
   {
+    "id": 24927,
+    "titulo": "Lanterna t\u00E1tica led super potente P90 mais forte do mercado recarreg\u00E1vel zoom bateria T9",
+    "preco": 79.9,
+    "link": "https://s.shopee.com.br/5L8aEr3R11",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778246074/lrshop/yfefso69d0ywhh1e4nhy.jpg",
+    "ativo": true,
+    "score": 73,
+    "categoria": "lanterna led recarregavel",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T13:14:34.9804764Z"
+  },
+  {
     "id": 2291,
     "titulo": "Tapete Higi\u00EAnico Premium C\u00E3es 80x60 ou 60x60 Ultra Absor\u00E7\u00E3o Combate Mau Cheiro Ecol\u00F3gico - Caramelo",
     "preco": 87,
@@ -17990,6 +19771,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-21T04:36:46.4667357Z"
+  },
+  {
+    "id": 25847,
+    "titulo": "C\u00E2mera A8 Externa Ip A Prova D\u0027\u00E1gua - Infravermelho Alarme Wifi Hd Sensor De Movimento - Bivolt",
+    "preco": 93.88,
+    "link": "https://s.shopee.com.br/5flQpkKLCU",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778256813/lrshop/yyagdxka4yszfoakhahn.jpg",
+    "ativo": true,
+    "score": 73,
+    "categoria": "camera wifi",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:13:34.4711318Z"
   },
   {
     "id": 18287,
@@ -18161,6 +19955,19 @@
     "criadoEm": "2026-04-22T10:51:19.3324257Z"
   },
   {
+    "id": 25677,
+    "titulo": "KIT 20 SALGADINHOS ELMA CHIPS \u002B 20 FINIS \u002B 20 SUCOS DEL VALLE FRUT 200mL",
+    "preco": 129.9,
+    "link": "https://s.shopee.com.br/2g7pEJLOiC",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255143/lrshop/igq5bmlibgpvbwhgf9hb.jpg",
+    "ativo": true,
+    "score": 73,
+    "categoria": "kit snacks",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:45:44.4121920Z"
+  },
+  {
     "id": 24405,
     "titulo": "Bicicleta Aro 12  Balance Infantil Equil\u00EDbrio Crian\u00E7a Seguro Forte",
     "preco": 139,
@@ -18224,6 +20031,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T22:55:10.6473767Z"
+  },
+  {
+    "id": 25807,
+    "titulo": "Cabo Carrega Macaron Usb Dados Turbo Celular V8/ tipo c/ IPHONE Todas Marcas 1.2m",
+    "preco": 7.59,
+    "link": "https://s.shopee.com.br/20s8Sy8i1Z",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778256767/lrshop/e3gqtyp7m2ttoy1lhbi3.jpg",
+    "ativo": true,
+    "score": 72,
+    "categoria": "cabo usb c",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:12:47.6453076Z"
   },
   {
     "id": 1854,
@@ -18369,6 +20189,19 @@
     "criadoEm": "2026-04-20T20:10:32.0152575Z"
   },
   {
+    "id": 25508,
+    "titulo": "Luvas profissionais para esportes ao ar livre motociclistas Par De Luva T\u00E1tica Dedo Para Motoqueiros Com Prote\u00E7\u00E3o",
+    "preco": 19.99,
+    "link": "https://s.shopee.com.br/AADq8iOQIK",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778253921/lrshop/v0mrnetc6iwbqhkzxxug.jpg",
+    "ativo": true,
+    "score": 72,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:25:21.9570418Z"
+  },
+  {
     "id": 10905,
     "titulo": "Kit 05 Faixas El\u00E1stica Melhore seu Treino Fitness com Band de L\u00E1tex Fisioterapia Reabilita\u00E7\u00E3o Resist\u00EAncia de 02 a 18 Kg",
     "preco": 19.99,
@@ -18419,6 +20252,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T20:22:18.8504784Z"
+  },
+  {
+    "id": 25670,
+    "titulo": "Kit 5 Sementes Naturais \uD83C\uDF31 Chia \u002B Linha\u00E7a \u002B Girassol \u002B Ab\u00F3bora \u002B Gergelim",
+    "preco": 21.9,
+    "link": "https://s.shopee.com.br/50Vk0bCVyU",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255134/lrshop/fbu2tywzt9camcbjbcsy.jpg",
+    "ativo": true,
+    "score": 72,
+    "categoria": "kit snacks",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:45:35.2748838Z"
   },
   {
     "id": 12963,
@@ -18473,6 +20319,19 @@
     "criadoEm": "2026-05-05T21:12:40.9887193Z"
   },
   {
+    "id": 25660,
+    "titulo": "10 Unid. Salgadinho Doritos 22g Elma Chips",
+    "preco": 24.9,
+    "link": "https://s.shopee.com.br/1gFI2TPCje",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255123/lrshop/y8zpu34k6f8j1dg2fcpg.jpg",
+    "ativo": true,
+    "score": 72,
+    "categoria": "kit snacks",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:45:23.6300394Z"
+  },
+  {
     "id": 4447,
     "titulo": "Kit 10 - 20 - 30 Salgadinho Elma Chips - Doritos / Ruffles / Fandangos / Cheetos",
     "preco": 24.9,
@@ -18497,19 +20356,6 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-21T12:04:42.7884139Z"
-  },
-  {
-    "id": 14769,
-    "titulo": "Sand\u00E1lia CARNEVALE GLITTER 933 KIKIVE",
-    "preco": 24.97,
-    "link": "https://s.shopee.com.br/20s41GMalM",
-    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778015899/lrshop/kaoifppoms6ovkatlae8.jpg",
-    "ativo": true,
-    "score": 72,
-    "categoria": "chinelo feminino",
-    "desconto": "",
-    "precoOriginal": null,
-    "criadoEm": "2026-05-05T21:18:20.0501600Z"
   },
   {
     "id": 9055,
@@ -18720,6 +20566,19 @@
     "criadoEm": "2026-04-25T15:05:04.6072180Z"
   },
   {
+    "id": 25694,
+    "titulo": "Garrafa T\u00E9rmica 500ml A\u00E7o Inox Port\u00E1til Viagem Colorido Academia Trabalho Viagem Fosco",
+    "preco": 32.99,
+    "link": "https://s.shopee.com.br/3g0MQCKmKq",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255170/lrshop/ofsoffudfztboasplt6t.jpg",
+    "ativo": true,
+    "score": 72,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:46:10.6953239Z"
+  },
+  {
     "id": 2945,
     "titulo": "Bros Tubo Par Slider Protetor Carenagem Motor Tanque Vermelho Pedal Moto para Mata Cachorro",
     "preco": 32.99,
@@ -18889,6 +20748,19 @@
     "criadoEm": "2026-04-20T18:51:18.1107343Z"
   },
   {
+    "id": 25530,
+    "titulo": "Alaxe5 Gera\u00E7\u00E3o Alto Falante Original Envio Imediato Melhor Pre\u00E7o",
+    "preco": 44.65,
+    "link": "https://s.shopee.com.br/7VD4xrSLRn",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778253958/lrshop/imwt4ficmyrnkltsvvbs.jpg",
+    "ativo": true,
+    "score": 72,
+    "categoria": "caixa de som bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:25:59.2333540Z"
+  },
+  {
     "id": 18474,
     "titulo": "Pastilha Importada Barkleys Chocolate Cinnamon 50g",
     "preco": 44.69,
@@ -19004,6 +20876,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T20:48:30.7793544Z"
+  },
+  {
+    "id": 25667,
+    "titulo": "Kit 2 Caixas Chiclete Mentos Refrescante  Pure Fresh Menta e Tutti Frutti Com 120 Pe\u00E7as",
+    "preco": 50.31,
+    "link": "https://s.shopee.com.br/LjuS1UHRW",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255131/lrshop/pbyn8aaqaewpurtmpf39.jpg",
+    "ativo": true,
+    "score": 72,
+    "categoria": "kit snacks",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:45:31.8080054Z"
   },
   {
     "id": 21647,
@@ -19253,6 +21138,19 @@
     "criadoEm": "2026-04-21T00:10:15.3084711Z"
   },
   {
+    "id": 26122,
+    "titulo": "Acess\u00F3rios Para Fritadeira De Ar De Alto-Falante cbbltls5j8pn , Prateleiras 6QT , Aria E Forno De Desidratador , Frutas ",
+    "preco": 93.9,
+    "link": "https://s.shopee.com.br/20s8WcMwRt",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778259957/lrshop/elb2hd4q2z1c7td6kjrw.jpg",
+    "ativo": true,
+    "score": 72,
+    "categoria": "air fryer acessorios",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:05:57.7826801Z"
+  },
+  {
     "id": 18828,
     "titulo": "Doce De Leite  Importado Vacalin Argentino Vidro 450g Kit 2 Unidades",
     "preco": 98.99,
@@ -19290,6 +21188,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T15:42:32.1236053Z"
+  },
+  {
+    "id": 26132,
+    "titulo": "Acess\u00F3rios Para Fritadeira De Ar , Prateleiras 6QT , Aria E Forno De Desidratador , Frutas Carnes",
+    "preco": 114.75,
+    "link": "https://s.shopee.com.br/BQULGTaN4",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778259972/lrshop/eult8mr22on1kupre3q6.jpg",
+    "ativo": true,
+    "score": 72,
+    "categoria": "air fryer acessorios",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:06:12.9724254Z"
   },
   {
     "id": 5209,
@@ -19578,6 +21489,32 @@
     "criadoEm": "2026-04-30T16:23:59.5596762Z"
   },
   {
+    "id": 25028,
+    "titulo": "Kit 100 Adesivos Hora da Gravata 4x4 Flork Divertidos para Casamento Opera\u00E7\u00E3o Lua De Mel Eu Apoio!",
+    "preco": 19.9,
+    "link": "https://s.shopee.com.br/5L8aF4BNm7",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778246262/lrshop/qglifbsshwpbqq74hvyn.jpg",
+    "ativo": true,
+    "score": 71,
+    "categoria": "suporte notebook",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T13:17:43.3450394Z"
+  },
+  {
+    "id": 25019,
+    "titulo": "Kit 130 Adesivos Divertidos Hora da Gravata Flork 4x4cm Casamento Noivo Opera\u00E7\u00E3o Lua De Mel Eu Apoio",
+    "preco": 19.9,
+    "link": "https://s.shopee.com.br/40dCeZvCPJ",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778246231/lrshop/mddv45kbjcetwhaixy54.jpg",
+    "ativo": true,
+    "score": 71,
+    "categoria": "suporte notebook",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T13:17:13.7954644Z"
+  },
+  {
     "id": 5462,
     "titulo": "Perfume \u00C1rabe Yara Lattafa Feminino | Original |Doce Cremoso | Alta Fixa\u00E7\u00E3o | Importado",
     "preco": 19.9,
@@ -19589,6 +21526,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-23T19:14:32.6155720Z"
+  },
+  {
+    "id": 25516,
+    "titulo": "Luva T\u00E1tica Meio Dedo para Motociclistas Motoqueiros com Prote\u00E7\u00E3o",
+    "preco": 19.98,
+    "link": "https://s.shopee.com.br/70GoMuMFxt",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778253931/lrshop/azkfbpx3xqf9kxaqjvnu.jpg",
+    "ativo": true,
+    "score": 71,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:25:32.2164254Z"
   },
   {
     "id": 12018,
@@ -19786,6 +21736,19 @@
     "criadoEm": "2026-04-20T17:56:44.2311898Z"
   },
   {
+    "id": 25506,
+    "titulo": "Luva Motociclista Motoqueiro Sport Motocross Motoboy Pro bike",
+    "preco": 24.99,
+    "link": "https://s.shopee.com.br/7AaEZCZqNa",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778253919/lrshop/wovbm1somgtau8ivzt28.jpg",
+    "ativo": true,
+    "score": 71,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:25:19.9207172Z"
+  },
+  {
     "id": 17611,
     "titulo": "Mordedor Pel\u00FAcia Pet Macaco com apito",
     "preco": 24.99,
@@ -19864,6 +21827,19 @@
     "criadoEm": "2026-04-21T09:01:24.0691721Z"
   },
   {
+    "id": 25664,
+    "titulo": "Kit 4 Caixas Poosh Sabores Hortel\u00E3, Morango, Tutti-Frutti e Uva \u2013 40 Unidades Cada",
+    "preco": 28.99,
+    "link": "https://s.shopee.com.br/10zbFFRk5a",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255127/lrshop/u16uf7ryuqaojd0zhyg2.jpg",
+    "ativo": true,
+    "score": 71,
+    "categoria": "kit snacks",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:45:28.2273600Z"
+  },
+  {
     "id": 1966,
     "titulo": "Luvas De Motociclista Imperme\u00E1veis T\u00E9rmicas Com touch Screen E Bolso Antiderrapante",
     "preco": 29.98,
@@ -19901,6 +21877,32 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-25T11:12:08.1850032Z"
+  },
+  {
+    "id": 25312,
+    "titulo": "2 Pretinho Baba de Camelo Automotivo Concentrado Carro Moto 500ml",
+    "preco": 32.6,
+    "link": "https://s.shopee.com.br/AKXGI9pcpR",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251424/lrshop/a0pv8rkthq5if5bsyoom.jpg",
+    "ativo": true,
+    "score": 71,
+    "categoria": "kit limpeza moto",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:43:44.6349126Z"
+  },
+  {
+    "id": 25689,
+    "titulo": "Garrafa T\u00E9rmica 900ML Com Al\u00E7a Flip Tumbl A\u00E7o Inoxid\u00E1vel Isolamento T\u00E9rmico Com Canudo P/ Academia Trabalho Caminhada",
+    "preco": 33.99,
+    "link": "https://s.shopee.com.br/7VD4zEL1fW",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255162/lrshop/xqnrigtkiaivahhtjfa1.jpg",
+    "ativo": true,
+    "score": 71,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:46:03.6585384Z"
   },
   {
     "id": 1898,
@@ -20579,6 +22581,19 @@
     "criadoEm": "2026-05-05T20:39:41.0938647Z"
   },
   {
+    "id": 25399,
+    "titulo": "Jogo Com 4 Espatulas alavanca ferramentas automotivas p Remover multimidia som Painel Forro De Porta kit reparo de carro",
+    "preco": 10.95,
+    "link": "https://s.shopee.com.br/20s8OfWy6F",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778253011/lrshop/eflij0vceearykieplg8.jpg",
+    "ativo": true,
+    "score": 70,
+    "categoria": "multimidia carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:10:12.0313501Z"
+  },
+  {
     "id": 19189,
     "titulo": "Ess\u00EAncia Rosas Vermelhas 30g - Linha Hidrossol\u00FAvel. Para \u00C1gua de Len\u00E7\u00F3is, Aromatizador el\u00E9trico e Umidificador de ar",
     "preco": 11.79,
@@ -20670,6 +22685,19 @@
     "criadoEm": "2026-04-20T23:30:56.1949374Z"
   },
   {
+    "id": 25510,
+    "titulo": "Luvas de Seguran\u00E7a Meio/NORMAL Dedo Para Motociclistas e Ciclistas Anti-impacto",
+    "preco": 15.8,
+    "link": "https://s.shopee.com.br/AUqgXKN9cQ",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778253923/lrshop/xvrozqifitxqno51vp9c.jpg",
+    "ativo": true,
+    "score": 70,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:25:24.7089552Z"
+  },
+  {
     "id": 21700,
     "titulo": "Pretinho Baba De Camelo Blue Super Concentrado Automotivo Brilho Intenso Original 1 litro",
     "preco": 15.82,
@@ -20683,17 +22711,17 @@
     "criadoEm": "2026-05-05T23:45:23.3167852Z"
   },
   {
-    "id": 7603,
-    "titulo": "Palmilha Gel Ortop\u00E9dica Alivia Dores Nos P\u00E9s Anat\u00F4mica Para V\u00E1rias Horas de Trabalho",
-    "preco": 15.99,
-    "link": "https://s.shopee.com.br/901WdBPgeg",
-    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1777055745/lrshop/xzqatiz3l0qam6vsr28a.jpg",
+    "id": 26305,
+    "titulo": "Luva esportiva para motociclistas - conforto e seguran\u00E7a--1498",
+    "preco": 15.95,
+    "link": "https://s.shopee.com.br/809LhMaXtG",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778261458/lrshop/jfjggkkbtbxhiwbpb04l.jpg",
     "ativo": true,
     "score": 70,
-    "categoria": "chinelo masculino",
+    "categoria": "luva motociclista",
     "desconto": "",
     "precoOriginal": null,
-    "criadoEm": "2026-04-24T18:35:46.3600836Z"
+    "criadoEm": "2026-05-08T17:30:59.0241856Z"
   },
   {
     "id": 12058,
@@ -21034,6 +23062,19 @@
     "criadoEm": "2026-04-22T01:41:30.7708380Z"
   },
   {
+    "id": 26443,
+    "titulo": "Kit Shampoo Lava Auto 500ml \u002B Pneu Pretinho 500ml \u002B Luva Microfibra Lavagem Automotiva Carro Moto",
+    "preco": 31.59,
+    "link": "https://s.shopee.com.br/8piSVQPnYy",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264630/lrshop/gcldycx8ehpkjlp2vknq.jpg",
+    "ativo": true,
+    "score": 70,
+    "categoria": "kit limpeza moto",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:23:51.3022485Z"
+  },
+  {
     "id": 2986,
     "titulo": "Fazer Tubo Par Slider Protetor Carenagem Motor Tanque Vermelho Pedal Moto para Mata Cachorro",
     "preco": 32.99,
@@ -21123,6 +23164,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-24T13:38:30.3300394Z"
+  },
+  {
+    "id": 26004,
+    "titulo": "Esfregona Pregui\u00E7osa De Girassol Multifuncional , Ferramenta De Limpeza Circular Para Teto E Piso Em Casa",
+    "preco": 39,
+    "link": "https://s.shopee.com.br/8ASlqCChJq",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778258426/lrshop/soodok1y2gcbhuomtvb1.jpg",
+    "ativo": true,
+    "score": 70,
+    "categoria": "mop limpeza",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:40:27.3064537Z"
   },
   {
     "id": 18506,
@@ -21253,6 +23307,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-20T17:57:10.6877561Z"
+  },
+  {
+    "id": 26426,
+    "titulo": "3 Chocolates Importados Da Pol\u00F4nia - Milka Bubbly White",
+    "preco": 61.75,
+    "link": "https://s.shopee.com.br/2LUz0WuR5p",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264586/lrshop/b59sutf7j3t73puoijww.jpg",
+    "ativo": true,
+    "score": 70,
+    "categoria": "chocolate importado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:23:07.3925141Z"
   },
   {
     "id": 23197,
@@ -21450,6 +23517,19 @@
     "criadoEm": "2026-05-05T21:14:11.7863839Z"
   },
   {
+    "id": 26259,
+    "titulo": "Kit 6/ 10 Mini Caixa de Som Bluetooth R\u00E1dio WS-887 Altomex Colorida Atacado",
+    "preco": 159.99,
+    "link": "https://s.shopee.com.br/1gFI89SpCI",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778261393/lrshop/ikc23kz46qqwpynpwtmc.jpg",
+    "ativo": true,
+    "score": 70,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:29:53.5755931Z"
+  },
+  {
     "id": 1667,
     "titulo": "2026 novos produtos crian\u00E7as fora de estrada carro de brinquedo inercial grande ATV captador modelo de carro mercado not",
     "preco": 166.18,
@@ -21474,6 +23554,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T22:38:47.4334965Z"
+  },
+  {
+    "id": 26454,
+    "titulo": "Kit Para Lavar Moto Shampoo V-Floc Cera Tok Final Vonixx Aplicador Vonixx Luva Microfibra Pano Pincel",
+    "preco": 179.92,
+    "link": "https://s.shopee.com.br/4VZTaZ6yVA",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264649/lrshop/ycbfsjeeayh3mzixdiqf.jpg",
+    "ativo": true,
+    "score": 70,
+    "categoria": "kit limpeza moto",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:24:09.9722876Z"
   },
   {
     "id": 18250,
@@ -21539,6 +23632,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T21:14:10.4869571Z"
+  },
+  {
+    "id": 25284,
+    "titulo": "Ultraclor Premium 10Kg para Piscinas O Mais Concentrado do Mercado",
+    "preco": 384.99,
+    "link": "https://s.shopee.com.br/3Vgw9YP6I5",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251379/lrshop/muamfqo5c9wfx77qn0jl.jpg",
+    "ativo": true,
+    "score": 70,
+    "categoria": "produtos mercado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:43:00.1931056Z"
   },
   {
     "id": 18528,
@@ -21630,6 +23736,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-20T09:13:11.7689384Z"
+  },
+  {
+    "id": 26218,
+    "titulo": "Protetor de Tanque Moto Honda Vermelho, Amarelo, Cinza Fibra de Carbono Tankpad Universal",
+    "preco": 11,
+    "link": "https://s.shopee.com.br/3B45wL48vY",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778261334/lrshop/wbwyqogio0sujpw4hivq.jpg",
+    "ativo": true,
+    "score": 69,
+    "categoria": "protetor tanque moto",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:28:54.6821287Z"
   },
   {
     "id": 1739,
@@ -21944,6 +24063,19 @@
     "criadoEm": "2026-05-05T14:54:52.1952348Z"
   },
   {
+    "id": 26212,
+    "titulo": "Mini Caixa De Som Inpods Little Fun Macaron Port\u00E1til Bluetooth",
+    "preco": 21.99,
+    "link": "https://s.shopee.com.br/7KtesZ7Fgm",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778260091/lrshop/hbbgvhsfpyknxfwz1y81.jpg",
+    "ativo": true,
+    "score": 69,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:08:11.8089422Z"
+  },
+  {
     "id": 18546,
     "titulo": "Chocolate Milka Importado UNIT\u00C1RIO",
     "preco": 21.99,
@@ -21994,6 +24126,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T22:53:33.3580211Z"
+  },
+  {
+    "id": 25011,
+    "titulo": "130 Adesivos para Casamento Gravata Noivo 4x4cm Hora da Gravata Lua De Mel Eu Apoio",
+    "preco": 22.9,
+    "link": "https://s.shopee.com.br/2LUyfUWbFk",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778246204/lrshop/dr55kv76ddmve94iay2m.jpg",
+    "ativo": true,
+    "score": 69,
+    "categoria": "suporte notebook",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T13:16:45.5145079Z"
   },
   {
     "id": 2498,
@@ -23062,6 +25207,19 @@
     "criadoEm": "2026-05-05T22:34:38.9617500Z"
   },
   {
+    "id": 26459,
+    "titulo": "Kit Lavagem de Moto Shampoo Neutro V-Floc Vonixx e Shampoo para Barro V-Mol Vonixx Pincel e Luva",
+    "preco": 77.9,
+    "link": "https://s.shopee.com.br/60OHNK1GSY",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264655/lrshop/aayutsbeodgujyhk9xkd.jpg",
+    "ativo": true,
+    "score": 69,
+    "categoria": "kit limpeza moto",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:24:15.6889164Z"
+  },
+  {
     "id": 21799,
     "titulo": "Macaco Mec\u00E2nico Sanfona Universal \u002B Chave Catraca Para Carros Passeio 1500kg Automotivo A\u00E7o Refor\u00E7ado",
     "preco": 78.99,
@@ -23125,6 +25283,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T22:30:38.4462596Z"
+  },
+  {
+    "id": 25671,
+    "titulo": "40 Doritos Salgadinho Elma Chips",
+    "preco": 89.9,
+    "link": "https://s.shopee.com.br/40dColGK0K",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255135/lrshop/jyvydfiq7zm4fuqyxjmx.jpg",
+    "ativo": true,
+    "score": 69,
+    "categoria": "kit snacks",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:45:36.6240954Z"
   },
   {
     "id": 21119,
@@ -23452,6 +25623,19 @@
     "criadoEm": "2026-05-05T22:26:57.8083211Z"
   },
   {
+    "id": 26306,
+    "titulo": "Luva Antiderrapante Motocross Mountain Bike BMX - A119D",
+    "preco": 21.99,
+    "link": "https://s.shopee.com.br/9fHZgQUCVg",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778261459/lrshop/hkfxuprq5vafxv8pdhtz.jpg",
+    "ativo": true,
+    "score": 68,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:31:00.1985362Z"
+  },
+  {
     "id": 18785,
     "titulo": "Caneca Personalizada docinhos de chocolate, cer\u00E2mica importada 325ML",
     "preco": 23.1,
@@ -23463,6 +25647,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T22:56:12.2171575Z"
+  },
+  {
+    "id": 25282,
+    "titulo": "Tira grude cola removedor piche f\u00E1cil sem esfor\u00E7o melhor do mercado",
+    "preco": 23.13,
+    "link": "https://s.shopee.com.br/AUqgUPyS55",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251377/lrshop/aqlhbxtntviixy0bp3yz.jpg",
+    "ativo": true,
+    "score": 68,
+    "categoria": "produtos mercado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:42:57.6804855Z"
   },
   {
     "id": 18303,
@@ -23621,19 +25818,6 @@
     "criadoEm": "2026-05-05T22:44:44.8716408Z"
   },
   {
-    "id": 15247,
-    "titulo": "Chinelo Papete Mell Slide Lan\u00E7amento Inovador Macio Leve",
-    "preco": 29.9,
-    "link": "https://s.shopee.com.br/7KtaNV0neG",
-    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778016274/lrshop/s5h9p7hjltga1zjzcb2i.jpg",
-    "ativo": true,
-    "score": 68,
-    "categoria": "chinelo feminino",
-    "desconto": "",
-    "precoOriginal": null,
-    "criadoEm": "2026-05-05T21:24:34.6720368Z"
-  },
-  {
     "id": 12586,
     "titulo": "Cleasing Mousse de Limpeza Facial Demaquila, Regenera com a\u00E7\u00E3o antioxidante Face Beatiful 150ml",
     "preco": 29.9,
@@ -23725,17 +25909,17 @@
     "criadoEm": "2026-05-05T20:48:08.6090490Z"
   },
   {
-    "id": 13029,
-    "titulo": "Limpa Camur\u00E7a Nobuck Tira Mancha Sapato Bota Mercado Couros",
-    "preco": 36.97,
-    "link": "https://s.shopee.com.br/70GjwRbgnC",
-    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778014137/lrshop/nsv7mzhw45l1xk3da3uv.jpg",
+    "id": 26301,
+    "titulo": "Luva de Motoqueiro Motoboy - Prote\u00E7\u00E3o para Motoboy e Pilotos Resistente e Confort\u00E1vel  - AERO",
+    "preco": 36.9,
+    "link": "https://s.shopee.com.br/4qCJvXPz2G",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778261453/lrshop/xdlfltyq9mv2kx0ail7c.jpg",
     "ativo": true,
     "score": 68,
-    "categoria": "produtos mercado",
+    "categoria": "luva motociclista",
     "desconto": "",
     "precoOriginal": null,
-    "criadoEm": "2026-05-05T20:48:57.8559184Z"
+    "criadoEm": "2026-05-08T17:30:53.6095851Z"
   },
   {
     "id": 12635,
@@ -23842,6 +26026,19 @@
     "criadoEm": "2026-04-21T00:49:50.8251021Z"
   },
   {
+    "id": 25286,
+    "titulo": "Cabe\u00E7ada para cavalos, mulas com crucifixo e apliques mangalarga. PRODUTO \u00DANICO NO MERCADO",
+    "preco": 44,
+    "link": "https://s.shopee.com.br/9pazhCS0VO",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251383/lrshop/deslt6kpu04y9ylcjowe.jpg",
+    "ativo": true,
+    "score": 68,
+    "categoria": "produtos mercado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:43:03.7655476Z"
+  },
+  {
     "id": 4013,
     "titulo": "Garrafa T\u00E9rmica 900ML Com Bico Com Al\u00E7a Flip Tumbl A\u00E7o Inoxid\u00E1vel Academia Trabalho",
     "preco": 44.99,
@@ -23918,6 +26115,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T23:40:00.1967057Z"
+  },
+  {
+    "id": 26340,
+    "titulo": "Atacado--Kit12/24UNI  Escova Limpeza Facial 2 Em 1 Aparelho Massagem Esponja Com Caixinha Unitario",
+    "preco": 53.9,
+    "link": "https://s.shopee.com.br/1gFI9lkAyS",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778261503/lrshop/yngchbuk3evezv22bzpj.jpg",
+    "ativo": true,
+    "score": 68,
+    "categoria": "aparelho limpeza facial",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:31:44.6522461Z"
   },
   {
     "id": 1864,
@@ -24089,6 +26299,19 @@
     "criadoEm": "2026-04-21T03:07:13.3046385Z"
   },
   {
+    "id": 25285,
+    "titulo": "Peitoral para cavalos, produto \u00FAnico no mercado, tran\u00E7as exclusivas em couro leg\u00EDtimo. PROMO\u00C7\u00C3O",
+    "preco": 75,
+    "link": "https://s.shopee.com.br/7AaEWIc9uc",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251382/lrshop/wgndfn0av50nf14sjbyn.jpg",
+    "ativo": true,
+    "score": 68,
+    "categoria": "produtos mercado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:43:02.3549139Z"
+  },
+  {
     "id": 21737,
     "titulo": "Jogo Tapete Automotivo carro Emborrachado VERMELHO 4 Pe\u00E7as com nome Logo personalizado de Todas as Montadoras Personalize seu Carro com Eleg\u00E2ncia e Paix\u00E3o pelo Mundo Automotivo",
     "preco": 75,
@@ -24100,6 +26323,32 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T23:45:53.2767073Z"
+  },
+  {
+    "id": 26131,
+    "titulo": "AirFryer Pote De Silicone Multifuncional Fritadeiras De Ar Forno Acess\u00F3rios P\u00E3o Frito Frango Pizza Cesta Bandeja De Cozi",
+    "preco": 75.69,
+    "link": "https://s.shopee.com.br/2g7pJrK4IJ",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778259970/lrshop/m23siwuylbmwcyfz8arr.jpg",
+    "ativo": true,
+    "score": 68,
+    "categoria": "air fryer acessorios",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:06:10.7043542Z"
+  },
+  {
+    "id": 25289,
+    "titulo": "Bandeja De Degusta\u00E7\u00E3o Novidade Azul Demonstra\u00E7\u00E3o Produtos Mercado",
+    "preco": 82.99,
+    "link": "https://s.shopee.com.br/gMkmMVdIq",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251388/lrshop/pbsvfygj9lpx9lihpqco.jpg",
+    "ativo": true,
+    "score": 68,
+    "categoria": "produtos mercado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:43:08.6775981Z"
   },
   {
     "id": 4680,
@@ -24165,6 +26414,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T20:57:43.0669572Z"
+  },
+  {
+    "id": 25287,
+    "titulo": "Bandeja Vermelha Degusta\u00E7\u00E3o Grande Colorida Demonstra\u00E7\u00E3o Produtos Mercado",
+    "preco": 120,
+    "link": "https://s.shopee.com.br/9zuPtVRNAT",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251384/lrshop/albzhxzn7fj6qzfxvy4c.jpg",
+    "ativo": true,
+    "score": 68,
+    "categoria": "produtos mercado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:43:05.0475653Z"
   },
   {
     "id": 18743,
@@ -24425,6 +26687,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-06T00:21:51.3802765Z"
+  },
+  {
+    "id": 25747,
+    "titulo": "Balan\u00E7o Missanga Brinquedo para Calopsita, Periquitos e outras Aves",
+    "preco": 15.99,
+    "link": "https://s.shopee.com.br/7AaEaifnjI",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255243/lrshop/sdhaghjadpymvagqwpkv.jpg",
+    "ativo": true,
+    "score": 67,
+    "categoria": "brinquedo pet",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:47:24.1711498Z"
   },
   {
     "id": 5311,
@@ -24869,6 +27144,19 @@
     "criadoEm": "2026-04-20T22:51:09.0965753Z"
   },
   {
+    "id": 25702,
+    "titulo": "Garrafa T\u00E9rmica 400 ml pequena inox parede dupla para trabalho academia escola faculdade",
+    "preco": 29.99,
+    "link": "https://s.shopee.com.br/901sm0o2Zm",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255181/lrshop/qhduepuv43ke1ewcss1o.jpg",
+    "ativo": true,
+    "score": 67,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:46:21.9815008Z"
+  },
+  {
     "id": 18750,
     "titulo": "Kit de Chocolate Reese\u0027s Peanut Butter Big Cup Hersheys 39g Unidade Importado",
     "preco": 29.99,
@@ -25155,6 +27443,19 @@
     "criadoEm": "2026-04-24T11:28:43.7836956Z"
   },
   {
+    "id": 25882,
+    "titulo": "Ra\u00E7\u00E3o Para Gatos Unicat Sabor: Atum 10,1Kg Sem Corantes Artificiais PRODUTO ORIGINAL LACRADO",
+    "preco": 69.88,
+    "link": "https://s.shopee.com.br/3LNW3WaL3X",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778256861/lrshop/wr9xy51ctasgogbk6fin.jpg",
+    "ativo": true,
+    "score": 67,
+    "categoria": "produto pet",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:14:22.2204792Z"
+  },
+  {
     "id": 18350,
     "titulo": "Kit 2 Biscoito Importado Gota Chocolate Gullon 150G S/A\u00E7\u00FAcar",
     "preco": 69.9,
@@ -25413,6 +27714,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-21T03:50:03.8295778Z"
+  },
+  {
+    "id": 26183,
+    "titulo": "Porta Frios Preto Para Presunto e Queijo Com Fundo Duplo e Remov\u00EDvel Remov\u00EDvel Para Organizar e Conservar na Geladeira",
+    "preco": 17.75,
+    "link": "https://s.shopee.com.br/901sraWIXo",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778260051/lrshop/z7evsb0cphcm99xeop8p.jpg",
+    "ativo": true,
+    "score": 66,
+    "categoria": "organizadores cozinha",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:07:33.4196061Z"
   },
   {
     "id": 1598,
@@ -25805,6 +28119,19 @@
     "criadoEm": "2026-05-05T17:13:03.2796667Z"
   },
   {
+    "id": 25517,
+    "titulo": "Luva Frio Intenso Moto Motoqueiro Bike\u002Btouca Ninja Balaclava",
+    "preco": 48.25,
+    "link": "https://s.shopee.com.br/6pxOAbMtIs",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778253932/lrshop/ucmnqso3nfqtog5lfcuv.jpg",
+    "ativo": true,
+    "score": 66,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:25:33.1411656Z"
+  },
+  {
     "id": 5846,
     "titulo": "Caixa de Chicletes Goma de Mascar Bubble Gum Sabor LARANJA c/ caixa de  48 unidades (259,2g)  Marukawa importado japon\u00EAs",
     "preco": 49,
@@ -25870,6 +28197,19 @@
     "criadoEm": "2026-05-05T20:59:19.1095041Z"
   },
   {
+    "id": 25280,
+    "titulo": "Removedor De Ceras Resinas Acr\u00EDlicas - Melhor Do Mercado 5l",
+    "preco": 66.99,
+    "link": "https://s.shopee.com.br/8piSVM4nSb",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251374/lrshop/zt3ebvqbmle8xp9nvjgc.jpg",
+    "ativo": true,
+    "score": 66,
+    "categoria": "produtos mercado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:42:55.3026893Z"
+  },
+  {
     "id": 10557,
     "titulo": "AirFryer Pote De Silicone Multifuncional Fritadeiras De Ar Forno Acess\u00F3rios P\u00E3o Frito Frango Pizza Cesta Bandeja De Cozi",
     "preco": 68.92,
@@ -25920,6 +28260,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T22:57:27.4232134Z"
+  },
+  {
+    "id": 26317,
+    "titulo": "KIT LUVA THERMIC X11 \u002B BALACLAVA TROIA PROTE\u00C7\u00C3O FRIO",
+    "preco": 75.9,
+    "link": "https://s.shopee.com.br/8fP2Ub7Cmv",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778261475/lrshop/yotaqzvernjwmgdzcuxd.jpg",
+    "ativo": true,
+    "score": 66,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:31:15.4959502Z"
   },
   {
     "id": 18241,
@@ -26325,6 +28678,19 @@
     "criadoEm": "2026-05-05T22:28:57.7080647Z"
   },
   {
+    "id": 26307,
+    "titulo": "Luva Motoboy Motoqueiro Neve Sport Inverno Frio Entregador Resistente A Agua",
+    "preco": 19.98,
+    "link": "https://s.shopee.com.br/7ppvV3bBEX",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778261461/lrshop/mce97uphx0pgwk28dl88.jpg",
+    "ativo": true,
+    "score": 65,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:31:01.7850343Z"
+  },
+  {
     "id": 20873,
     "titulo": "Mousse Modelador Loga 150ml \u2013 Anti Frizz, Defini\u00E7\u00E3o, Brilho e Finaliza\u00E7\u00E3o de Penteados",
     "preco": 19.99,
@@ -26362,6 +28728,32 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T21:58:36.6651954Z"
+  },
+  {
+    "id": 26313,
+    "titulo": "Luva para Motoqueiro Com Prote\u00E7\u00E3o Dorso e Palmo 2479",
+    "preco": 21.9,
+    "link": "https://s.shopee.com.br/50Vk7rLADr",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778261470/lrshop/ehbuv3mkuxjateodffxs.jpg",
+    "ativo": true,
+    "score": 65,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:31:10.5999361Z"
+  },
+  {
+    "id": 25509,
+    "titulo": "Luva para Motoqueiro Bike Touch Ciclismo Motoboy Resistente \u00C1gua",
+    "preco": 21.99,
+    "link": "https://s.shopee.com.br/9zuPwPP3dJ",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778253922/lrshop/qt7tnzyvuoxzhbxlhlo2.jpg",
+    "ativo": true,
+    "score": 65,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:25:23.1571104Z"
   },
   {
     "id": 18515,
@@ -26453,6 +28845,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T22:40:37.8407282Z"
+  },
+  {
+    "id": 25518,
+    "titulo": "Luva Motociclista Motoqueiro Sport Motocross Motoboy Pro bike -STARYE",
+    "preco": 25.95,
+    "link": "https://s.shopee.com.br/8ASll3HobG",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778253933/lrshop/wsxgzqauhda2digbkmoh.jpg",
+    "ativo": true,
+    "score": 65,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:25:34.1712414Z"
   },
   {
     "id": 12145,
@@ -26739,6 +29144,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-21T06:03:17.0830275Z"
+  },
+  {
+    "id": 25527,
+    "titulo": "\u00D3culos Seguran\u00E7a UV Cinza Esportivo anti Risco Motociclista C.A 40906",
+    "preco": 41.9,
+    "link": "https://s.shopee.com.br/8KmBxNc9kT",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778253947/lrshop/em0ftiz9gqklljvsayso.jpg",
+    "ativo": true,
+    "score": 65,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:25:48.0656391Z"
   },
   {
     "id": 18268,
@@ -27038,6 +29456,32 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T22:34:43.3231296Z"
+  },
+  {
+    "id": 26135,
+    "titulo": "AA * 3 Camadas Retangular Torradas Rack De A\u00E7o Inoxid\u00E1vel Fritadeiras De Ar Acess\u00F3rios Grelha De Drenagem De \u00D3leo Para R",
+    "preco": 84.2,
+    "link": "https://s.shopee.com.br/9zuQ3Ks9Q3",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778259976/lrshop/x8f377ducqd2wme5vqff.jpg",
+    "ativo": true,
+    "score": 65,
+    "categoria": "air fryer acessorios",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:06:17.1169946Z"
+  },
+  {
+    "id": 26129,
+    "titulo": "[Em Vendas E] Acess\u00F3rios Para Fritadeira De Ar , Prateleiras 6QT , Aria Forno De Desidratador , Frutas Carnes",
+    "preco": 86.42,
+    "link": "https://s.shopee.com.br/6fdy5C5AzN",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778259966/lrshop/tzr2o5fvusfbirjif1sh.jpg",
+    "ativo": true,
+    "score": 65,
+    "categoria": "air fryer acessorios",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:06:07.2787707Z"
   },
   {
     "id": 13007,
@@ -27532,6 +29976,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T22:44:16.5538804Z"
+  },
+  {
+    "id": 26300,
+    "titulo": "Luva Motociclista Shiver Rocket 2 Neoprene Touch Preta REFOR\u00C7ADA SEGURAN\u00C7A COM PROTETOR ESTILO X11",
+    "preco": 46,
+    "link": "https://s.shopee.com.br/2qRFPGx5uw",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778261449/lrshop/tz6hivgywpcz0c9xmfq8.jpg",
+    "ativo": true,
+    "score": 64,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:30:50.1269283Z"
   },
   {
     "id": 21196,
@@ -28054,6 +30511,19 @@
     "criadoEm": "2026-05-05T20:45:48.6192994Z"
   },
   {
+    "id": 26448,
+    "titulo": "Kit Capinha Capa Case Moto Edge 20 \u002B Pel\u00EDcula 3D \u002B Kit limpeza de tela, ou s\u00F3 capinha.",
+    "preco": 14,
+    "link": "https://s.shopee.com.br/2qRFbVDJsk",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264642/lrshop/pawhowm9biskkey1ncrf.jpg",
+    "ativo": true,
+    "score": 63,
+    "categoria": "kit limpeza moto",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:24:02.5191783Z"
+  },
+  {
     "id": 21177,
     "titulo": "Pasta Modeladora GOMMA Uva extra forte",
     "preco": 14.9,
@@ -28249,6 +30719,19 @@
     "criadoEm": "2026-04-21T04:35:59.9209563Z"
   },
   {
+    "id": 25523,
+    "titulo": "Par de Luvas T\u00E9rmicas Imperme\u00E1veis para Motociclista com Touch Screen \u2013 Inverno e Frio",
+    "preco": 19.89,
+    "link": "https://s.shopee.com.br/BQUELmGpy",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778253941/lrshop/rilxmphjliyaohb3fp8l.jpg",
+    "ativo": true,
+    "score": 63,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:25:42.5074374Z"
+  },
+  {
     "id": 7156,
     "titulo": "Pastilha arom\u00E1tica para difusor ou rechaud - Wax melt - Pacote com 30 ou 50g - Art Bella Velas",
     "preco": 19.9,
@@ -28366,6 +30849,19 @@
     "criadoEm": "2026-04-21T16:59:56.5589924Z"
   },
   {
+    "id": 25521,
+    "titulo": "Luvas profissionais para esportes ao ar livre motociclistas Par De Luva T\u00E1tica Dedo Para Motoqueiros Com Prote\u00E7\u00E3o",
+    "preco": 24.88,
+    "link": "https://s.shopee.com.br/1BJ1QBiSo4",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778253937/lrshop/xxckhe22rq5f0ic6v12j.jpg",
+    "ativo": true,
+    "score": 63,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:25:37.8687052Z"
+  },
+  {
     "id": 21212,
     "titulo": "Cera para Pentear Modeladora Caramelo, Incolor e Matte 150g - LGN Barber (uso masculino)",
     "preco": 25.49,
@@ -28416,6 +30912,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T17:13:34.6402757Z"
+  },
+  {
+    "id": 25303,
+    "titulo": "Mercado Financeiro. Produtos E Servicos - Eduardo Fortuna",
+    "preco": 27.2,
+    "link": "https://s.shopee.com.br/BQUBT9Ytg",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251411/lrshop/eiynjfdvll89yhsvukeo.jpg",
+    "ativo": true,
+    "score": 63,
+    "categoria": "produtos mercado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:43:32.1409529Z"
   },
   {
     "id": 21654,
@@ -29055,6 +31564,19 @@
     "criadoEm": "2026-05-05T16:19:17.9232399Z"
   },
   {
+    "id": 26316,
+    "titulo": "Luva X11 Dry Tech Cano Longo Imperme\u00E1vel Prote\u00E7\u00E3o Motoqueiro Motoboy",
+    "preco": 169.9,
+    "link": "https://s.shopee.com.br/2LUywxVJdb",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778261473/lrshop/oszeafxim87jvk7kpx9y.jpg",
+    "ativo": true,
+    "score": 63,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:31:14.3224576Z"
+  },
+  {
     "id": 13599,
     "titulo": "Ra\u00E7\u00E3o Special Cat Adultos Gatos Felino 10,1kg - Sabor Carne -  Produto Original",
     "preco": 169.99,
@@ -29198,6 +31720,19 @@
     "criadoEm": "2026-05-05T15:42:12.5841911Z"
   },
   {
+    "id": 25659,
+    "titulo": "Kits de 15/ 20/ 30/ 40 /60 pacotes de Amendoim Mendorato Santa Helena 24g cada",
+    "preco": 16.9,
+    "link": "https://s.shopee.com.br/1VvrqAPq4b",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778255121/lrshop/bj7viu9kz6flagkfkgcm.jpg",
+    "ativo": true,
+    "score": 62,
+    "categoria": "kit snacks",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:45:22.4249461Z"
+  },
+  {
     "id": 4520,
     "titulo": "Bala Dura Erlan Morango Cesta Recheada Pacote 500g",
     "preco": 17.3,
@@ -29222,6 +31757,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-26T11:05:39.9494336Z"
+  },
+  {
+    "id": 26467,
+    "titulo": "Kit 3 Luvas Microfibra Para Carro Moto Caminh\u00E3o Detailer",
+    "preco": 21.99,
+    "link": "https://s.shopee.com.br/7VD5A4vYPz",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264669/lrshop/r0hi302wuijmhkwbacz3.jpg",
+    "ativo": true,
+    "score": 62,
+    "categoria": "kit limpeza moto",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:24:30.2904699Z"
   },
   {
     "id": 13608,
@@ -29406,6 +31954,19 @@
     "criadoEm": "2026-05-05T21:04:25.2231360Z"
   },
   {
+    "id": 26309,
+    "titulo": "SEGUNDA PELE LUVA X11 THERMIC TERMICA",
+    "preco": 60.07,
+    "link": "https://s.shopee.com.br/6fdy6vEopw",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778261465/lrshop/vvoiym8nyivgme238p5b.jpg",
+    "ativo": true,
+    "score": 62,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:31:05.6636233Z"
+  },
+  {
     "id": 18539,
     "titulo": "KIT 2 Chocolates Baguete Marzipan Nougat ao leite Zentis \u2013 Doce Alem\u00E3o Importado 100g",
     "preco": 63.9,
@@ -29484,6 +32045,19 @@
     "criadoEm": "2026-05-05T22:53:28.5323291Z"
   },
   {
+    "id": 26314,
+    "titulo": "Luva Motoqueiro Bike X11 Fit X  Tecido Transpir\u00E1vel  Touch Screen",
+    "preco": 79.9,
+    "link": "https://s.shopee.com.br/40dCw1OyFh",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778261471/lrshop/ouh3mjyaiiywsrlfucee.jpg",
+    "ativo": true,
+    "score": 62,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:31:11.7188339Z"
+  },
+  {
     "id": 13601,
     "titulo": "Ra\u00E7\u00E3o Bionatural Prime S\u00EAnior 7\u002B Ra\u00E7as Pequenas C\u00E3es 2,5kg Frango - Produto Original",
     "preco": 85.5,
@@ -29508,6 +32082,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T22:44:13.2534746Z"
+  },
+  {
+    "id": 26304,
+    "titulo": "Luva X11 Fit X \u002B Touca Ninja Balaclava Touchscreen Motoboy Motoqueiro \u002B Cord\u00E3o",
+    "preco": 96,
+    "link": "https://s.shopee.com.br/901stCWjrM",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778261457/lrshop/b59g2nrvmyjjdhiux6yu.jpg",
+    "ativo": true,
+    "score": 62,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:30:57.8783516Z"
   },
   {
     "id": 13616,
@@ -29796,6 +32383,19 @@
     "criadoEm": "2026-05-05T23:35:19.6944685Z"
   },
   {
+    "id": 25529,
+    "titulo": "Luva Motociclista Sport Moto Motocross Bike Ciclismo Motoboy Inverno",
+    "preco": 21.25,
+    "link": "https://s.shopee.com.br/AADq8kVB1u",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778253949/lrshop/x1txykdopogleuirrgso.jpg",
+    "ativo": true,
+    "score": 61,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:25:50.1095973Z"
+  },
+  {
     "id": 8659,
     "titulo": "Lavizoo Muda 15ml - Melhor Produto Para Muda Mercado",
     "preco": 26,
@@ -29926,19 +32526,6 @@
     "criadoEm": "2026-05-05T22:28:40.1540748Z"
   },
   {
-    "id": 12973,
-    "titulo": "Limpa Camur\u00E7a Nobuck Tira Mancha Sapato Bota Mercado Couros",
-    "preco": 44,
-    "link": "https://s.shopee.com.br/7ppqvrssI1",
-    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778014065/lrshop/o9ankvltyjti2jo6zdpw.jpg",
-    "ativo": true,
-    "score": 61,
-    "categoria": "produtos mercado",
-    "desconto": "",
-    "precoOriginal": null,
-    "criadoEm": "2026-05-05T20:47:45.9171541Z"
-  },
-  {
     "id": 8995,
     "titulo": "Batata Chips Pringles Original 35g Pequena - 6 Latinhas Hotel Cesta",
     "preco": 46.61,
@@ -30067,6 +32654,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T22:44:55.7884478Z"
+  },
+  {
+    "id": 25526,
+    "titulo": "Luva X11 Fit X \u002B Touca Ninja Balaclava Touchscreen Motoboy Motoqueiro \u002B Cord\u00E3o",
+    "preco": 92.99,
+    "link": "https://s.shopee.com.br/8V5c9gbWPU",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778253946/lrshop/chlxydlmqd5kqjkfjj1e.jpg",
+    "ativo": true,
+    "score": 61,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:25:47.1357049Z"
   },
   {
     "id": 18283,
@@ -30353,6 +32953,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-24T13:39:21.3518647Z"
+  },
+  {
+    "id": 25890,
+    "titulo": "Ra\u00E7\u00E3o Premiatta Classic Trainer para C\u00E3es Adultos de Porte M\u00E9dio e Grande 15kg Frango e Arroz - Produto Original Lacrado",
+    "preco": 159,
+    "link": "https://s.shopee.com.br/5ApAEunmlb",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778256879/lrshop/won7efnkgso5duymt2ss.jpg",
+    "ativo": true,
+    "score": 61,
+    "categoria": "produto pet",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T16:14:39.6201805Z"
   },
   {
     "id": 18682,
@@ -30706,6 +33319,19 @@
     "criadoEm": "2026-04-24T11:52:43.7737613Z"
   },
   {
+    "id": 25524,
+    "titulo": "Luva Motociclista Motoqueiro Sport Motocross Motoboy Pro bike",
+    "preco": 26.49,
+    "link": "https://s.shopee.com.br/1LcRcUhpTL",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778253943/lrshop/rxlahuepzhk2w63s5hqv.jpg",
+    "ativo": true,
+    "score": 60,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T15:25:43.6483143Z"
+  },
+  {
     "id": 8072,
     "titulo": "Gelatina importada em pacote",
     "preco": 28,
@@ -30743,6 +33369,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T21:06:18.7639234Z"
+  },
+  {
+    "id": 26303,
+    "titulo": "Luva Para Entregador Motoqueiro Motoboy Motocross Bike A-02 Tamanho M Ifood Lalamove Uber",
+    "preco": 29.9,
+    "link": "https://s.shopee.com.br/4LG3KcRt3H",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778261455/lrshop/edamh3mg92uj4fwv6qm2.jpg",
+    "ativo": true,
+    "score": 60,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:30:55.7597673Z"
   },
   {
     "id": 13728,
@@ -31003,19 +33642,6 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-24T12:44:25.2510553Z"
-  },
-  {
-    "id": 13039,
-    "titulo": "2 Protetor De \u00C1gua Impermeabiliza Couro Camur\u00E7a Nobuck Botas Mercado Couros",
-    "preco": 114.28,
-    "link": "https://s.shopee.com.br/3qJiAcnkDn",
-    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778014151/lrshop/prsyrmebwsvttcp9ksve.jpg",
-    "ativo": true,
-    "score": 60,
-    "categoria": "produtos mercado",
-    "desconto": "",
-    "precoOriginal": null,
-    "criadoEm": "2026-05-05T20:49:11.9718590Z"
   },
   {
     "id": 18653,
@@ -31757,6 +34383,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T22:39:17.6652265Z"
+  },
+  {
+    "id": 25292,
+    "titulo": "Crian\u00E7as pequenos brinquedos noite mercado tendas pequenos produtos parque quadrado ano novo tendas presentes luminosos",
+    "preco": 201.52,
+    "link": "https://s.shopee.com.br/2BBYZ7PvGH",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251393/lrshop/mmiu40ja6ccqsjy8m6hx.jpg",
+    "ativo": true,
+    "score": 60,
+    "categoria": "produtos mercado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:43:13.4368623Z"
   },
   {
     "id": 2138,
@@ -32604,6 +35243,19 @@
     "criadoEm": "2026-05-05T22:25:30.0571342Z"
   },
   {
+    "id": 26133,
+    "titulo": "Li * Acess\u00F3rios A\u00E7o Inoxid\u00E1vel Para Fritadeira Ar, Bandeja Placa Amortecedores Borracha Adequados Melho",
+    "preco": 54.29,
+    "link": "https://s.shopee.com.br/1748xUDi3",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778259973/lrshop/atpzzji98wlegglzj0et.jpg",
+    "ativo": true,
+    "score": 59,
+    "categoria": "air fryer acessorios",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:06:14.1852703Z"
+  },
+  {
     "id": 18273,
     "titulo": "Chocolate Milka Leo Go Milka Importado 48g - 2 Un",
     "preco": 54.99,
@@ -32994,6 +35646,19 @@
     "criadoEm": "2026-04-23T19:41:56.0627269Z"
   },
   {
+    "id": 25302,
+    "titulo": "LIXEIRA INOX 24X50 ARO - PRODUTO NOVO COM PEQUENAS AVARIAS - PRE\u00C7O ABAIXO DO VALOR DE MERCADO",
+    "preco": 155,
+    "link": "https://s.shopee.com.br/3B45kxM7F4",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251409/lrshop/njcvz4bdzqmmyn7femro.jpg",
+    "ativo": true,
+    "score": 59,
+    "categoria": "produtos mercado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:43:29.8224607Z"
+  },
+  {
     "id": 5059,
     "titulo": "Mercado Financeiro Produtos E Servi\u00E7os de Eduardo Fortuna 7674299",
     "preco": 155,
@@ -33031,6 +35696,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T20:48:09.8602032Z"
+  },
+  {
+    "id": 25299,
+    "titulo": "LIXEIRA INOX 60X30 ARO - PRODUTO NOVO COM PEQUENAS AVARIAS - PRE\u00C7O ABAIXO DO VALOR DE MERCADO",
+    "preco": 179,
+    "link": "https://s.shopee.com.br/5L8aKwDrqC",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251403/lrshop/yrzadwdkniaejb8oemuf.jpg",
+    "ativo": true,
+    "score": 59,
+    "categoria": "produtos mercado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:43:24.3963377Z"
   },
   {
     "id": 12997,
@@ -33148,6 +35826,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T20:47:31.9098394Z"
+  },
+  {
+    "id": 26126,
+    "titulo": "Entrehot \u003E Grelha Vertical De A\u00E7o Inoxid\u00E1vel Ra Air Fryer Grill Holder Espetos Grelhados Ferramenta De Carne Grelhada Fo",
+    "preco": 12.24,
+    "link": "https://s.shopee.com.br/9KejG5v1Zd",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778259963/lrshop/nsarhznc4hqttt6crdis.jpg",
+    "ativo": true,
+    "score": 58,
+    "categoria": "air fryer acessorios",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:06:03.8072160Z"
   },
   {
     "id": 8759,
@@ -33304,6 +35995,32 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-21T00:10:16.5463921Z"
+  },
+  {
+    "id": 25291,
+    "titulo": "Livro Mercado Financeiro Produtos E Servi\u00E7os de Eduardo Fortuna 7194803",
+    "preco": 19.99,
+    "link": "https://s.shopee.com.br/1qYiAVRBwB",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251390/lrshop/wclnmd7hryazwxr2ueae.jpg",
+    "ativo": true,
+    "score": 58,
+    "categoria": "produtos mercado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:43:11.3102703Z"
+  },
+  {
+    "id": 26312,
+    "titulo": "Luvas de Seguran\u00E7a Meio Dedo Para Motociclistas e Ciclistas Anti-impacto",
+    "preco": 20,
+    "link": "https://s.shopee.com.br/5ApAKAKWss",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778261469/lrshop/oj0d4ikvxdvpgapcgnx8.jpg",
+    "ativo": true,
+    "score": 58,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:31:09.6779166Z"
   },
   {
     "id": 13038,
@@ -33501,6 +36218,45 @@
     "criadoEm": "2026-05-05T20:49:37.2665290Z"
   },
   {
+    "id": 25295,
+    "titulo": "Mercado Financeiro - Produtos e Servi\u00E7os autor Eduardo Fortuna",
+    "preco": 30,
+    "link": "https://s.shopee.com.br/8fP2J41B4e",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251397/lrshop/hbr7bajplw4o4grfmsfd.jpg",
+    "ativo": true,
+    "score": 58,
+    "categoria": "produtos mercado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:43:18.2463432Z"
+  },
+  {
+    "id": 25293,
+    "titulo": "Mercado Financeiro - Eduardo Fortuna : produtos e servi\u00E7os",
+    "preco": 30,
+    "link": "https://s.shopee.com.br/8ASli9355V",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251394/lrshop/jpnbw1fv6bbfmdsgyxup.jpg",
+    "ativo": true,
+    "score": 58,
+    "categoria": "produtos mercado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:43:15.1222656Z"
+  },
+  {
+    "id": 25300,
+    "titulo": "Mercado Financeiro Produtos e Servi\u00E7os - 15\u00AA Edi\u00E7\u00E3o",
+    "preco": 32.9,
+    "link": "https://s.shopee.com.br/7Kteic6Fmm",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251405/lrshop/ahlo5okicgt4ce6g4exj.jpg",
+    "ativo": true,
+    "score": 58,
+    "categoria": "produtos mercado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:43:25.9364212Z"
+  },
+  {
     "id": 12965,
     "titulo": "Mercado Financeiro Produtos e Sevi\u00E7os autor Eduardo Fortuna A4b8 2002 15ed",
     "preco": 34,
@@ -33540,6 +36296,19 @@
     "criadoEm": "2026-05-05T20:48:28.1215810Z"
   },
   {
+    "id": 25296,
+    "titulo": "Mercado Financeiro: Produtos e Servi\u00E7os -15\u00AA Edi\u00E7\u00E3o de Eduardo Fortuna 5180031",
+    "preco": 40.01,
+    "link": "https://s.shopee.com.br/8piSVN0Xjh",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251399/lrshop/kr35oiaqynro6pygsnd2.jpg",
+    "ativo": true,
+    "score": 58,
+    "categoria": "produtos mercado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:43:19.6097721Z"
+  },
+  {
     "id": 8751,
     "titulo": "Livro Mercado Financeiro Estruturas, Produtos, Servi\u00E7os, Riscos, Controle Gerencial de Osias Brito 7978481",
     "preco": 40.9,
@@ -33564,19 +36333,6 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T20:48:24.0406941Z"
-  },
-  {
-    "id": 13033,
-    "titulo": "Protetor De \u00C1gua E Sujeira Mercado Couros P/ Bota Sapato Em Couro 80ml",
-    "preco": 46.95,
-    "link": "https://s.shopee.com.br/7ppqvyYW6R",
-    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778014142/lrshop/bspihteihddptfcymxiu.jpg",
-    "ativo": true,
-    "score": 58,
-    "categoria": "produtos mercado",
-    "desconto": "",
-    "precoOriginal": null,
-    "criadoEm": "2026-05-05T20:49:02.6414419Z"
   },
   {
     "id": 13467,
@@ -33631,19 +36387,6 @@
     "criadoEm": "2026-04-26T13:17:55.0147699Z"
   },
   {
-    "id": 12972,
-    "titulo": "Impermeabilizante Protetor De \u00C1gua E Sujeira Mercado Couros P/ Bota Sapato Em Couro 80ml",
-    "preco": 51.98,
-    "link": "https://s.shopee.com.br/7fWQjYtVcy",
-    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778014064/lrshop/r2upinryqmq6kghcbqn8.jpg",
-    "ativo": true,
-    "score": 58,
-    "categoria": "produtos mercado",
-    "desconto": "",
-    "precoOriginal": null,
-    "criadoEm": "2026-05-05T20:47:44.8583478Z"
-  },
-  {
     "id": 12985,
     "titulo": "Venda quente novo produto super j\u00FAnior coreano meninos grupo suju Design estilo clav\u00EDcula colar pingente suporte mercado",
     "preco": 54.17,
@@ -33668,19 +36411,6 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-26T13:17:56.2852442Z"
-  },
-  {
-    "id": 13037,
-    "titulo": "Protetor De \u00C1gua Impermeabiliza Couro Camur\u00E7a Nobuck Botas Mercado Couros",
-    "preco": 56.4,
-    "link": "https://s.shopee.com.br/3LNRZhpeEe",
-    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778014149/lrshop/yqggclbq7t9onifxbslf.jpg",
-    "ativo": true,
-    "score": 58,
-    "categoria": "produtos mercado",
-    "desconto": "",
-    "precoOriginal": null,
-    "criadoEm": "2026-05-05T20:49:09.6515294Z"
   },
   {
     "id": 5653,
@@ -33748,6 +36478,32 @@
     "criadoEm": "2026-05-05T20:49:18.0752408Z"
   },
   {
+    "id": 25301,
+    "titulo": "Recicl\u00E1vel Sacola Verde Biopl\u00E1stica Mercado Produtos 23X35 1000 Unidades Padr\u00E3o Prefeitura",
+    "preco": 62,
+    "link": "https://s.shopee.com.br/7ppvJX4Llv",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251408/lrshop/xbtvytofndiusr94hrb5.jpg",
+    "ativo": true,
+    "score": 58,
+    "categoria": "produtos mercado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:43:28.6876550Z"
+  },
+  {
+    "id": 25297,
+    "titulo": "Verde Biopl\u00E1stica Recicl\u00E1vel Mercado Produtos Sacola 23X35 1000 Unidades Padr\u00E3o Prefeitura",
+    "preco": 64.79,
+    "link": "https://s.shopee.com.br/9Kej6Hydiq",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251401/lrshop/lmqixgeagp3dhgnfg4xt.jpg",
+    "ativo": true,
+    "score": 58,
+    "categoria": "produtos mercado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:43:21.6841637Z"
+  },
+  {
     "id": 12978,
     "titulo": "Mercado Financeiro: Uma abordagem pr\u00E1tica dos principais produtos e servi\u00E7os",
     "preco": 64.9,
@@ -33759,6 +36515,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T20:47:51.5539087Z"
+  },
+  {
+    "id": 25288,
+    "titulo": "Produto Biopl\u00E1stico Sacola Verde Padr\u00E3o Prefeitura Recicl\u00E1vel Mercado 23cmX35cm 1000 Unida",
+    "preco": 65.29,
+    "link": "https://s.shopee.com.br/AUqgUQPT9a",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778251386/lrshop/pvxry7l2fyzodoipwigi.jpg",
+    "ativo": true,
+    "score": 58,
+    "categoria": "produtos mercado",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T14:43:06.4650747Z"
   },
   {
     "id": 2100,
@@ -34619,6 +37388,19 @@
     "criadoEm": "2026-05-05T22:56:46.0837826Z"
   },
   {
+    "id": 26463,
+    "titulo": "Kit 12 Luva Microfibra Grande Para Lavar Carro Moto Limpeza Automotiva Limpeza em Geral Multiuso",
+    "preco": 96,
+    "link": "https://s.shopee.com.br/5L8aa63noU",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778264662/lrshop/l87duifdkkcs15uk2q4l.jpg",
+    "ativo": true,
+    "score": 56,
+    "categoria": "kit limpeza moto",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T18:24:22.7571630Z"
+  },
+  {
     "id": 18270,
     "titulo": "Chocolate Belga Jacq\u00FCes Sortido 250g \u2013 Bombons Premium Importados",
     "preco": 99,
@@ -35150,6 +37932,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T21:06:36.6279212Z"
+  },
+  {
+    "id": 26315,
+    "titulo": "Par Luva Motociclista Piloto Shiver Rocket 2 Vermelha Preta Neoprene Prote\u00E7\u00E3o Seguran\u00E7a touch Screen velcro tipo X11",
+    "preco": 46,
+    "link": "https://s.shopee.com.br/4LG3KdNhZn",
+    "imagem": "https://res.cloudinary.com/dmldpqi8j/image/upload/v1778261472/lrshop/cmhiosexcnya6l1xfofy.jpg",
+    "ativo": true,
+    "score": 54,
+    "categoria": "luva motociclista",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-05-08T17:31:12.7931624Z"
   },
   {
     "id": 1706,
