@@ -779,7 +779,8 @@
       highlightEl.innerHTML = `
         <article class="highlight-card">
           <div class="highlight-image">
-            <img src="${product.imagem || ""}" alt="${product.titulo || ""}" loading="eager" decoding="async" />
+            <img src="${product.imagem || ''}" alt="${product.titulo || ''}" loading="eager" decoding="async" onerror="
+    if(this.dataset.retry) return; this.dataset.retry='1'; this.src='https://placehold.co/600x600/0b1020/ffffff?text=LR+SHOP'; "/>
             <div class="top-badge">🏆 PRODUTO DESTAQUE</div>
             <div class="flash-badge">${discount || "🔥 MELHOR OFERTA"}</div>
           </div>
