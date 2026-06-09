@@ -1,5 +1,18 @@
 [
   {
+    "id": 44031,
+    "titulo": "5000 M\u00FAsicas Flashback - Para Baixar",
+    "preco": 12.07,
+    "link": "https://www.mercadolivre.com.br/5000-musicas-flashback--para-baixar/up/MLBU4060160831",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_818713-MLB112978951515_062026-F.webp",
+    "ativo": true,
+    "score": 100,
+    "categoria": "Ofertas",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T11:59:24.2067622Z"
+  },
+  {
     "id": 9521,
     "titulo": "Cole\u00E7\u00E3o Cx De Cigarros Antigos",
     "preco": 2500,
@@ -15496,6 +15509,19 @@
     "criadoEm": "2026-05-05T23:47:18.8763297Z"
   },
   {
+    "id": 44089,
+    "titulo": "WATERSY Garrafa de \u00C1gua Port\u00E1til Ideal para Academia, Trabalho e Escola, Envio R\u00E1pido SP",
+    "preco": 33.99,
+    "link": "https://s.shopee.com.br/110Q9CyQxo",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mmzidr589m2qe6",
+    "ativo": true,
+    "score": 85,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:00.4674942Z"
+  },
+  {
     "id": 43389,
     "titulo": "Cal\u00E7a Legging Leg Flare Zero Transpar\u00EAncia Grossa Academia",
     "preco": 33.99,
@@ -29445,6 +29471,19 @@
     "criadoEm": "2026-05-18T17:40:52.7946182Z"
   },
   {
+    "id": 44083,
+    "titulo": "Garrafa T\u00E9rmica 900ML Personalizada a Laser Com Al\u00E7a Flip Tumbl A\u00E7o Inoxid\u00E1vel Com Canudo P/ Academia Trabalho Caminhada",
+    "preco": 52.99,
+    "link": "https://s.shopee.com.br/2VpDvxWrWy",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mnk4kx6phedeb5",
+    "ativo": true,
+    "score": 82,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:55.1375851Z"
+  },
+  {
     "id": 25834,
     "titulo": "C\u00E2mera Seguran\u00E7a Prova D\u0027\u00E1gua Infravermelho L\u00E2mpada Externa 360 Sem Fio Wifi 2.4G G4",
     "preco": 53.98,
@@ -32799,6 +32838,19 @@
     "criadoEm": "2026-04-24T15:55:51.8279334Z"
   },
   {
+    "id": 44170,
+    "titulo": "Kit 15 Ferramentas De Reparo Remo\u00E7\u00E3o Amassados Carro Manual Recupera\u00E7\u00E3o R\u00E1pida Automotiva Port\u00E1til",
+    "preco": 34.9,
+    "link": "https://s.shopee.com.br/8V6R52qo42",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zwi-mmw25nvobsatc8",
+    "ativo": true,
+    "score": 80,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:49.0212153Z"
+  },
+  {
     "id": 36897,
     "titulo": "Kit 15 Pe\u00E7as Ferramentas De Reparo Remo\u00E7\u00E3o Amassados Carro Manual Recupera\u00E7\u00E3o R\u00E1pida Automotiva Port\u00E1til",
     "preco": 34.9,
@@ -32862,6 +32914,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-22T19:22:05.4173502Z"
+  },
+  {
+    "id": 44172,
+    "titulo": "18 Pe\u00E7as Kit Ferramentas Reparo de Amassados em Carro Sem Pintura - Automotivo para Remo\u00E7\u00E3o de Mossas",
+    "preco": 37.88,
+    "link": "https://s.shopee.com.br/2LVnjiVsgY",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-820lk-mngkl6bmg6pw0a",
+    "ativo": true,
+    "score": 80,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:50.7319129Z"
   },
   {
     "id": 35605,
@@ -37674,6 +37739,19 @@
     "criadoEm": "2026-05-18T20:30:03.3223357Z"
   },
   {
+    "id": 44176,
+    "titulo": "Kit Shampoo Lava Auto 500ml \u002B Cera Polidora Cremosa 200g \u002B Luva Microfibra \u002B Aplicador Espuma Lavagem Limpeza Auto Carro",
+    "preco": 41.55,
+    "link": "https://s.shopee.com.br/7VDttDCDD3",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mlw33qff6ghz22",
+    "ativo": true,
+    "score": 78,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:52.6409328Z"
+  },
+  {
     "id": 28468,
     "titulo": "Kit 6 Biscoitos recheados Piraqu\u00EA 76g doces antigos Doces para festa infantil Kit Lanche Escolar Itens para cestas",
     "preco": 42,
@@ -40495,6 +40573,19 @@
     "criadoEm": "2026-05-05T22:42:43.9034773Z"
   },
   {
+    "id": 44076,
+    "titulo": "Kit 30 pcs Mini Caixa de Som Bluetooth 887 Port\u00E1til R\u00E1dio FM USB SD Graves Potentes Bateria Recarreg\u00E1vel Atacado",
+    "preco": 434.9,
+    "link": "https://s.shopee.com.br/30lUWsDUub",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zup-mmscqshtex3540",
+    "ativo": true,
+    "score": 77,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:50.9276880Z"
+  },
+  {
     "id": 18341,
     "titulo": "Caixa com 36 Unidades de Chocolate Reese\u0027s com Pasta de Amendoim Duo Cups 42g Importado",
     "preco": 599.99,
@@ -40792,6 +40883,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-23T18:50:24.0289265Z"
+  },
+  {
+    "id": 44162,
+    "titulo": "Kit  3 Luva Pano de Microfibra Multiuso Para Limpeza Veicular Carro Limpeza Geral Boa Qualidade Ola1",
+    "preco": 17.9,
+    "link": "https://s.shopee.com.br/2qS4KczBCf",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262z-mkmren7ymqyo44",
+    "ativo": true,
+    "score": 76,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:44.3391366Z"
   },
   {
     "id": 38136,
@@ -46033,6 +46137,19 @@
     "criadoEm": "2026-04-27T11:10:11.5521794Z"
   },
   {
+    "id": 44095,
+    "titulo": "Garrafa T\u00E9rmica de Bichinho em Inox 350ml Adulto e Infantil Trabalho Escola Academia",
+    "preco": 34.98,
+    "link": "https://s.shopee.com.br/5Apz6rw2u0",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd58-m7kv4dpv2cw7aa",
+    "ativo": true,
+    "score": 74,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:04.0769923Z"
+  },
+  {
     "id": 42339,
     "titulo": "Luvas de Academia Meio-Dedo Unissex \u2013 Munhequeira Ajust\u00E1vel, para Muscula\u00E7\u00E3o \u0026 Exerc\u00EDcios Fit",
     "preco": 34.99,
@@ -46174,6 +46291,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T11:14:28.7539578Z"
+  },
+  {
+    "id": 44168,
+    "titulo": "Kit 15 Pe\u00E7as de Escovas de Limpeza de Carro Luvas de Lavagem de Carro",
+    "preco": 39.99,
+    "link": "https://s.shopee.com.br/1VwgkBHSGW",
+    "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mfjiza1zmfpn40",
+    "ativo": true,
+    "score": 74,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:48.1897023Z"
   },
   {
     "id": 37701,
@@ -52247,6 +52377,19 @@
     "criadoEm": "2026-05-19T07:55:23.7607713Z"
   },
   {
+    "id": 44080,
+    "titulo": "Atacado Kit 12 Mini Caixa de Som Bluetooth Port\u00E1til 887 Com R\u00E1dio FM/ USB/ SD/ Grave Potente e Bateria Recarreg\u00E1vel",
+    "preco": 184,
+    "link": "https://s.shopee.com.br/2LVnjeG2Gn",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825zx-mlafolwg2zgh31",
+    "ativo": true,
+    "score": 72,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:52.7246348Z"
+  },
+  {
     "id": 35497,
     "titulo": "Barra Halter Regul\u00E1vel Vermelho 52,5 Lbs Dumbbell Anilhas",
     "preco": 549,
@@ -55352,6 +55495,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T23:46:10.7889385Z"
+  },
+  {
+    "id": 44090,
+    "titulo": "Garrafa T\u00E9rmica 1 Litro A\u00E7o Inox Com Al\u00E7a De M\u00E3o Academia Camping Trabalho Grande",
+    "preco": 28.49,
+    "link": "https://s.shopee.com.br/2VpDvxsivF",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-822yi-moa5z3jvsow941",
+    "ativo": true,
+    "score": 70,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:01.0095308Z"
   },
   {
     "id": 17555,
@@ -64558,6 +64714,19 @@
     "criadoEm": "2026-05-13T13:43:07.2841084Z"
   },
   {
+    "id": 44118,
+    "titulo": "Glutamina 300g Integral Medica Pote 100% Pura - Melhora de Imunidade",
+    "preco": 59.9,
+    "link": "https://s.shopee.com.br/4AxRv33Zcg",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-lilr77rw662d8a",
+    "ativo": true,
+    "score": 66,
+    "categoria": "glutamina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:17.9704275Z"
+  },
+  {
     "id": 13972,
     "titulo": "Brinquedo El\u00E9trico Para Gatos E P\u00E1ssaros , Internos , Pequeno , Resistente Ao Desgaste , Produto De Brinquedos Animais D",
     "preco": 61.55,
@@ -68807,6 +68976,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T23:39:07.7780325Z"
+  },
+  {
+    "id": 44069,
+    "titulo": "Mini Caixa De Som Tws InPods Bluetooth Macaron Colorido Mini Spkear",
+    "preco": 23.14,
+    "link": "https://s.shopee.com.br/7fXK5RZjYy",
+    "imagem": "https://cf.shopee.com.br/file/3422cf0e87f6219023eae85e43d0ca5d",
+    "ativo": true,
+    "score": 63,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:47.3090722Z"
   },
   {
     "id": 2876,

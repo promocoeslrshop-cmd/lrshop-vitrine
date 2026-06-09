@@ -1,5 +1,18 @@
 [
   {
+    "id": 44031,
+    "titulo": "5000 M\u00FAsicas Flashback - Para Baixar",
+    "preco": 12.07,
+    "link": "https://www.mercadolivre.com.br/5000-musicas-flashback--para-baixar/up/MLBU4060160831",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_818713-MLB112978951515_062026-F.webp",
+    "ativo": true,
+    "score": 100,
+    "categoria": "Ofertas",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T11:59:24.2067622Z"
+  },
+  {
     "id": 9521,
     "titulo": "Cole\u00E7\u00E3o Cx De Cigarros Antigos",
     "preco": 2500,
@@ -9815,6 +9828,19 @@
     "criadoEm": "2026-04-15T23:23:50.1263644Z"
   },
   {
+    "id": 44109,
+    "titulo": "Kit Creatina 500g \u002B Glutamina 300g",
+    "preco": 69.9,
+    "link": "https://s.shopee.com.br/1BJqLWndLY",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-moiq57ibrx8g5d",
+    "ativo": true,
+    "score": 95,
+    "categoria": "glutamina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:12.3559584Z"
+  },
+  {
     "id": 42449,
     "titulo": "Kit Hipercal\u00F3rico Amazing Mass 1.5kg \u002B Whey Protein Concentrado 500g \u002B Coqueteleira - Bodybuilders",
     "preco": 69.9,
@@ -12337,6 +12363,19 @@
     "criadoEm": "2026-05-18T20:27:13.8004646Z"
   },
   {
+    "id": 44125,
+    "titulo": "Creatina Monohidratada 300g \u002B Glutamina 300g Dux",
+    "preco": 99,
+    "link": "https://s.shopee.com.br/1LdGXqEMNP",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mid9hfg2mxaa27",
+    "ativo": true,
+    "score": 95,
+    "categoria": "glutamina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:20.7372086Z"
+  },
+  {
     "id": 41876,
     "titulo": "Whey Protein com Creatina e Glutamina 720g , Whey Protein Tripla A\u00E7\u00E3o J \u0026 I Health",
     "preco": 99,
@@ -13830,6 +13869,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T23:32:14.7151834Z"
+  },
+  {
+    "id": 44110,
+    "titulo": "WHEY PROTEIN CONCENTRADO WPC COM GLUTAMINA 900G POUCH (21g de proteina) - VITAFOR",
+    "preco": 125.99,
+    "link": "https://s.shopee.com.br/2VpDvysav7",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-md50g3sjdyr669",
+    "ativo": true,
+    "score": 95,
+    "categoria": "glutamina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:13.5852559Z"
   },
   {
     "id": 24288,
@@ -18536,6 +18588,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T21:14:06.9504504Z"
+  },
+  {
+    "id": 44111,
+    "titulo": "Whey Protein 100% Isolado 2,1kg Hardcore Series HealthTime ZERO A\u00E7\u00FAcar 32g Prote\u00EDna 5g Glutamina 6g Bcaa por Dose",
+    "preco": 189.9,
+    "link": "https://s.shopee.com.br/2BCNXMtrb5",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-md0xuegvrym929",
+    "ativo": true,
+    "score": 95,
+    "categoria": "glutamina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:13.9570244Z"
   },
   {
     "id": 39821,
@@ -28977,6 +29042,19 @@
     "criadoEm": "2026-04-23T17:52:21.7057582Z"
   },
   {
+    "id": 44181,
+    "titulo": "Kit 3 Espuma M\u00E1gica Limpa Tudo a Seco Limpa Banco de Carro, Sof\u00E1, T\u00EAnis Proauto 400ml Multiuso",
+    "preco": 74.99,
+    "link": "https://s.shopee.com.br/9UyyGtHw45",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mlntb8j86epz7d",
+    "ativo": true,
+    "score": 94,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:55.3962852Z"
+  },
+  {
     "id": 37507,
     "titulo": "Conjunto Fitness feminino top \u002BCal\u00E7a Bicolor",
     "preco": 74.99,
@@ -33213,6 +33291,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-12T11:39:36.7016000Z"
+  },
+  {
+    "id": 44135,
+    "titulo": "Camiseta Masculina Brasil Copa 2026 Futebol Campione Diadora Original Sele\u00E7\u00E3o Brasileira",
+    "preco": 41.99,
+    "link": "https://s.shopee.com.br/AAEf45AZGe",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mn48b20q13wib6",
+    "ativo": true,
+    "score": 93,
+    "categoria": "camiseta masculina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:26.0889869Z"
   },
   {
     "id": 15727,
@@ -40716,6 +40807,19 @@
     "criadoEm": "2026-04-24T15:30:42.7013871Z"
   },
   {
+    "id": 44120,
+    "titulo": "Hyper Whey Glutamina Free Gl\u00FAten Bcaas Protein Profit Labs",
+    "preco": 60.36,
+    "link": "https://s.shopee.com.br/50WYua0Ovt",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rav1-mb466ijq18y832",
+    "ativo": true,
+    "score": 92,
+    "categoria": "glutamina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:18.7661719Z"
+  },
+  {
     "id": 39199,
     "titulo": "Garrafa T\u00E9rmica Shaker Agitadora port\u00E1til 591ml A\u00E7o inoxid\u00E1vel Para Academia Treino Fitness Whey",
     "preco": 60.42,
@@ -41652,6 +41756,19 @@
     "criadoEm": "2026-05-19T01:03:24.0821018Z"
   },
   {
+    "id": 44107,
+    "titulo": "Kit Creatina 500g \u002B Glutamina 500g",
+    "preco": 78.9,
+    "link": "https://s.shopee.com.br/20sxL3kSed",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lh-moo5ljisd98la7",
+    "ativo": true,
+    "score": 92,
+    "categoria": "glutamina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:11.6112659Z"
+  },
+  {
     "id": 14942,
     "titulo": "Chinelo Tamanco Feminino Piccadilly Ortop\u00E9dica Espor\u00E3o Leve",
     "preco": 78.9,
@@ -42443,6 +42560,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T14:28:53.9578566Z"
+  },
+  {
+    "id": 44071,
+    "titulo": "\u3010\uD83D\uDC95Dia dos Namorados\u3011Caixa De Som Bluetooth 16W RGB LED TWS Alto falante Qualidade Port\u00E1til \u00C0 Prova d\u0027\u00E1gua-HY-668",
+    "preco": 129.98,
+    "link": "https://s.shopee.com.br/9KfY4VTOBW",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mp7s7u2545xd77",
+    "ativo": true,
+    "score": 92,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:48.2317535Z"
   },
   {
     "id": 32652,
@@ -44057,6 +44187,19 @@
     "criadoEm": "2026-05-10T13:09:29.1378869Z"
   },
   {
+    "id": 44173,
+    "titulo": "Kit 5 Pinc\u00E9is Detalhamento Automotivo Limpeza Interna Externa Carro Moto Cerdas Macias Anti Risco",
+    "preco": 12.99,
+    "link": "https://s.shopee.com.br/4VaIJhNdIB",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mofw5jn06sxx8a",
+    "ativo": true,
+    "score": 91,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:51.3161206Z"
+  },
+  {
     "id": 18006,
     "titulo": "Kit 5 ou 10 Ratinhos Pet Para Gatos - Brinquedo Vinil Veludo Antiestresse com Apito",
     "preco": 12.99,
@@ -44185,6 +44328,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-20T13:14:57.2671906Z"
+  },
+  {
+    "id": 44175,
+    "titulo": "Kit de 12 Panos de Microfibra Super Absorvente\u2013Limpeza R\u00E1pida para Casa, Cozinha e Carro \uFF0CMacio, Dur\u00E1vel e Sem Pelos",
+    "preco": 14.9,
+    "link": "https://s.shopee.com.br/6AiWIlHHuf",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-824iw-men9ammcu6f792",
+    "ativo": true,
+    "score": 91,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:52.1901292Z"
   },
   {
     "id": 25042,
@@ -45537,6 +45693,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T14:31:04.5276478Z"
+  },
+  {
+    "id": 44137,
+    "titulo": "Camisa T-Shirt Masculina Camiseta Street Wear Conforto Brasil 10 Manfinity",
+    "preco": 27.9,
+    "link": "https://s.shopee.com.br/2BCNXNf1VM",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztf-mkxq0en50d8jfe",
+    "ativo": true,
+    "score": 91,
+    "categoria": "camiseta masculina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:26.9791827Z"
   },
   {
     "id": 1554,
@@ -48048,6 +48217,19 @@
     "criadoEm": "2026-05-10T14:14:49.1841404Z"
   },
   {
+    "id": 44141,
+    "titulo": "Camisa Xadrez Flanela Flanelada Blusa Masculina Manga Longa Festa Junina Vida Loca",
+    "preco": 48.89,
+    "link": "https://s.shopee.com.br/6AiWIjidF7",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mlgozbiaqcjpa1",
+    "ativo": true,
+    "score": 91,
+    "categoria": "camiseta masculina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:30.1953600Z"
+  },
+  {
     "id": 41192,
     "titulo": "Creatina Monohidratada 300g - Creatine Turbo Black Skull - Energia - For\u00E7a - Ganho de Massa Muscular",
     "preco": 48.9,
@@ -50243,6 +50425,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-25T11:44:25.7326271Z"
+  },
+  {
+    "id": 44144,
+    "titulo": "Kit Sortido 6 Pe\u00E7as de Roupas Masculino Infantil Inverno \u2013 3 blusas casacos \u002B 3 cal\u00E7as de 1 ao 10 \u2013 Kit 3 Conjuntos",
+    "preco": 79.99,
+    "link": "https://s.shopee.com.br/6VLMhLxiyU",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyecwloquvhhe7",
+    "ativo": true,
+    "score": 91,
+    "categoria": "camiseta masculina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:32.7605620Z"
   },
   {
     "id": 37144,
@@ -55053,6 +55248,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-12T22:44:18.9704581Z"
+  },
+  {
+    "id": 44155,
+    "titulo": "Camiseta Masculina Brasil Brazilian 100% Algod\u00E3o Estilo Street Wear Plus Size",
+    "preco": 27.36,
+    "link": "https://s.shopee.com.br/6VLMhMFwS2",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-mo9x2eoy9o1x62",
+    "ativo": true,
+    "score": 90,
+    "categoria": "camiseta masculina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:39.0159133Z"
   },
   {
     "id": 16652,
@@ -74087,6 +74295,19 @@
     "criadoEm": "2026-05-09T04:32:54.3426768Z"
   },
   {
+    "id": 44171,
+    "titulo": "Kit Mini P\u00E1 e Vassoura Mesa Limpeza Port\u00E1til Cozinha Escrit\u00F3rio Carro Teclado Compacto",
+    "preco": 13.99,
+    "link": "https://s.shopee.com.br/W49YLcrP1",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-mnn5uw6olvr507",
+    "ativo": true,
+    "score": 88,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:50.2501305Z"
+  },
+  {
     "id": 5349,
     "titulo": "Bandeja Oval de A\u00E7o Inox Decorativa Organizador de Joias Maquiagem Talheres e Petiscos",
     "preco": 13.99,
@@ -79742,6 +79963,19 @@
     "criadoEm": "2026-05-09T14:01:10.0358361Z"
   },
   {
+    "id": 44163,
+    "titulo": "Kit 50 Cheirinho Aromatizante Pinheiro Para Carro Brasil Especial Copa 2026",
+    "preco": 39.99,
+    "link": "https://s.shopee.com.br/5q5fu8nl7W",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mod8jcokc0znc5",
+    "ativo": true,
+    "score": 88,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:44.8828260Z"
+  },
+  {
     "id": 42502,
     "titulo": "Combo 6 ITTS Sero Drinks Zero A\u00E7\u00FAcar com BCAA\u002B Caderno Amarelo Brinde",
     "preco": 39.99,
@@ -81014,6 +81248,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-12T14:04:15.7832112Z"
+  },
+  {
+    "id": 44097,
+    "titulo": "Bolsa Academia, de gin\u00E1stica magn\u00E9tica, Bolsa port\u00E1til, Para Garrafa De \u00C1gua Fitness",
+    "preco": 48.5,
+    "link": "https://s.shopee.com.br/6L1wV0rbXN",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zvp-mmrt70c1dzwl0d",
+    "ativo": true,
+    "score": 88,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:04.9069705Z"
   },
   {
     "id": 34673,
@@ -94614,6 +94861,19 @@
     "criadoEm": "2026-04-19T23:21:10.5363675Z"
   },
   {
+    "id": 44140,
+    "titulo": "Camisa Brasil de Compress\u00E3o Masculina Camiseta Academia Treino",
+    "preco": 44.99,
+    "link": "https://s.shopee.com.br/5L9PJClnvs",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-820nu-mnx4oimxcohwb7",
+    "ativo": true,
+    "score": 87,
+    "categoria": "camiseta masculina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:29.7837821Z"
+  },
+  {
     "id": 40406,
     "titulo": "Cubo Sensorial Montessori para Beb\u00EAs Brinquedo Educativo Interativo com Est\u00EDmulo Motor e Coordena\u00E7\u00E3o Sensorial",
     "preco": 44.99,
@@ -96978,6 +97238,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-08T13:02:49.4324156Z"
+  },
+  {
+    "id": 44085,
+    "titulo": "Garrafa Inox T\u00E9rmica 650ml 950ml Personalizada Hydra Color com Capa Silicone Academia Esporte Gelada",
+    "preco": 64.9,
+    "link": "https://s.shopee.com.br/30lUWsdl6l",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfechc3sok5ceb",
+    "ativo": true,
+    "score": 87,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:57.3522093Z"
   },
   {
     "id": 31437,
@@ -104754,6 +105027,19 @@
     "criadoEm": "2026-04-22T23:04:49.6897946Z"
   },
   {
+    "id": 44147,
+    "titulo": "Camiseta B\u00E1sica Feminina Manga Curta com Estampa Gr\u00E1fica La\u00E7o N\u00FAmero Slogan F\u00E9rias Casual e Estilosa",
+    "preco": 24.89,
+    "link": "https://s.shopee.com.br/1qZX8mFURt",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-82622-mlz1wjgukoox33",
+    "ativo": true,
+    "score": 86,
+    "categoria": "camiseta masculina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:34.1296241Z"
+  },
+  {
     "id": 12289,
     "titulo": "Protetor Solar Facial e Corporal BioProtect FPS 70 MAXROSE - Prote\u00E7\u00E3o",
     "preco": 24.89,
@@ -107495,6 +107781,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-25T11:08:51.8407278Z"
+  },
+  {
+    "id": 44134,
+    "titulo": "Camiseta Brasil Personalizada  Nome N\u00FAmero Qualidade Premium N\u00E3o Desbota",
+    "preco": 32.48,
+    "link": "https://s.shopee.com.br/5fmFhoRhOd",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mnbyjb392sxsc2",
+    "ativo": true,
+    "score": 86,
+    "categoria": "camiseta masculina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:25.5786012Z"
   },
   {
     "id": 5205,
@@ -127179,6 +127478,19 @@
     "criadoEm": "2026-04-20T04:37:54.7836251Z"
   },
   {
+    "id": 44089,
+    "titulo": "WATERSY Garrafa de \u00C1gua Port\u00E1til Ideal para Academia, Trabalho e Escola, Envio R\u00E1pido SP",
+    "preco": 33.99,
+    "link": "https://s.shopee.com.br/110Q9CyQxo",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mmzidr589m2qe6",
+    "ativo": true,
+    "score": 85,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:00.4674942Z"
+  },
+  {
     "id": 43389,
     "titulo": "Cal\u00E7a Legging Leg Flare Zero Transpar\u00EAncia Grossa Academia",
     "preco": 33.99,
@@ -127320,6 +127632,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-14T11:08:16.8725790Z"
+  },
+  {
+    "id": 44138,
+    "titulo": "Camiseta T-Shirt Feminina  Estilos Borboleta Copa Mundo Algod\u00E3o 100% 30.1 masculino",
+    "preco": 34.17,
+    "link": "https://s.shopee.com.br/8fPrHKZ7AK",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260g-mmhkbmn0bh8l2f",
+    "ativo": true,
+    "score": 85,
+    "categoria": "camiseta masculina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:28.9128302Z"
   },
   {
     "id": 35592,
@@ -129959,6 +130284,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-08T19:11:43.3476875Z"
+  },
+  {
+    "id": 44057,
+    "titulo": "Mini Caixa De Som Bluetooth Potente RGB Led Port\u00E1til R\u00E1dio FM USB SD",
+    "preco": 39.99,
+    "link": "https://s.shopee.com.br/7pqkHk85AW",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-ml7rkpjdh05gc5",
+    "ativo": true,
+    "score": 85,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:39.6174317Z"
   },
   {
     "id": 43734,
@@ -137410,6 +137748,19 @@
     "criadoEm": "2026-04-28T13:30:37.1520303Z"
   },
   {
+    "id": 44067,
+    "titulo": "INOVA Caixa De Som Mini Bluetooth Tws Grave Potent Com Radio Com Est\u00E9reo De Alta Fidelidade Caixinha De Som",
+    "preco": 69.99,
+    "link": "https://s.shopee.com.br/2g8e8Fslhq",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lb-mo7yunft8r292c",
+    "ativo": true,
+    "score": 85,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:46.4597807Z"
+  },
+  {
     "id": 43928,
     "titulo": "Kit 10 Cuecas Boxer Sandrini Masculinas Algod\u00E3o Conforto Sortidos G",
     "preco": 69.99,
@@ -137928,6 +138279,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-19T10:43:37.1960635Z"
+  },
+  {
+    "id": 44177,
+    "titulo": "Espuma Magica Multiuso Limpador Uso Geral Sofa Colch\u00E3o Tenis Carro Sem Enxague",
+    "preco": 74.96,
+    "link": "https://s.shopee.com.br/7pqkHpAwX9",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgqlw2l9vzsw3b",
+    "ativo": true,
+    "score": 85,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:53.0187580Z"
   },
   {
     "id": 43773,
@@ -140866,6 +141230,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-06-05T19:09:43.2859271Z"
+  },
+  {
+    "id": 44169,
+    "titulo": "Kit De Copo Atomizador E Pol\u00EDmero De Vapor Adequado Para Reforma E Polimento De Far\u00F3is De Carros E Motocicletas",
+    "preco": 109,
+    "link": "https://s.shopee.com.br/2BCNXPEuui",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zwx-mml7o8nuqjnl63",
+    "ativo": true,
+    "score": 85,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:48.5840003Z"
   },
   {
     "id": 10651,
@@ -151034,6 +151411,19 @@
     "criadoEm": "2026-04-22T17:12:18.2607001Z"
   },
   {
+    "id": 44179,
+    "titulo": "Kit 20 Cheirinho Aromatizante Pinheiro Para Carro Brasil Especial Copa 2026",
+    "preco": 19.99,
+    "link": "https://s.shopee.com.br/8ATagRN0lh",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mod8jcokrh8m08",
+    "ativo": true,
+    "score": 84,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:54.5010950Z"
+  },
+  {
     "id": 39683,
     "titulo": "Strap Muscula\u00E7\u00E3o Para Academia e Crosfit Preto",
     "preco": 19.99,
@@ -151409,6 +151799,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-09T00:03:31.7256976Z"
+  },
+  {
+    "id": 44131,
+    "titulo": "L-Glutamina 60 c\u00E1psulas 500mg Envio Imediato",
+    "preco": 20.9,
+    "link": "https://s.shopee.com.br/9KfY4Xju9C",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwe-lzpiy4ef5ekm8e",
+    "ativo": true,
+    "score": 84,
+    "categoria": "glutamina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:23.1579014Z"
   },
   {
     "id": 33720,
@@ -154817,6 +155220,19 @@
     "criadoEm": "2026-04-22T10:54:33.2361734Z"
   },
   {
+    "id": 44152,
+    "titulo": "Camiseta Brasil Unissex Algod\u00E3o Copa do Mundo Torcer pela Sele\u00E7\u00E3o",
+    "preco": 29.99,
+    "link": "https://s.shopee.com.br/LkjM1dPxP",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825zt-mju9ja5woao60c",
+    "ativo": true,
+    "score": 84,
+    "categoria": "camiseta masculina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:37.6045320Z"
+  },
+  {
     "id": 39433,
     "titulo": "Coqueteleira de Academia com 2 Compartimentos Esporte Fitness",
     "preco": 29.99,
@@ -155244,6 +155660,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-18T13:09:00.4242113Z"
+  },
+  {
+    "id": 44116,
+    "titulo": "Nutrisana Glutamina 20ml Suplemento Vitam\u00EDnico Cachorro Gato Aves L-Glutamina e Maltodextrina",
+    "preco": 30.9,
+    "link": "https://s.shopee.com.br/5VSpVUhAqJ",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-luffngdwdsic8c",
+    "ativo": true,
+    "score": 84,
+    "categoria": "glutamina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:16.2189044Z"
   },
   {
     "id": 5232,
@@ -155686,6 +156115,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T14:31:16.6503389Z"
+  },
+  {
+    "id": 44145,
+    "titulo": "Camiseta T-Shirt \u0022Brasil 13\u0022 Edi\u00E7\u00E3o Copa do Mundo Unissex em Algod\u00E3o Estampa Premium",
+    "preco": 33.26,
+    "link": "https://s.shopee.com.br/6L1wV2yMJT",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mlqpziew5onbb7",
+    "ativo": true,
+    "score": 84,
+    "categoria": "camiseta masculina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:33.1346438Z"
   },
   {
     "id": 1922,
@@ -159640,6 +160082,19 @@
     "criadoEm": "2026-04-19T20:15:03.3866661Z"
   },
   {
+    "id": 44070,
+    "titulo": "Alto-falante Bluetooth sem fio inteligente ZQS-P1, mini, moderno e port\u00E1til, \u00E1udio de alta qualidade para jogos e ve\u00EDcul",
+    "preco": 49.99,
+    "link": "https://s.shopee.com.br/5q5fu4giHh",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lh-mnidoz6z6zgh5d",
+    "ativo": true,
+    "score": 84,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:47.7395335Z"
+  },
+  {
     "id": 41470,
     "titulo": "Creme Branco / de Avel\u00E3 / Pasta Amendoim Brigadeiro e chocolate branco 500g 1kg - Growth Supplements - \u00E9 nozes",
     "preco": 49.99,
@@ -160431,6 +160886,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-21T17:41:06.0771143Z"
+  },
+  {
+    "id": 44136,
+    "titulo": "Camisa Camiseta Dry Fit Masculina Brasil Copa Do Mundo Com Prote\u00E7\u00E3o Uv",
+    "preco": 56.18,
+    "link": "https://s.shopee.com.br/8Kn0siHXzP",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-820mm-mne6ujmx0p383b",
+    "ativo": true,
+    "score": 84,
+    "categoria": "camiseta masculina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:26.5239789Z"
   },
   {
     "id": 28127,
@@ -167932,6 +168400,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-10T10:54:02.1586283Z"
+  },
+  {
+    "id": 44161,
+    "titulo": "Kit 10 Panos De Microfibra Flanela 30x30 Alta Absor\u00E7\u00E3o Limpeza Carro Casa Vidros Profissional",
+    "preco": 17.97,
+    "link": "https://s.shopee.com.br/3Vhl7qwdqj",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zuy-mmvxgglp40e877",
+    "ativo": true,
+    "score": 83,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:43.8473961Z"
   },
   {
     "id": 10174,
@@ -177476,6 +177957,19 @@
     "criadoEm": "2026-05-05T21:19:11.9324606Z"
   },
   {
+    "id": 44156,
+    "titulo": "Camiseta Masculina Blusa Brasil 3 Listras T-shirt Ver\u00E3o Manga Curta Camisa Algod\u00E3o Premium",
+    "preco": 44.99,
+    "link": "https://s.shopee.com.br/5VSpVWJkTs",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-820nt-mnjb67ncw1l0b9",
+    "ativo": true,
+    "score": 83,
+    "categoria": "camiseta masculina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:39.4228196Z"
+  },
+  {
     "id": 32575,
     "titulo": "Garrafa T\u00E9rmica Personalizada a Laser com Nome Time Logo - 800ML ideal para academia trabalho escola \u00E1gua caf\u00E9",
     "preco": 44.99,
@@ -177801,6 +178295,19 @@
     "criadoEm": "2026-04-23T18:50:14.2466362Z"
   },
   {
+    "id": 44130,
+    "titulo": "Immuno Shot C/ Vit C \u002B D3 \u002B Glutamina \u002B Zinco 200g - Profit Laborat\u00F3rios",
+    "preco": 46.92,
+    "link": "https://s.shopee.com.br/gNZkcGtjT",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ls1k4f7j0wlpa6",
+    "ativo": true,
+    "score": 83,
+    "categoria": "glutamina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:22.7730503Z"
+  },
+  {
     "id": 39538,
     "titulo": "Fone De Ouvido Sem Fio Gancho Orelha Bluetooth 5.4 Som Imersivo para Treinos Viagens Academia Corridas IPX4 prova agua",
     "preco": 46.95,
@@ -178111,6 +178618,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-22T14:36:13.4293677Z"
+  },
+  {
+    "id": 44115,
+    "titulo": "Immuno Shot Profit Labs 200g Imunidade Vitamina C D Zinco Glutamina",
+    "preco": 48.93,
+    "link": "https://s.shopee.com.br/5q5fu6fuAL",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mli46ykrgah13f",
+    "ativo": true,
+    "score": 83,
+    "categoria": "glutamina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:15.8537159Z"
   },
   {
     "id": 23234,
@@ -186589,6 +187109,19 @@
     "criadoEm": "2026-05-05T21:15:26.8220291Z"
   },
   {
+    "id": 44159,
+    "titulo": "Kit 12 Toalhas M\u00E1gicas Multiuso Microfibra Limpa Vidro e Carro",
+    "preco": 15.98,
+    "link": "https://s.shopee.com.br/2BCNXOoNh7",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7tps2vcn63801",
+    "ativo": true,
+    "score": 82,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:42.0539954Z"
+  },
+  {
     "id": 17390,
     "titulo": "TIMEKEY Colorido Papagaio Pl\u00E1stico Subir Mordida Mastigar Brinquedo Disco Voador Rota\u00E7\u00E3o Divers\u00E3o P\u00E1ssaros Gaiola Decora",
     "preco": 15.98,
@@ -192517,6 +193050,19 @@
     "criadoEm": "2026-05-08T19:41:50.6209207Z"
   },
   {
+    "id": 44108,
+    "titulo": "Nutrisana Glutamina 20ml Suplemento para C\u00E3es e Gatos Mundo Animal",
+    "preco": 29.49,
+    "link": "https://s.shopee.com.br/W49YIqAhM",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-23030-20anwxtuhdov5d",
+    "ativo": true,
+    "score": 82,
+    "categoria": "glutamina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:11.9647365Z"
+  },
+  {
     "id": 28809,
     "titulo": "Kit 5 panos microfibra limpeza automotiva geral carro casa tv monitores e superficies 40x60cm",
     "preco": 29.49,
@@ -194660,6 +195206,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-24T13:11:07.8086948Z"
+  },
+  {
+    "id": 44180,
+    "titulo": "Kit 05 Sach\u00EAs Perfumado Via Aroma Para Autom\u00F3veis  Roupeiros Gavetas Closet",
+    "preco": 36.9,
+    "link": "https://s.shopee.com.br/AAEf47FOi9",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxj-m1j1qopt83bd5d",
+    "ativo": true,
+    "score": 82,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:54.9580125Z"
   },
   {
     "id": 38424,
@@ -198341,6 +198900,19 @@
     "criadoEm": "2026-04-24T16:53:05.6775796Z"
   },
   {
+    "id": 44083,
+    "titulo": "Garrafa T\u00E9rmica 900ML Personalizada a Laser Com Al\u00E7a Flip Tumbl A\u00E7o Inoxid\u00E1vel Com Canudo P/ Academia Trabalho Caminhada",
+    "preco": 52.99,
+    "link": "https://s.shopee.com.br/2VpDvxWrWy",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mnk4kx6phedeb5",
+    "ativo": true,
+    "score": 82,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:55.1375851Z"
+  },
+  {
     "id": 25185,
     "titulo": "Chinelo Havaianas Brasil Logo",
     "preco": 52.99,
@@ -200902,6 +201474,19 @@
     "criadoEm": "2026-05-10T13:39:06.8452326Z"
   },
   {
+    "id": 44150,
+    "titulo": "Jaqueta Puffer Masculina Bobojaco Bomber Blusa de Frio Inverno Neve Com Touca Remov\u00EDvel",
+    "preco": 72.9,
+    "link": "https://s.shopee.com.br/50WYub3R1o",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mojy05wx4uf4b4",
+    "ativo": true,
+    "score": 82,
+    "categoria": "camiseta masculina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:35.4457205Z"
+  },
+  {
     "id": 23890,
     "titulo": "Tenis Samba Unissex Classico Premium Casual Ortop\u00E9dico Lan\u00E7amento Sapatenis Masculino Feminino",
     "preco": 72.9,
@@ -202083,6 +202668,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T21:11:16.2161562Z"
+  },
+  {
+    "id": 44113,
+    "titulo": "Creatina DUX 300g \u002B Glutamina DUX 300g Kit - Alta Pureza- Suplemento sem sabor - ORIGINAL",
+    "preco": 99.9,
+    "link": "https://s.shopee.com.br/902hfvTqjk",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mozr5ue9r212d2",
+    "ativo": true,
+    "score": 82,
+    "categoria": "glutamina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:14.9722132Z"
   },
   {
     "id": 41672,
@@ -208676,6 +209274,19 @@
     "criadoEm": "2026-04-22T15:24:16.3779511Z"
   },
   {
+    "id": 44091,
+    "titulo": "Squeeze Garrafa Hello Kitty BPA Free Lancheira Academia Passeio 750 ML ou Meninas Super Poderosas",
+    "preco": 19.99,
+    "link": "https://s.shopee.com.br/BRJ9gF52k",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mnz3p6cqbqbofc",
+    "ativo": true,
+    "score": 81,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:02.4621999Z"
+  },
+  {
     "id": 42641,
     "titulo": "Mini Caixa de Som Magn\u00E9tica Bluetooth Port\u00E1til, LED RGB \u00C0 Prova D\u2019\u00E1gua, Leve e Compacta para Exterior",
     "preco": 19.99,
@@ -209690,6 +210301,19 @@
     "criadoEm": "2026-04-22T21:25:28.5431197Z"
   },
   {
+    "id": 44157,
+    "titulo": "Kit 5 Cheirinho Aromatizante Para Carro Novo Cheiroso Sortidos",
+    "preco": 21.99,
+    "link": "https://s.shopee.com.br/4LGs7Ng8IE",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbg4mv66uv3637",
+    "ativo": true,
+    "score": 81,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:41.0412802Z"
+  },
+  {
     "id": 38673,
     "titulo": "Tala Strap Fita Grip Muscula\u00E7\u00E3o Munhequeira Strap Profissional Academia Unissex -Envio Imediato",
     "preco": 21.99,
@@ -210637,6 +211261,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-22T09:21:38.7783145Z"
+  },
+  {
+    "id": 44099,
+    "titulo": "Garrafa T\u00E9rmica 600ml Sem Bpa Ideal Para Academia A\u00E7o Inox Base Silicone",
+    "preco": 23.99,
+    "link": "https://s.shopee.com.br/902hfuhS89",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-823pv-mohakoiiyo0f01",
+    "ativo": true,
+    "score": 81,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:06.1218859Z"
   },
   {
     "id": 40922,
@@ -218465,6 +219102,19 @@
     "criadoEm": "2026-05-18T20:51:19.1531805Z"
   },
   {
+    "id": 44151,
+    "titulo": "Camiseta Polo Manga Longa camisa  Com Ziper Masculina Malha Canelada camisetas camisas",
+    "preco": 45.54,
+    "link": "https://s.shopee.com.br/1LdGXrZbvR",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m65pnqago4g526",
+    "ativo": true,
+    "score": 81,
+    "categoria": "camiseta masculina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:37.0615121Z"
+  },
+  {
     "id": 5896,
     "titulo": "Garrafa Termica Perolizada 600ml Personalizada a Laser | Nome Gravado Prata | Squeeze para Academia Fitness",
     "preco": 45.54,
@@ -218996,6 +219646,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-24T13:13:42.2839091Z"
+  },
+  {
+    "id": 44114,
+    "titulo": "Glutamina 300g Glutamine Power Profit Sa\u00FAde Recupera\u00E7\u00E3o Bem-Estar",
+    "preco": 49.41,
+    "link": "https://s.shopee.com.br/6pyD5wc68R",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-82611-mjaaib22k3d33d",
+    "ativo": true,
+    "score": 81,
+    "categoria": "glutamina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:15.4278582Z"
   },
   {
     "id": 30445,
@@ -236678,6 +237341,19 @@
     "criadoEm": "2026-05-05T20:43:09.1755111Z"
   },
   {
+    "id": 44170,
+    "titulo": "Kit 15 Ferramentas De Reparo Remo\u00E7\u00E3o Amassados Carro Manual Recupera\u00E7\u00E3o R\u00E1pida Automotiva Port\u00E1til",
+    "preco": 34.9,
+    "link": "https://s.shopee.com.br/8V6R52qo42",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zwi-mmw25nvobsatc8",
+    "ativo": true,
+    "score": 80,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:49.0212153Z"
+  },
+  {
     "id": 41439,
     "titulo": "Par Joelheira Esportiva V\u00F4lei Futsal Dan\u00E7a Handebol Adulto e Infantil Feminina e Masculina Original",
     "preco": 34.9,
@@ -237469,6 +238145,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-22T04:46:57.2582264Z"
+  },
+  {
+    "id": 44172,
+    "titulo": "18 Pe\u00E7as Kit Ferramentas Reparo de Amassados em Carro Sem Pintura - Automotivo para Remo\u00E7\u00E3o de Mossas",
+    "preco": 37.88,
+    "link": "https://s.shopee.com.br/2LVnjiVsgY",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-820lk-mngkl6bmg6pw0a",
+    "ativo": true,
+    "score": 80,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:50.7319129Z"
   },
   {
     "id": 16286,
@@ -243646,6 +244335,19 @@
     "criadoEm": "2026-05-18T18:15:57.1106529Z"
   },
   {
+    "id": 44178,
+    "titulo": "Kit c/ 6 Silicone Spray Borracha,Pl\u00E1stico,Painel Carro Tutti Fruti -  Mundial Prime 300ml",
+    "preco": 69.99,
+    "link": "https://s.shopee.com.br/8pjHTfKTPl",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rffb-m9qd6grz5vzgcf",
+    "ativo": true,
+    "score": 80,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:54.1006093Z"
+  },
+  {
     "id": 39824,
     "titulo": "Kit at\u00E9 100 Porta cart\u00E3o Slim Feminino Masculino Atacado Revenda Mimo",
     "preco": 69.99,
@@ -246493,6 +247195,19 @@
     "criadoEm": "2026-05-05T19:19:06.9572534Z"
   },
   {
+    "id": 44063,
+    "titulo": "Mini Amplificador de \u00C1udio 600W HIFI Bluetooth FM Radio \u2013 Perfeito para Sua Casa ou Carro 110v",
+    "preco": 179.99,
+    "link": "https://s.shopee.com.br/5Apz6qQPmO",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7repn-m8kbowxhfqzd6a",
+    "ativo": true,
+    "score": 80,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:43.3765545Z"
+  },
+  {
     "id": 19921,
     "titulo": "LUZ Super Forte Lanterna Holofote (600207) Recarreg\u00E1vel Ressistente \u00E1gua Td-6000a",
     "preco": 179.99,
@@ -248246,6 +248961,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T23:23:39.5880810Z"
+  },
+  {
+    "id": 44158,
+    "titulo": "Escova De Limpeza De Filme De \u00D3leo De Vidro De Carro 120ml | 50ml Fluido suplementar Kit",
+    "preco": 11.99,
+    "link": "https://s.shopee.com.br/17sxPwd5U",
+    "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mk0h1w7t8gsn2a",
+    "ativo": true,
+    "score": 79,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:41.4939995Z"
   },
   {
     "id": 31091,
@@ -263757,6 +264485,19 @@
     "criadoEm": "2026-05-05T23:51:19.8293019Z"
   },
   {
+    "id": 44073,
+    "titulo": "Mini Caixa de Som Ai inteligente Bluetooth com Tela LCD Toque R\u00E1dio Despertaddor Aplicativo Controle",
+    "preco": 52.96,
+    "link": "https://s.shopee.com.br/AKY5GLPa9k",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261w-mk4360hy5xqg40",
+    "ativo": true,
+    "score": 79,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:48.9516338Z"
+  },
+  {
     "id": 23121,
     "titulo": "Tapete Higienico Good Pad Para C\u00E3es E Gatos 80x60 cm Com 30 Un Unidades",
     "preco": 52.99,
@@ -266732,6 +267473,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T21:20:19.6819575Z"
+  },
+  {
+    "id": 44112,
+    "titulo": "Whey Protein Prote\u00EDna Isolada Concentrada ( 2Kgs )",
+    "preco": 79.9,
+    "link": "https://s.shopee.com.br/8V6R50Vkkb",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mmkzjt9xxm9s18",
+    "ativo": true,
+    "score": 79,
+    "categoria": "glutamina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:14.5717943Z"
   },
   {
     "id": 42543,
@@ -277095,6 +277849,19 @@
     "criadoEm": "2026-05-05T21:50:18.0137823Z"
   },
   {
+    "id": 44072,
+    "titulo": "Portable Wireless Bluetooth Speaker Metal HiFi TWS  Loudly Waterproof Mini Speaker Wireless Speaker Small Bluetooth Spea NENE",
+    "preco": 23.52,
+    "link": "https://s.shopee.com.br/9UyyGoSkqZ",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-23010-3yx0qjr6t7lv2d",
+    "ativo": true,
+    "score": 78,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:48.5896717Z"
+  },
+  {
     "id": 40549,
     "titulo": "Barra Proteica Nutrata Bacio Di Latte 40g Pistacchio Chocolate Branco",
     "preco": 23.54,
@@ -277210,6 +277977,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T20:39:53.1243393Z"
+  },
+  {
+    "id": 44084,
+    "titulo": "Kit 2 Pochetes Esportivas Imperme\u00E1veis Ajust\u00E1veis com Porta Garrafa para Corrida Academia Caminhada Fitness",
+    "preco": 23.89,
+    "link": "https://s.shopee.com.br/7pqkHlLMIT",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lv-mnzvujfh7282cf",
+    "ativo": true,
+    "score": 78,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:56.7870061Z"
   },
   {
     "id": 18292,
@@ -278419,6 +279199,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T20:53:28.6614965Z"
+  },
+  {
+    "id": 44154,
+    "titulo": "Camiseta Masculina 100% Algod\u00E3o Brasil Fio 30.1 Varias Cores Envio Imediato Oferta",
+    "preco": 25.9,
+    "link": "https://s.shopee.com.br/902hfx6QNH",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ln-mmg9b3tu9beoef",
+    "ativo": true,
+    "score": 78,
+    "categoria": "camiseta masculina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:38.4609168Z"
   },
   {
     "id": 41046,
@@ -279732,6 +280525,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T20:50:09.9767845Z"
+  },
+  {
+    "id": 44148,
+    "titulo": "Camisa Gola Polo Masculina 100% Algod\u00E3o Camiseta Basica Para Homem Do P ao Extra Grande",
+    "preco": 27.99,
+    "link": "https://s.shopee.com.br/4LGs7N5yNc",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mmfdz71wqrye19",
+    "ativo": true,
+    "score": 78,
+    "categoria": "camiseta masculina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:34.6943500Z"
   },
   {
     "id": 31824,
@@ -283452,6 +284258,19 @@
     "criadoEm": "2026-05-08T19:11:27.2659721Z"
   },
   {
+    "id": 44166,
+    "titulo": "Kit 50 Cheirinho Aromatizante Para Carro Novo Cheiroso Pinheiro Sortidos - Envio Imediato",
+    "preco": 38.5,
+    "link": "https://s.shopee.com.br/qgzwxJzcK",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mm42fqvkijnr0d",
+    "ativo": true,
+    "score": 78,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:47.3971955Z"
+  },
+  {
     "id": 5642,
     "titulo": "Camisa Social Casual feminina LISO Manga Longa -viscolinho de P.38 at\u00E9 G3.52",
     "preco": 38.5,
@@ -284180,6 +284999,19 @@
     "criadoEm": "2026-04-20T21:31:24.6650264Z"
   },
   {
+    "id": 44143,
+    "titulo": "Camiseta Brasil Personalizada Com Nome E N\u00FAmero",
+    "preco": 39.99,
+    "link": "https://s.shopee.com.br/4qD8iHnhxG",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-824jk-mdyvjxbr09oh7d",
+    "ativo": true,
+    "score": 78,
+    "categoria": "camiseta masculina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:31.3482148Z"
+  },
+  {
     "id": 42736,
     "titulo": "Intercomunicador Fone de Ouvido Bluetooth para Capacete Moto com RGB e Microfone",
     "preco": 39.99,
@@ -284440,6 +285272,19 @@
     "criadoEm": "2026-05-05T20:22:49.0672225Z"
   },
   {
+    "id": 44065,
+    "titulo": "mini Caixinha de Som  Bluetooth Port\u00E1til Usb Mp3 P2 Sd R\u00E1dio Fm V\u00E1rias cores alaxe",
+    "preco": 40.99,
+    "link": "https://s.shopee.com.br/1BJqLUyTkL",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m36tequyh9o55d",
+    "ativo": true,
+    "score": 78,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:45.5535913Z"
+  },
+  {
     "id": 13435,
     "titulo": "Paraevergo Barraca Cama Cachorros Casa De Animais De Estima\u00E7\u00E3o Gatos Suprimentos Ver\u00E3o Produtos Para C\u00E3es",
     "preco": 41.48,
@@ -284464,6 +285309,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-11T13:38:14.2879775Z"
+  },
+  {
+    "id": 44176,
+    "titulo": "Kit Shampoo Lava Auto 500ml \u002B Cera Polidora Cremosa 200g \u002B Luva Microfibra \u002B Aplicador Espuma Lavagem Limpeza Auto Carro",
+    "preco": 41.55,
+    "link": "https://s.shopee.com.br/7VDttDCDD3",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mlw33qff6ghz22",
+    "ativo": true,
+    "score": 78,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:52.6409328Z"
   },
   {
     "id": 35747,
@@ -288104,6 +288962,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-18T22:16:30.9588211Z"
+  },
+  {
+    "id": 44126,
+    "titulo": "Glutamina Pura (300g) Dux Human Health",
+    "preco": 62.99,
+    "link": "https://s.shopee.com.br/20sxL4Bp1b",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rasa-ma4hpqb2gnv3cd",
+    "ativo": true,
+    "score": 78,
+    "categoria": "glutamina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:21.1421057Z"
   },
   {
     "id": 41759,
@@ -300768,6 +301639,19 @@
     "criadoEm": "2026-04-24T14:34:02.9074282Z"
   },
   {
+    "id": 44102,
+    "titulo": "Garrafa de \u00C1gua Port\u00E1til 500ml Vidro Transparente Leve,Compacta e Reutiliz\u00E1vel Viagens Academia",
+    "preco": 27.54,
+    "link": "https://s.shopee.com.br/7KuTgrCxTf",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-meyrbkf0purq03",
+    "ativo": true,
+    "score": 77,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:08.3469990Z"
+  },
+  {
     "id": 25560,
     "titulo": "Suporte Celular Magn\u00E9tico 6 Im\u00E3s Para Moto",
     "preco": 27.65,
@@ -300935,6 +301819,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-18T17:39:51.9028202Z"
+  },
+  {
+    "id": 44174,
+    "titulo": "Escova Rotativa Para Furadeira Kit 3 Pe\u00E7as Limpeza Pesada Piso Estofado Carro Parafusadeira",
+    "preco": 27.95,
+    "link": "https://s.shopee.com.br/4ftiW0MzxE",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mopnnvnb3rb9f1",
+    "ativo": true,
+    "score": 77,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:51.7105061Z"
   },
   {
     "id": 6714,
@@ -312767,6 +313664,19 @@
     "criadoEm": "2026-05-08T12:15:42.7924154Z"
   },
   {
+    "id": 44076,
+    "titulo": "Kit 30 pcs Mini Caixa de Som Bluetooth 887 Port\u00E1til R\u00E1dio FM USB SD Graves Potentes Bateria Recarreg\u00E1vel Atacado",
+    "preco": 434.9,
+    "link": "https://s.shopee.com.br/30lUWsDUub",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zup-mmscqshtex3540",
+    "ativo": true,
+    "score": 77,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:50.9276880Z"
+  },
+  {
     "id": 24872,
     "titulo": "Fonte JFA Bob Storm 120A Bivolt Carregadora e Bateria Para Caixa Bob Ativa Trio Home Som Casa",
     "preco": 481.9,
@@ -316639,6 +317549,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-23T18:50:24.0289265Z"
+  },
+  {
+    "id": 44162,
+    "titulo": "Kit  3 Luva Pano de Microfibra Multiuso Para Limpeza Veicular Carro Limpeza Geral Boa Qualidade Ola1",
+    "preco": 17.9,
+    "link": "https://s.shopee.com.br/2qS4KczBCf",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262z-mkmren7ymqyo44",
+    "ativo": true,
+    "score": 76,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:44.3391366Z"
   },
   {
     "id": 27120,
@@ -320723,6 +321646,19 @@
     "criadoEm": "2026-04-21T00:12:23.9128979Z"
   },
   {
+    "id": 44165,
+    "titulo": "Kit 05 Pano Flanela Microfibra Automotiva 600GSM Premium Para Lavagem Polimento de Carro",
+    "preco": 23.9,
+    "link": "https://s.shopee.com.br/4LGs7O6fVr",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mnulv85tr56s94",
+    "ativo": true,
+    "score": 76,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:46.9444894Z"
+  },
+  {
     "id": 26564,
     "titulo": "Kit 10 Cestos Organizador Multiuso Banheiro M\u00E9dio 19x15x6cm",
     "preco": 23.9,
@@ -323921,6 +324857,19 @@
     "criadoEm": "2026-05-05T23:13:17.9994727Z"
   },
   {
+    "id": 44078,
+    "titulo": "Mini Caixa de Som Bluetooth 8W | LED | Port\u00E1til | Entrada Aux | EL-1054 Eletro Mex",
+    "preco": 29.99,
+    "link": "https://s.shopee.com.br/4ftiVw79X1",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mm967ri2nkzqcc",
+    "ativo": true,
+    "score": 76,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:51.7551935Z"
+  },
+  {
     "id": 37822,
     "titulo": "Vestido Longo - Brenda - Fenda e Costas Nua Em Duna",
     "preco": 29.99,
@@ -326092,6 +327041,19 @@
     "criadoEm": "2026-04-21T14:48:38.7920537Z"
   },
   {
+    "id": 44098,
+    "titulo": "Garrafa T\u00E9rmica A\u00E7o Inox Estampada Floral 500ml Academia Fitness #060",
+    "preco": 36,
+    "link": "https://s.shopee.com.br/6AiWIhsEsM",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zwc-mmuwq01slf5y56",
+    "ativo": true,
+    "score": 76,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:05.2600948Z"
+  },
+  {
     "id": 41771,
     "titulo": "Glutamina Pura L-glutamina P\u00F3 Pura 200g - 100% pura Glutamina - Suplemento F\u00E1cil",
     "preco": 36,
@@ -326428,6 +327390,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-24T15:53:45.7502809Z"
+  },
+  {
+    "id": 44059,
+    "titulo": "\u3010KARAOK\u00CA PORT\u00C1TIL\u3011\uD83C\uDFA4Caixa de Som Bluetooth com 2 Microfones, Luzes LED e Efeitos de Voz para Festas e Fam\u00EDlia",
+    "preco": 36.99,
+    "link": "https://s.shopee.com.br/9pbofQ0T7E",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-moouussg6oznb4",
+    "ativo": true,
+    "score": 76,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:40.6245678Z"
   },
   {
     "id": 37941,
@@ -331266,6 +332241,19 @@
     "criadoEm": "2026-04-30T13:26:34.7487358Z"
   },
   {
+    "id": 44075,
+    "titulo": "INOVA Caixa de Som Bluetooth 5W Sem Fio Port\u00E1til | Imperme\u00E1vel IPX6, USB, MP3, Mini Speaker para Exterior",
+    "preco": 59.99,
+    "link": "https://s.shopee.com.br/3B4ujBCrZc",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-mnwjhoxueepub9",
+    "ativo": true,
+    "score": 76,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:50.5675757Z"
+  },
+  {
     "id": 42762,
     "titulo": "Grande Bolsa Luxo Mulheres pu Alta Capacidade Ombro em Corrente Bolsa Transversal",
     "preco": 59.99,
@@ -333021,6 +334009,19 @@
     "criadoEm": "2026-05-06T00:18:28.9610566Z"
   },
   {
+    "id": 44129,
+    "titulo": "Glutamina Nutrisana 120ml C\u00E3es E Gatos - Mundo Animal",
+    "preco": 79.9,
+    "link": "https://s.shopee.com.br/qgzwvGGOU",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-81ztr-mim37kjk1r7qf9",
+    "ativo": true,
+    "score": 76,
+    "categoria": "glutamina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:22.4056550Z"
+  },
+  {
     "id": 40895,
     "titulo": "Creatina Turbo Black Skull  1kg - Creatine Monohidratada Turbo Caveira Preta - Refil",
     "preco": 79.9,
@@ -333541,6 +334542,19 @@
     "criadoEm": "2026-04-21T00:50:57.0054591Z"
   },
   {
+    "id": 44117,
+    "titulo": "GV - Glutamina Pura, Sabor Neutro, 100% Vegetal",
+    "preco": 99,
+    "link": "https://s.shopee.com.br/6L1wV1e09U",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lv-mlqm43n0xudg01",
+    "ativo": true,
+    "score": 76,
+    "categoria": "glutamina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:16.5854504Z"
+  },
+  {
     "id": 42849,
     "titulo": "Vestido longo elegante com botaos manga curto 6682",
     "preco": 99,
@@ -333864,6 +334878,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-06T11:50:19.6412991Z"
+  },
+  {
+    "id": 44119,
+    "titulo": "GLUTAMINA ISOLADA 500G - NUTRIFY",
+    "preco": 113.99,
+    "link": "https://s.shopee.com.br/40e1ik4Cxf",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbpiqshkioiv2e",
+    "ativo": true,
+    "score": 76,
+    "categoria": "glutamina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:18.3888729Z"
   },
   {
     "id": 14218,
@@ -338481,6 +339508,19 @@
     "criadoEm": "2026-05-18T13:37:31.2749951Z"
   },
   {
+    "id": 44040,
+    "titulo": "Mini Chapinha Port\u00E1til Bivolt Para Franja E Cabelos Curtos",
+    "preco": 16.55,
+    "link": "https://s.shopee.com.br/3qKbWNOC8t",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-moenfafsogzqaa",
+    "ativo": true,
+    "score": 75,
+    "categoria": "chapinha bivolt",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:27.5002755Z"
+  },
+  {
     "id": 27361,
     "titulo": "Gel Massageador Arnicol Sebo de Carneiro 50g Demazon Al\u00EDvio Muscular R\u00E1pido Relaxante Corporal",
     "preco": 16.59,
@@ -341417,6 +342457,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-19T00:34:58.4443555Z"
+  },
+  {
+    "id": 44094,
+    "titulo": "Kit 3 Garrafas T\u00E9rmicas Academia \u00C1gua Squeeze Esportiva Fitness BPA Free Port\u00E1til",
+    "preco": 21.9,
+    "link": "https://s.shopee.com.br/1gG6wR9N09",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mmw61xwb4m4i90",
+    "ativo": true,
+    "score": 75,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:03.5911173Z"
   },
   {
     "id": 34009,
@@ -346331,6 +347384,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-22T21:26:06.5217476Z"
+  },
+  {
+    "id": 44123,
+    "titulo": "Glutamina Turbo 150g Black Skull - Suplemento em p\u00F3 L-Glutamine Caveira Preta",
+    "preco": 31.9,
+    "link": "https://s.shopee.com.br/1qZX8lCSMS",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgmbfs4hd0ck70",
+    "ativo": true,
+    "score": 75,
+    "categoria": "glutamina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:19.9854260Z"
   },
   {
     "id": 21575,
@@ -352027,6 +353093,19 @@
     "criadoEm": "2026-04-22T00:58:17.0052019Z"
   },
   {
+    "id": 44105,
+    "titulo": "Garrafa T\u00E9rmica 500ml Com Al\u00E7a Strass De Luxo A\u00E7o Inoxidavel  Feminina #garrafa #t\u00E9rmica #academia #a\u00E7o AJ009",
+    "preco": 59,
+    "link": "https://s.shopee.com.br/9pbofS3RPQ",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk5z28n8a6mae7",
+    "ativo": true,
+    "score": 75,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:09.7389512Z"
+  },
+  {
     "id": 18390,
     "titulo": "Choco Pie Green Tea Lotte Caixa 12 Unidades Ch\u00E1 Verde Importado Coreano",
     "preco": 59,
@@ -353431,6 +354510,19 @@
     "criadoEm": "2026-05-19T00:14:55.7549614Z"
   },
   {
+    "id": 44074,
+    "titulo": "Caixa de Som Bluetooth Carro Retro Port\u00E1til com R\u00E1dio FM | Recarreg\u00E1vel USB, Mini Speaker Decorativo",
+    "preco": 71.3,
+    "link": "https://s.shopee.com.br/AAEf42QDUl",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zwb-mn65vrbiij9hc2",
+    "ativo": true,
+    "score": 75,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:49.3709482Z"
+  },
+  {
     "id": 5136,
     "titulo": "Chapinha Profissional 3 em 1 Bivolt 110/220V | Prancha \u002B Babyliss \u002B Ondulador | Aquece R\u00E1pid",
     "preco": 71.31,
@@ -354638,6 +355730,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-24T12:18:57.5605549Z"
+  },
+  {
+    "id": 44036,
+    "titulo": "Prancha Chapinha de Cabelo Nano Titanium  Bivolt 110V/220V",
+    "preco": 99.99,
+    "link": "https://s.shopee.com.br/70HdIC3Cck",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8225a-mhty641fsdtw24",
+    "ativo": true,
+    "score": 75,
+    "categoria": "chapinha bivolt",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:23.7953540Z"
   },
   {
     "id": 38397,
@@ -363831,6 +364936,19 @@
     "criadoEm": "2026-04-21T04:36:52.9027735Z"
   },
   {
+    "id": 44061,
+    "titulo": "Caixa de Som LED Bluetooth Magn\u00E9tica \u2013 Mini Speaker RGB, Port\u00E1til, \u00C0 Prova d\u2019\u00C1gua",
+    "preco": 23.99,
+    "link": "https://s.shopee.com.br/2qS4KYZIVm",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-820lv-mo4v0c419wxx60",
+    "ativo": true,
+    "score": 74,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:42.4648914Z"
+  },
+  {
     "id": 37481,
     "titulo": "Lumin\u00E1ria para quarto sem fio recarreg\u00E1vel LED Leitura arandela de parede abajur de cabeceira",
     "preco": 23.99,
@@ -367549,6 +368667,19 @@
     "criadoEm": "2026-04-23T18:25:31.6943168Z"
   },
   {
+    "id": 44066,
+    "titulo": "Mini Alto-falante de Travesseiro com Condu\u00E7\u00E3o \u00D3ssea Bluetooth - Modo Sono Silencioso Port\u00E1til com Temporizador",
+    "preco": 32.88,
+    "link": "https://s.shopee.com.br/4ftiVvl9eA",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-moimp50f9uyrd5",
+    "ativo": true,
+    "score": 74,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:46.0191306Z"
+  },
+  {
     "id": 33029,
     "titulo": "Kit 4 Pe\u00E7as Conjunto de Bolsas feminina sacola m\u00E9dia transversal de m\u00E3o Baguete pequena \u002B carteira Bag Clutch Promo\u00E7\u00E3o",
     "preco": 32.9,
@@ -368197,6 +369328,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-22T22:14:39.9332047Z"
+  },
+  {
+    "id": 44095,
+    "titulo": "Garrafa T\u00E9rmica de Bichinho em Inox 350ml Adulto e Infantil Trabalho Escola Academia",
+    "preco": 34.98,
+    "link": "https://s.shopee.com.br/5Apz6rw2u0",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd58-m7kv4dpv2cw7aa",
+    "ativo": true,
+    "score": 74,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:04.0769923Z"
   },
   {
     "id": 12327,
@@ -369835,6 +370979,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-19T00:19:16.3806925Z"
+  },
+  {
+    "id": 44168,
+    "titulo": "Kit 15 Pe\u00E7as de Escovas de Limpeza de Carro Luvas de Lavagem de Carro",
+    "preco": 39.99,
+    "link": "https://s.shopee.com.br/1VwgkBHSGW",
+    "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mfjiza1zmfpn40",
+    "ativo": true,
+    "score": 74,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:48.1897023Z"
   },
   {
     "id": 38308,
@@ -372489,6 +373646,19 @@
     "criadoEm": "2026-05-05T17:48:12.5491964Z"
   },
   {
+    "id": 44035,
+    "titulo": "Prancha de Cabelo e Chapinha Super Nano Titanium Optima 3000 BIVOLT Profissional 465\u00B0 F Ming",
+    "preco": 56.1,
+    "link": "https://s.shopee.com.br/3Vhl7l2Mjr",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-821g6-mgrqd4qt53wpae",
+    "ativo": true,
+    "score": 74,
+    "categoria": "chapinha bivolt",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:21.7457383Z"
+  },
+  {
     "id": 10623,
     "titulo": "Kit Completo para Hamster e Roedores Ra\u00E7\u00E3o Hamster - Produtos Hamster, Banho Seco, Forra\u00E7\u00E3o, Beb Hamster, Come Hamster",
     "preco": 56.8,
@@ -373113,6 +374283,19 @@
     "criadoEm": "2026-05-09T01:02:19.7238317Z"
   },
   {
+    "id": 44043,
+    "titulo": "Kit 5/10/15/18 Mini Chapinha Prancha De Cabelo Port\u00E1til Com Case Transporte Bivolt Estojo Entrega r\u00E1pida",
+    "preco": 62.9,
+    "link": "https://s.shopee.com.br/6L1wUyW8fG",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zu9-mmzcqitcefwh7e",
+    "ativo": true,
+    "score": 74,
+    "categoria": "chapinha bivolt",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:29.9030841Z"
+  },
+  {
     "id": 29687,
     "titulo": "Camisa gola Polo  Red B. Dry fit   Monster Premium Lan\u00E7amento",
     "preco": 62.91,
@@ -373202,6 +374385,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-19T10:44:40.5408961Z"
+  },
+  {
+    "id": 44058,
+    "titulo": "Caixa de Som Charge 3 MINI Bluetooth SD Pen Drive R\u00E1dio FM",
+    "preco": 63.99,
+    "link": "https://s.shopee.com.br/7fXK5R8iVV",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mofoh3zjbj0l67",
+    "ativo": true,
+    "score": 74,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:39.9771178Z"
   },
   {
     "id": 26471,
@@ -374138,6 +375334,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-06T11:44:21.3157172Z"
+  },
+  {
+    "id": 44077,
+    "titulo": "Caixa de Som Bluetooth Port\u00E1til Carro Retr\u00F4 | Mini Speaker Sem Fio, R\u00E1dio FM, USB, Recarreg\u00E1vel 3W",
+    "preco": 72.08,
+    "link": "https://s.shopee.com.br/4qD8iF6WC2",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zvi-mn65j1pxr9xg46",
+    "ativo": true,
+    "score": 74,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:51.3941814Z"
   },
   {
     "id": 24130,
@@ -375282,6 +376491,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T21:10:34.2434114Z"
+  },
+  {
+    "id": 44128,
+    "titulo": "Glutamina Glutamax 300g Vitafor Original",
+    "preco": 94.65,
+    "link": "https://s.shopee.com.br/1BJqLXEziW",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzqjojyfexed2d",
+    "ativo": true,
+    "score": 74,
+    "categoria": "glutamina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:22.0281141Z"
   },
   {
     "id": 8876,
@@ -385229,6 +386451,19 @@
     "criadoEm": "2026-05-19T13:46:37.7499135Z"
   },
   {
+    "id": 44103,
+    "titulo": "Garrafa Gal\u00E3o De \u00C1gua Monster 2L Com Al\u00E7a Refor\u00E7ada e Suporte Apoio Celular Squeeze Grande Academia",
+    "preco": 24.9,
+    "link": "https://s.shopee.com.br/902hfv6c65",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mlo2lntjf66c6f",
+    "ativo": true,
+    "score": 73,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:08.7555998Z"
+  },
+  {
     "id": 41008,
     "titulo": "Munhequeira Ortopedica De Alta Compress\u00E3o BIlatera Tensor de Academia Crossfit Tendinite",
     "preco": 24.9,
@@ -387920,6 +389155,19 @@
     "criadoEm": "2026-05-11T10:39:23.9297970Z"
   },
   {
+    "id": 44124,
+    "titulo": "Glutamina 300g Spartan Strong",
+    "preco": 29.9,
+    "link": "https://s.shopee.com.br/1gG6wSD5hR",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mo8hebnyf1mpb9",
+    "ativo": true,
+    "score": 73,
+    "categoria": "glutamina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:20.3599022Z"
+  },
+  {
     "id": 40928,
     "titulo": "Kit 2 Regatas Masculinas Esportivas Dry Fit P/ Academia Caminhadas Exercicios Fisicos",
     "preco": 29.9,
@@ -388856,6 +390104,19 @@
     "criadoEm": "2026-05-05T21:20:40.9267413Z"
   },
   {
+    "id": 44149,
+    "titulo": "Camiseta Brasil Unissex Estampada  Algod\u00E3o Conforto  P ao G Streetwer Premium",
+    "preco": 32.9,
+    "link": "https://s.shopee.com.br/4AxRv46bid",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkbcs0ovh24jca",
+    "ativo": true,
+    "score": 73,
+    "categoria": "camiseta masculina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:35.0758442Z"
+  },
+  {
     "id": 19897,
     "titulo": "Lampi\u00E3o Solar Led USB Lanterna Bateria Recarreg\u00E1vel Retr\u00E1til LK-5800 - LUATEK",
     "preco": 32.9,
@@ -389753,6 +391014,19 @@
     "criadoEm": "2026-05-05T23:49:02.4777750Z"
   },
   {
+    "id": 44100,
+    "titulo": "Garrafa T\u00E9rmica de A\u00E7o Inoxid\u00E1vel 600ml Boca Larga Grande Capacidade Bocal Direto Port\u00E1til Antivazamento Academia Escola",
+    "preco": 35.8,
+    "link": "https://s.shopee.com.br/8pjHTbi5T8",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-820og-mny9q5qsqkue12",
+    "ativo": true,
+    "score": 73,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:06.4817759Z"
+  },
+  {
     "id": 14741,
     "titulo": "Chinelo Nuvem Slide Feminino Confort\u00E1vel - Lindo, Anat\u00F4mico, Leve, Antiderrapante, Cores Variadas",
     "preco": 35.87,
@@ -390037,6 +391311,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T23:10:37.3669943Z"
+  },
+  {
+    "id": 44139,
+    "titulo": "Camisa Social Estampada xadrez Masculina manga curta festa junina 2026",
+    "preco": 36.9,
+    "link": "https://s.shopee.com.br/902hfwXqUQ",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134207-7rdwv-m0jd9ju43z4rc2",
+    "ativo": true,
+    "score": 73,
+    "categoria": "camiseta masculina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:29.2941778Z"
   },
   {
     "id": 30868,
@@ -411775,6 +413062,19 @@
     "criadoEm": "2026-05-05T17:23:30.4253087Z"
   },
   {
+    "id": 44153,
+    "titulo": "Camisa msculino xadrez Flanela manga longa",
+    "preco": 49.99,
+    "link": "https://s.shopee.com.br/9pbofU3FgM",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lul7laotlthw50",
+    "ativo": true,
+    "score": 72,
+    "categoria": "camiseta masculina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:38.0380757Z"
+  },
+  {
     "id": 42767,
     "titulo": "Bolsa Festa Transversal Feminina Com Detalhe De Glitter Forro Imperme\u00E1vel",
     "preco": 49.99,
@@ -415740,6 +417040,19 @@
     "criadoEm": "2026-04-23T18:23:50.6793416Z"
   },
   {
+    "id": 44132,
+    "titulo": "Camiseta Masculina e Feminina Dry Fit Amarelo-Azul Academia Corrida envio Imediato",
+    "preco": 149.9,
+    "link": "https://s.shopee.com.br/7pqkHnJRzy",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mnkva71wa9s0bd",
+    "ativo": true,
+    "score": 72,
+    "categoria": "camiseta masculina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:24.6971938Z"
+  },
+  {
     "id": 27303,
     "titulo": "Kit barras body pump \u002B Barra W \u002B par halteres de m\u00E3o 40 cm academia muscula\u00E7\u00E3o",
     "preco": 149.99,
@@ -416089,6 +417402,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-18T18:37:59.6922584Z"
+  },
+  {
+    "id": 44080,
+    "titulo": "Atacado Kit 12 Mini Caixa de Som Bluetooth Port\u00E1til 887 Com R\u00E1dio FM/ USB/ SD/ Grave Potente e Bateria Recarreg\u00E1vel",
+    "preco": 184,
+    "link": "https://s.shopee.com.br/2LVnjeG2Gn",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825zx-mlafolwg2zgh31",
+    "ativo": true,
+    "score": 72,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:52.7246348Z"
   },
   {
     "id": 24345,
@@ -418249,6 +419575,19 @@
     "criadoEm": "2026-05-08T13:04:18.4919729Z"
   },
   {
+    "id": 44087,
+    "titulo": "Garrafa De \u00C1gua Squeeze 350/600ml V\u00E1rias Cores Faculdade Academia Escola Resistente Tasil",
+    "preco": 13.49,
+    "link": "https://s.shopee.com.br/902hfuTyj6",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd3y-m6x118xelifm9a",
+    "ativo": true,
+    "score": 71,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:59.5356716Z"
+  },
+  {
     "id": 6256,
     "titulo": "Cabo Turbo Tipo C para iPhone Xiaomi Samsung USB 4 em 1 Turbo 65W/PD 27W Cabe\u00E7a de Metal Revestida de Nylon",
     "preco": 13.49,
@@ -418260,6 +419599,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-24T13:10:23.4861392Z"
+  },
+  {
+    "id": 44092,
+    "titulo": "Garrafa Vidro 400ml Al\u00E7a Squeeze Academia Colors \u00C1gua Ch\u00E1",
+    "preco": 13.5,
+    "link": "https://s.shopee.com.br/2VpDvy6CJE",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mo8qvuf15tz613",
+    "ativo": true,
+    "score": 71,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:02.8200364Z"
   },
   {
     "id": 5397,
@@ -421265,6 +422617,19 @@
     "criadoEm": "2026-05-08T15:25:32.2164254Z"
   },
   {
+    "id": 44060,
+    "titulo": "Receptor transmissor USB Bluetooth 5.0, mini adaptador de \u00E1udio sem fio 2 em 1. MJ",
+    "preco": 19.99,
+    "link": "https://s.shopee.com.br/7Ab3UWIniV",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mo5vax11v5s159",
+    "ativo": true,
+    "score": 71,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:41.9839691Z"
+  },
+  {
     "id": 41437,
     "titulo": "Joelheiras De Compress\u00E3o Estabilizadora Tensor Al\u00EDvio De Dor No Joelho 360\u00B0",
     "preco": 19.99,
@@ -421770,6 +423135,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T23:11:31.3460042Z"
+  },
+  {
+    "id": 44082,
+    "titulo": "Soft Flask 500ml Garrafa Dobr\u00E1vel para Corrida Academia Bike Trekking",
+    "preco": 20.9,
+    "link": "https://s.shopee.com.br/60P66OJXQJ",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-823rr-mojpccu1log021",
+    "ativo": true,
+    "score": 71,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:54.5192525Z"
   },
   {
     "id": 12018,
@@ -423083,6 +424461,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-18T18:16:08.0927854Z"
+  },
+  {
+    "id": 44164,
+    "titulo": "Kit Cristalizador \u002B Antiemba\u00E7ante Parabrisa Vidros Box Carro Vitrine",
+    "preco": 23.47,
+    "link": "https://s.shopee.com.br/4VaIJh62As",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-moh1rlz8n6dhc2",
+    "ativo": true,
+    "score": 71,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:46.5899218Z"
   },
   {
     "id": 29291,
@@ -427180,6 +428571,19 @@
     "criadoEm": "2026-04-24T19:47:22.7442582Z"
   },
   {
+    "id": 44079,
+    "titulo": "Caixa de Som Bluetooth Port\u00E1til Mini Speaker Sem Fio Som Potente Al\u00E7a para Viagem e Praia",
+    "preco": 34.9,
+    "link": "https://s.shopee.com.br/1BJqLVKTdQ",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mnzup78en18iea",
+    "ativo": true,
+    "score": 71,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:52.2332472Z"
+  },
+  {
     "id": 42148,
     "titulo": "Cal\u00E7a Legging com Bolso Lateral | Cintura Alta, N\u00E3o Fica Transparente, Ideal para Academia e Dia a Dia",
     "preco": 34.9,
@@ -429507,6 +430911,19 @@
     "criadoEm": "2026-05-05T21:49:17.6008772Z"
   },
   {
+    "id": 44160,
+    "titulo": "Kit 05 Pano Microfibra 60x80 Ch\u00E3o Carro Est\u00E9tica Automotiva Secagem Alta Absor\u00E7\u00E3o",
+    "preco": 47.49,
+    "link": "https://s.shopee.com.br/1qZX8n2zEN",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mlr9do4abthi93",
+    "ativo": true,
+    "score": 71,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:43.4646064Z"
+  },
+  {
     "id": 31950,
     "titulo": "Blusa Frio Unissex Moletom Canguru Algod\u00E3o Macio Qualidade Premium Conforto",
     "preco": 47.9,
@@ -431741,6 +433158,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-19T09:26:48.3042684Z"
+  },
+  {
+    "id": 44038,
+    "titulo": "Prancha de Cabelo e Chapinha Super Nano Titanium Optima 3000 BIVOLT Profissional 465\u00B0 F Ming",
+    "preco": 63.99,
+    "link": "https://s.shopee.com.br/6VLMhHE2j8",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mmzlqva9lse8a1",
+    "ativo": true,
+    "score": 71,
+    "categoria": "chapinha bivolt",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:26.4747728Z"
   },
   {
     "id": 42361,
@@ -434094,6 +435524,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-24T15:02:30.5593422Z"
+  },
+  {
+    "id": 44122,
+    "titulo": "Glutamina Pro - 300g - Max Titanium",
+    "preco": 119.99,
+    "link": "https://s.shopee.com.br/2qS4Kb8eKY",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg2o59dxquww97",
+    "ativo": true,
+    "score": 71,
+    "categoria": "glutamina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:19.5208928Z"
   },
   {
     "id": 42648,
@@ -439309,6 +440752,19 @@
     "criadoEm": "2026-05-05T20:39:36.8907115Z"
   },
   {
+    "id": 44068,
+    "titulo": "Mini Caixinha De Som De Metal Bluetooth Amplificada de 3W Potente m3 Tws",
+    "preco": 20.99,
+    "link": "https://s.shopee.com.br/7Ab3UWbdZp",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-822zl-mo8gyodpjldu92",
+    "ativo": true,
+    "score": 70,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:46.9066952Z"
+  },
+  {
     "id": 38328,
     "titulo": "Mini Aspirador De P\u00F3 3 em 1 a Vacuo Usb Port\u00E1til Recarregavel -SE8010",
     "preco": 20.99,
@@ -441766,6 +443222,19 @@
     "criadoEm": "2026-05-05T23:46:10.7889385Z"
   },
   {
+    "id": 44090,
+    "titulo": "Garrafa T\u00E9rmica 1 Litro A\u00E7o Inox Com Al\u00E7a De M\u00E3o Academia Camping Trabalho Grande",
+    "preco": 28.49,
+    "link": "https://s.shopee.com.br/2VpDvxsivF",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-822yi-moa5z3jvsow941",
+    "ativo": true,
+    "score": 70,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:01.0095308Z"
+  },
+  {
     "id": 14916,
     "titulo": "SAND\u00C1LIA FEMININA ADULTA CONFORT\u00C1VEL",
     "preco": 28.5,
@@ -441790,6 +443259,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T21:51:37.9649317Z"
+  },
+  {
+    "id": 44101,
+    "titulo": "Garrafa Squeeze 1 Litro Pl\u00E1stico BPA Free com Canudo Tampa Trava Seguran\u00E7a e Cord\u00E3o",
+    "preco": 28.78,
+    "link": "https://s.shopee.com.br/8Kn0sgjzU5",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mlyz80way13a44",
+    "ativo": true,
+    "score": 70,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:06.9057677Z"
   },
   {
     "id": 17555,
@@ -449941,6 +451423,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-13T12:14:52.2019695Z"
+  },
+  {
+    "id": 44127,
+    "titulo": "Glutamax Vitafor Glutamina 600g Refil L-Glutamina",
+    "preco": 125.99,
+    "link": "https://s.shopee.com.br/W49YJHX4K",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mmvtfg4oc3cwaa",
+    "ativo": true,
+    "score": 70,
+    "categoria": "glutamina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:21.6110026Z"
   },
   {
     "id": 13368,
@@ -458380,6 +459875,19 @@
     "criadoEm": "2026-05-09T10:38:15.8132561Z"
   },
   {
+    "id": 44104,
+    "titulo": "Squeeze Personaliado Garrafa De \u00C1gua Alum\u00EDnio 800ml Com Canudo e Bico Flip - Academia Treino",
+    "preco": 29.8,
+    "link": "https://s.shopee.com.br/8pjHTc7FR4",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjy9ztjz1s763b",
+    "ativo": true,
+    "score": 69,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:09.1066590Z"
+  },
+  {
     "id": 34406,
     "titulo": "Mochila Bolsa Viagem Resistente Coreana Masculina Feminina Colorida Vermelha",
     "preco": 29.8,
@@ -460380,6 +461888,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-06T00:19:38.9955398Z"
+  },
+  {
+    "id": 44121,
+    "titulo": "Glutamina 100% Pura 300g - G7 Legacy",
+    "preco": 39,
+    "link": "https://s.shopee.com.br/4qD8iH12Gs",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7qvcp-ljzqu7u6gz1242",
+    "ativo": true,
+    "score": 69,
+    "categoria": "glutamina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:19.1237963Z"
   },
   {
     "id": 6826,
@@ -465593,6 +467114,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-18T23:41:33.7119875Z"
+  },
+  {
+    "id": 44133,
+    "titulo": "Camiseta Esportiva Masculina E Feminina Azul-Amarela Dry Fit Gola V - MODELO CASUAL CONFORTAVEL",
+    "preco": 125,
+    "link": "https://s.shopee.com.br/7fXK5UK5Kx",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mp00juloi1hi34",
+    "ativo": true,
+    "score": 69,
+    "categoria": "camiseta masculina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:25.1163996Z"
   },
   {
     "id": 5002,
@@ -473406,6 +474940,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T21:19:57.7586076Z"
+  },
+  {
+    "id": 44146,
+    "titulo": "Camisetas Feminina copa Brasil 100% algod\u00E3o",
+    "preco": 29.05,
+    "link": "https://s.shopee.com.br/902hfwoCuF",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-82635-mke08ipppipu80",
+    "ativo": true,
+    "score": 68,
+    "categoria": "camiseta masculina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:33.7428734Z"
   },
   {
     "id": 15093,
@@ -484302,6 +485849,19 @@
     "criadoEm": "2026-05-19T12:06:34.2886617Z"
   },
   {
+    "id": 44039,
+    "titulo": "Escova Alisadora de Cabelos Multifuncional com Display Chapinha e Modelador de Cachos Bivolt",
+    "preco": 20.8,
+    "link": "https://s.shopee.com.br/3LOKvSQ69k",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me7g0bf92w3n36",
+    "ativo": true,
+    "score": 67,
+    "categoria": "chapinha bivolt",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:27.0921475Z"
+  },
+  {
     "id": 27233,
     "titulo": "20 Conector Borne P4 10 Macho e 10 Fema C\u00E2mera e Fita Led",
     "preco": 20.88,
@@ -485080,6 +486640,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-08T13:04:40.9530739Z"
+  },
+  {
+    "id": 44055,
+    "titulo": "Mini Chapinha Modeladora Port\u00E1til Bivolt Ideal para Viagens, Ajuste R\u00E1pido e Alisamento Profissional",
+    "preco": 24,
+    "link": "https://s.shopee.com.br/1qZX8i8vOU",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-mo026xj2fhfoc6",
+    "ativo": true,
+    "score": 67,
+    "categoria": "chapinha bivolt",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:35.8207094Z"
   },
   {
     "id": 34006,
@@ -486889,6 +488462,19 @@
     "criadoEm": "2026-05-05T23:39:01.0069971Z"
   },
   {
+    "id": 44053,
+    "titulo": "Prancha de Cabelo e Chapinha Super Nano Titanium Optima 3000 BIVOLT Profissional 465\u00B0 F",
+    "preco": 31.99,
+    "link": "https://s.shopee.com.br/3qKbWO1JKo",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdy8-mc5umtzpev2wac",
+    "ativo": true,
+    "score": 67,
+    "categoria": "chapinha bivolt",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:35.0255356Z"
+  },
+  {
     "id": 28250,
     "titulo": "Carregador De Carro Turbo 250W 12v Para 5 Portas Carga R\u00E1pida Turbo1 USB-C 2 USB 2.0",
     "preco": 31.99,
@@ -487823,6 +489409,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-14T13:28:28.5470594Z"
+  },
+  {
+    "id": 44142,
+    "titulo": "Camiseta Masculina e Feminina Copa Do Mundo Brasil Camisa 10 Modelo Unissex Torcida",
+    "preco": 38.71,
+    "link": "https://s.shopee.com.br/6L1wV2hzuA",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-820o9-mnft6ssv7ifa92",
+    "ativo": true,
+    "score": 67,
+    "categoria": "camiseta masculina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:30.5571222Z"
   },
   {
     "id": 21764,
@@ -490566,6 +492165,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-08T16:14:22.2204792Z"
+  },
+  {
+    "id": 44167,
+    "titulo": "Kit Limpeza Carro Escova Girat\u00F3ria Microfibra Lavagem R\u00E1pida Sem Energia Automotivo",
+    "preco": 69.9,
+    "link": "https://s.shopee.com.br/gNZkeKcxJ",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-823r5-molccv36u22ofc",
+    "ativo": true,
+    "score": 67,
+    "categoria": "kit limpeza carro",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:47.7841790Z"
   },
   {
     "id": 42687,
@@ -499902,6 +501514,19 @@
     "criadoEm": "2026-05-06T00:03:53.6257760Z"
   },
   {
+    "id": 44044,
+    "titulo": "Prancha de Cabelo e Chapinha Super Nano Titanium Optima 3000 BIVOLT Profissional 465\u00B0 F",
+    "preco": 47.97,
+    "link": "https://s.shopee.com.br/2g8e8Ek66i",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-822y7-mo5wxbd5vrwhe7",
+    "ativo": true,
+    "score": 66,
+    "categoria": "chapinha bivolt",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:30.4177796Z"
+  },
+  {
     "id": 35722,
     "titulo": "LUVAS PROTE\u00C7\u00C3O MOTOBOY MOTOQUEIRO ciclista bike dedo fechado ROCKET SHIVER PRETO PAR",
     "preco": 48,
@@ -500550,6 +502175,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T21:48:23.5466665Z"
+  },
+  {
+    "id": 44118,
+    "titulo": "Glutamina 300g Integral Medica Pote 100% Pura - Melhora de Imunidade",
+    "preco": 59.9,
+    "link": "https://s.shopee.com.br/4AxRv33Zcg",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-lilr77rw662d8a",
+    "ativo": true,
+    "score": 66,
+    "categoria": "glutamina",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:17.9704275Z"
   },
   {
     "id": 41883,
@@ -505830,6 +507468,19 @@
     "criadoEm": "2026-05-05T15:21:39.7359559Z"
   },
   {
+    "id": 44046,
+    "titulo": "Modelador Cabelo Mola Bivolt 110/220V, Chapinha Cachos Aquecimento R\u00E1pido | Envio Imediato",
+    "preco": 20.99,
+    "link": "https://s.shopee.com.br/3B4uj9iC5r",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-82603-mjpb99ad3nrb41",
+    "ativo": true,
+    "score": 65,
+    "categoria": "chapinha bivolt",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:31.1793883Z"
+  },
+  {
     "id": 39525,
     "titulo": "Fone Intra-Auricular Sem Fio Bluetooth i12 Tws Inpods Macaron",
     "preco": 20.99,
@@ -506309,6 +507960,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T18:53:25.0410014Z"
+  },
+  {
+    "id": 44086,
+    "titulo": "Coqueteleria Shakeira Academia Garrafa 500 ml",
+    "preco": 23.75,
+    "link": "https://s.shopee.com.br/2LVnjegISx",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-822yc-mo9sovb4j09a63",
+    "ativo": true,
+    "score": 65,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:57.9686366Z"
   },
   {
     "id": 41577,
@@ -508404,6 +510068,19 @@
     "criadoEm": "2026-05-05T23:30:50.9283480Z"
   },
   {
+    "id": 44088,
+    "titulo": "Garrafa T\u00E9rmica de \u00C1gua Inox 650ml/550ml com Al\u00E7a e Canudo, Copo T\u00E9rmico, Garrafa T\u00E9rmica para \u00C1gua e Academia",
+    "preco": 34.9,
+    "link": "https://s.shopee.com.br/8fPrHIVFP4",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mp2ok9i7n7czec",
+    "ativo": true,
+    "score": 65,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:59.9049246Z"
+  },
+  {
     "id": 22212,
     "titulo": "Bolsa De Praia Feminina Imperme\u00E1vel Ver\u00E3o Summer Sacola Praia Piscina Transparente Grande com N\u00E9cessaire",
     "preco": 34.9,
@@ -509821,6 +511498,19 @@
     "criadoEm": "2026-05-08T19:53:09.4821616Z"
   },
   {
+    "id": 44051,
+    "titulo": "Chapinha Profissional 220\u00B0C Bivolt Prancha Alisadora Cer\u00E2mica Anti Frizz Efeito Sal\u00E3o",
+    "preco": 47.9,
+    "link": "https://s.shopee.com.br/8ATagLP9xI",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mn3p4e0ddzwgbd",
+    "ativo": true,
+    "score": 65,
+    "categoria": "chapinha bivolt",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:33.4086481Z"
+  },
+  {
     "id": 29191,
     "titulo": "Shakeira Dupla Inox 900ml Coqueteleira Academia Misturador",
     "preco": 47.92,
@@ -509936,6 +511626,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-24T11:01:52.7508625Z"
+  },
+  {
+    "id": 44050,
+    "titulo": "Chapinha Alisadora Ceramica De Cabelo 4 Temperaturas Bivolt",
+    "preco": 49.2,
+    "link": "https://s.shopee.com.br/AUrVSdGHDi",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7renm-m90tzc6q1u4g94",
+    "ativo": true,
+    "score": 65,
+    "categoria": "chapinha bivolt",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:33.0335132Z"
   },
   {
     "id": 37870,
@@ -512304,6 +514007,19 @@
     "criadoEm": "2026-05-08T21:03:11.1442694Z"
   },
   {
+    "id": 44047,
+    "titulo": "Chapinha Philco Ceramic Black, Preto - Bivolt",
+    "preco": 103.9,
+    "link": "https://s.shopee.com.br/W49YFsLVb",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zuk-mily66mwxmh4c2",
+    "ativo": true,
+    "score": 65,
+    "categoria": "chapinha bivolt",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:31.8416904Z"
+  },
+  {
     "id": 13019,
     "titulo": "Produto novo de grande sucesso no mercado internacional, direto do fabricante, peruca de cabelo sint\u00E9tico curto, cachead",
     "preco": 105.07,
@@ -514083,6 +515799,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-08T18:44:56.8500414Z"
+  },
+  {
+    "id": 44054,
+    "titulo": "Chapinha Mini Port\u00E1til Bivolt \u2013 Ideal para Bolsa, Viagem e Franja .",
+    "preco": 12.99,
+    "link": "https://s.shopee.com.br/1LdGXnApPN",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-820om-mnucxvmpwcg819",
+    "ativo": true,
+    "score": 64,
+    "categoria": "chapinha bivolt",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:35.4659727Z"
   },
   {
     "id": 36806,
@@ -517387,6 +519116,19 @@
     "criadoEm": "2026-05-05T15:49:21.8359415Z"
   },
   {
+    "id": 44106,
+    "titulo": "Garrafa T\u00E9rmica Inox Academia 350ml 500ml 750ml 1200ml Mant\u00E9m Gelado Quente",
+    "preco": 40.3,
+    "link": "https://s.shopee.com.br/9fIOT944kP",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfjrfti89og40f",
+    "ativo": true,
+    "score": 64,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:10.0899595Z"
+  },
+  {
     "id": 27011,
     "titulo": "Caderno Universit\u00E1rio 1 M\u00E1teria Grande A4 Discos Inteligentes 80 Folhas Brancas Pautadas Capa Dura - Cor Preto",
     "preco": 40.49,
@@ -517398,6 +519140,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-08T19:53:26.4461690Z"
+  },
+  {
+    "id": 44033,
+    "titulo": "Prancha Chapinha Alisadora Proficional 450\u00B0F / 232\u00B0C AZUL BIVOLT PRONTA PARA ENVIA",
+    "preco": 40.99,
+    "link": "https://s.shopee.com.br/gNZkY0umj",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljr4fendvkird2",
+    "ativo": true,
+    "score": 64,
+    "categoria": "chapinha bivolt",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:19.0050746Z"
   },
   {
     "id": 18789,
@@ -518232,6 +519987,19 @@
     "criadoEm": "2026-05-05T23:53:41.0247630Z"
   },
   {
+    "id": 44045,
+    "titulo": "Prancha De Cer\u00E2mica Chapinha Leve Compacta At\u00E9 230\u00B0c Bivolt",
+    "preco": 59.88,
+    "link": "https://s.shopee.com.br/30lUWqipQo",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdvw-mddis8dljmm8ed",
+    "ativo": true,
+    "score": 64,
+    "categoria": "chapinha bivolt",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:30.7904289Z"
+  },
+  {
     "id": 40917,
     "titulo": "casaco camisa de elasticidade fitness academia corrida treino passeio",
     "preco": 59.9,
@@ -518360,6 +520128,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-12T17:13:05.2696460Z"
+  },
+  {
+    "id": 44042,
+    "titulo": "Chapinha \u002B Secador de Cabelo Bivolt 110 / 220V - Nano Titanium e 3200W Profissional",
+    "preco": 65.96,
+    "link": "https://s.shopee.com.br/5Apz6pJ7RH",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdws-mbp20d7ilnpy69",
+    "ativo": true,
+    "score": 64,
+    "categoria": "chapinha bivolt",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:28.3239448Z"
   },
   {
     "id": 22271,
@@ -519181,6 +520962,19 @@
     "criadoEm": "2026-05-05T22:55:18.8123996Z"
   },
   {
+    "id": 44048,
+    "titulo": "Prancha Alisadora Mondial P-27 Bivolt 127/220 Chapinha Profissional Alisa R\u00E1pido Preto Golden Rose",
+    "preco": 99.99,
+    "link": "https://s.shopee.com.br/1BJqLTpo9n",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk3pkm5fz4e983",
+    "ativo": true,
+    "score": 64,
+    "categoria": "chapinha bivolt",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:32.2415496Z"
+  },
+  {
     "id": 11869,
     "titulo": "Cafeteira Port\u00E1til Manual Cape Coffee Capsula Ou Em P\u00F3",
     "preco": 100,
@@ -519753,6 +521547,19 @@
     "criadoEm": "2026-05-12T00:56:04.3923243Z"
   },
   {
+    "id": 44049,
+    "titulo": "Prancha Chapinha Cer\u00E2mica Taiff Profissional 180\u00B0 Cabelo Liso Bivolt Preto 110V/220V",
+    "preco": 147,
+    "link": "https://s.shopee.com.br/9UyyGnK5FQ",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m18lf60zgp4205",
+    "ativo": true,
+    "score": 64,
+    "categoria": "chapinha bivolt",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:32.6046618Z"
+  },
+  {
     "id": 40494,
     "titulo": "Par Anilhas Emborrachado 5Kg \u2013 Peso para Academia, Treino em Casa e Muscula\u00E7\u00E3o",
     "preco": 147.9,
@@ -519777,6 +521584,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-18T23:16:58.3544837Z"
+  },
+  {
+    "id": 44056,
+    "titulo": "Chapinha Prancha De Cabelo Taiff Cl\u00E1ssica Cer\u00E2mica 180 graus Preta bivolt",
+    "preco": 151.77,
+    "link": "https://s.shopee.com.br/20sxL18I3Z",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-lgo2wrqwdeie7f",
+    "ativo": true,
+    "score": 64,
+    "categoria": "chapinha bivolt",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:36.2278535Z"
   },
   {
     "id": 8750,
@@ -523198,6 +525018,19 @@
     "criadoEm": "2026-05-10T03:46:04.2678822Z"
   },
   {
+    "id": 44069,
+    "titulo": "Mini Caixa De Som Tws InPods Bluetooth Macaron Colorido Mini Spkear",
+    "preco": 23.14,
+    "link": "https://s.shopee.com.br/7fXK5RZjYy",
+    "imagem": "https://cf.shopee.com.br/file/3422cf0e87f6219023eae85e43d0ca5d",
+    "ativo": true,
+    "score": 63,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:47.3090722Z"
+  },
+  {
     "id": 2876,
     "titulo": "Wax Melts Premium - Pastilhas Arom\u00E1ticas para Difusor - Cera Natural",
     "preco": 23.78,
@@ -525109,6 +526942,19 @@
     "criadoEm": "2026-05-05T21:46:33.9668866Z"
   },
   {
+    "id": 44037,
+    "titulo": "Chapinha Nano Titanium Profissional 450\u00B0f 4Forte Prancha Alisador Progressiva de Cabelo 110V/220V Bivolt",
+    "preco": 34.99,
+    "link": "https://s.shopee.com.br/60P66MFwk1",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-820lz-mnobzomghqf51a",
+    "ativo": true,
+    "score": 63,
+    "categoria": "chapinha bivolt",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:26.1113111Z"
+  },
+  {
     "id": 34176,
     "titulo": "Rolo Bast\u00E3o Massageador de Silicone P/ Tratamento de Celulite Relaxante Modelador Terapia Corporal",
     "preco": 34.99,
@@ -525523,6 +527369,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T21:51:04.8498352Z"
+  },
+  {
+    "id": 44093,
+    "titulo": "Copo T\u00E9rmico Inox 1,2L com Al\u00E7a e Canudo, Tampa Vedada Antivazamento, Base Compat\u00EDvel com Porta-Copos, A\u00E7o Inox 304 Test",
+    "preco": 39.59,
+    "link": "https://s.shopee.com.br/20sxL386KB",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mp0uatn1hc0613",
+    "ativo": true,
+    "score": 63,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:03.2186606Z"
   },
   {
     "id": 22912,
@@ -528526,6 +530385,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-18T15:56:26.9617549Z"
+  },
+  {
+    "id": 44052,
+    "titulo": "Chapinha Alisadora e Progressiva Profissional Lizz Neo Titanium 230\u00B0C Anti Frizz Bivolt",
+    "preco": 176.9,
+    "link": "https://s.shopee.com.br/30lUWr4U1b",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mo738q8i5jia71",
+    "ativo": true,
+    "score": 63,
+    "categoria": "chapinha bivolt",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:34.6275469Z"
   },
   {
     "id": 33666,
@@ -534664,6 +536536,19 @@
     "criadoEm": "2026-05-11T03:07:21.0779146Z"
   },
   {
+    "id": 44096,
+    "titulo": "Kit Garrafa 3 em 1 Copo 1800ml Garrafa 800ml 270ml Academia Escola Praia BPA Free",
+    "preco": 19,
+    "link": "https://s.shopee.com.br/40e1ij0UGt",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zuj-mmw807jusveqf5",
+    "ativo": true,
+    "score": 61,
+    "categoria": "garrafa academia",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:41:04.5430452Z"
+  },
+  {
     "id": 42139,
     "titulo": "Chiclets Adams Morango Sem A\u00E7\u00FAcar Importado 16,8g",
     "preco": 19,
@@ -535782,6 +537667,19 @@
     "criadoEm": "2026-05-05T21:46:46.7588415Z"
   },
   {
+    "id": 44034,
+    "titulo": "Escova Alisadora Anion Hair Pro 3 em 1 , Secador, Chapinha e Modelador de Cachos Bivolt",
+    "preco": 30.99,
+    "link": "https://s.shopee.com.br/9KfY4Tg9te",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljvmd378nyjn0f",
+    "ativo": true,
+    "score": 61,
+    "categoria": "chapinha bivolt",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:20.9347999Z"
+  },
+  {
     "id": 11325,
     "titulo": "Removedor De Cravos Espinhas Cleaning Sugador Poros Acne Suc\u00E7\u00E3o Usb Recarreg\u00E1vel",
     "preco": 31.11,
@@ -536885,6 +538783,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-18T17:29:18.1816615Z"
+  },
+  {
+    "id": 44032,
+    "titulo": "Escova Alisadora Anion Hair Pro 3 em 1 , Secador, Chapinha e Modelador de Cachos Bivolt",
+    "preco": 58.99,
+    "link": "https://s.shopee.com.br/8fPrHFWSY0",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljvkljrehicmc2",
+    "ativo": true,
+    "score": 61,
+    "categoria": "chapinha bivolt",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:18.1594170Z"
   },
   {
     "id": 36258,
@@ -547898,6 +549809,19 @@
     "criadoEm": "2026-04-24T12:44:19.8957513Z"
   },
   {
+    "id": 44041,
+    "titulo": "Prancha de Cabelo Profissional e Chapinha Progressiva Nano Titanium Original Bivolt \u002B Protetor T\u00E9rmico Liso Obrigat\u00F3rio",
+    "preco": 99.99,
+    "link": "https://s.shopee.com.br/4ftiVuL1S8",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-ml84ynzfikn9c2",
+    "ativo": true,
+    "score": 59,
+    "categoria": "chapinha bivolt",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:27.9225641Z"
+  },
+  {
     "id": 9861,
     "titulo": "Cook Home Organizador Para Rolo De Papel Com Serrilha Para Corte Utilidade Domestica Casa e Cozinha",
     "preco": 100.9,
@@ -552433,6 +554357,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-04-20T22:51:15.4434287Z"
+  },
+  {
+    "id": 44064,
+    "titulo": "12V/220 800W Mini bluetooth Hi-Fi Amplificadores De Pot\u00EAncia De \u00C1udio Para Carro Amplificador Est\u00E9reo 4 Canais Casa",
+    "preco": 81.13,
+    "link": "https://s.shopee.com.br/8ATagMEzhK",
+    "imagem": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m477b3fqcuh5c2",
+    "ativo": true,
+    "score": 58,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:44.2915854Z"
   },
   {
     "id": 5057,
@@ -560740,6 +562677,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-18T17:59:38.5589965Z"
+  },
+  {
+    "id": 44081,
+    "titulo": "caixinha de som port\u00E1til bluetooth 5.0 mini",
+    "preco": 23.99,
+    "link": "https://s.shopee.com.br/20sxL2HIwl",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mn59fg0oeade31",
+    "ativo": true,
+    "score": 54,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:53.1268842Z"
   },
   {
     "id": 36163,
@@ -570529,6 +572479,19 @@
     "desconto": "",
     "precoOriginal": null,
     "criadoEm": "2026-05-05T21:04:00.7424610Z"
+  },
+  {
+    "id": 44062,
+    "titulo": "\u3010Pacote de Presente\u3011Alto-Falante Bluetooth Mini Colorido com Luz RGB \u002B Diagragma Met\u00E1lico  \u002B Port\u00E1til \u002B Modos V\u00E1rios",
+    "preco": 66,
+    "link": "https://s.shopee.com.br/4AxRv0UDoA",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-820m4-mminck7axp8kb1",
+    "ativo": true,
+    "score": 48,
+    "categoria": "mini speaker bluetooth",
+    "desconto": "",
+    "precoOriginal": null,
+    "criadoEm": "2026-06-09T13:40:43.0016038Z"
   },
   {
     "id": 13933,
