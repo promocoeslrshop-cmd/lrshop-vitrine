@@ -675,9 +675,9 @@
   </div>
 
   <script>
-    const JSON_URL = "produtos.json";
-    const CACHE_KEY = "lrshop_vitrine_cache_v8";
-    const CACHE_TIME_KEY = "lrshop_vitrine_cache_time_v8";
+    const CACHE_KEY = "lrshop_vitrine_cache_v9";
+    const CACHE_TIME_KEY = "lrshop_vitrine_cache_time_v9";
+    const MAX_JSON_PARTS = 50;
     const CACHE_MAX_AGE_MS = 1000 * 60 * 15;
     const PAGE_SIZE = 24;
     const HIGHLIGHT_ROTATION_MS = 10000;
@@ -1021,29 +1021,93 @@
       }
     }
 
-    async function fetchLatestProducts() {
-      const tentativas = [
-        "produtos.json",
-        "./produtos.json",
-        "/produtos.json",
-        "/vitrine/produtos.json"
+    function buildJsonCandidates(fileName) {
+      return [
+        fileName,
+        `./${fileName}`,
+        `/vitrine/${fileName}`
       ];
+    }
 
+    async function fetchJsonFile(fileName, obrigatorio = false) {
       let ultimoErro = null;
 
-      for (const url of tentativas) {
+      for (const url of buildJsonCandidates(fileName)) {
         try {
           const response = await fetch(`${url}?v=${Date.now()}`, { cache: "no-store" });
-          if (!response.ok) continue;
+
+          if (!response.ok) {
+            ultimoErro = new Error(`${fileName}: HTTP ${response.status}`);
+            continue;
+          }
 
           const data = await response.json();
-          if (Array.isArray(data)) return data;
+
+          if (Array.isArray(data)) {
+            return data;
+          }
+
+          ultimoErro = new Error(`${fileName}: JSON inválido`);
         } catch (err) {
           ultimoErro = err;
         }
       }
 
-      throw ultimoErro || new Error("Falha ao carregar JSON");
+      if (obrigatorio) {
+        throw ultimoErro || new Error(`Falha ao carregar ${fileName}`);
+      }
+
+      return null;
+    }
+
+    function juntarSemDuplicar(listas) {
+      const mapa = new Map();
+
+      for (const lista of listas) {
+        if (!Array.isArray(lista)) continue;
+
+        for (const produto of lista) {
+          if (!produto) continue;
+
+          const chave = String(
+            produto.id ||
+            produto.link ||
+            `${produto.titulo || ""}_${produto.preco || ""}`
+          );
+
+          if (!mapa.has(chave)) {
+            mapa.set(chave, produto);
+          }
+        }
+      }
+
+      return [...mapa.values()];
+    }
+
+    async function fetchLatestProducts() {
+      const listas = [];
+
+      // Produtos gerais quebrados em partes:
+      // produtos.json, produtos1.json, produtos2.json...
+      for (let i = 0; i < MAX_JSON_PARTS; i++) {
+        const fileName = i === 0 ? "produtos.json" : `produtos${i}.json`;
+        const data = await fetchJsonFile(fileName, i === 0);
+
+        if (!data) {
+          break;
+        }
+
+        listas.push(data);
+      }
+
+      // Junta também AliExpress separado.
+      // Se já existir no produtos.json, remove duplicado pelo id/link.
+      const aliexpress = await fetchJsonFile("produtos-aliexpress.json", false);
+      if (aliexpress) {
+        listas.push(aliexpress);
+      }
+
+      return juntarSemDuplicar(listas);
     }
 
     async function loadProducts() {
